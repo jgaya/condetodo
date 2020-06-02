@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'vtc_letterer_proregular';
+    src: url('VTC_letterer_pro-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cartwheel';
+    src: url('Cartwheel.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ComicRelief';
+    src: url('ComicRelief.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'helsinki';
+    src: url('helsinki.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}

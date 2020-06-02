@@ -17,13 +17,31 @@ class Blog extends React.Component {
       <Layout location={this.props.location} title={siteTitle}>
         <SEO title="All posts" />
         <Bio />
-        <div style={{ margin: "20px 0 40px" }}>
+        <div style={{ 
+          margin: "20px 0 40px",
+          display: 'grid',
+          gridTemplateColumns: 'repeat(4, 1fr)',
+          gap: '5px 10px',
+          padding: 5,
+          background: '#fff',
+          }}>
           {posts.map(({ node }) => {
             const title = node.frontmatter.title || node.fields.slug
             return (
-              <div key={node.fields.slug}>
+              <div key={node.fields.slug} style={{
+                border: '1px solid black',
+                height: 'auto',
+                background: '#2f3238',
+                boxShadow: '0 0 5px 2px black',
+              }}>
                 <h3
                   style={{
+                    background: 'rgba(0,0,0,0.4)',
+                    color: '#fff',
+                    fontFamily: 'vtc_letterer_proregular',
+                    fontSize: '22px',
+                    padding: '0.5em',
+                    marginTop: 0,
                     marginBottom: rhythm(1 / 4),
                   }}
                 >
@@ -34,12 +52,14 @@ class Blog extends React.Component {
                     {title}
                   </Link>
                 </h3>
-                <small>{node.frontmatter.date}</small>
-                <p
-                  dangerouslySetInnerHTML={{
-                    __html: node.frontmatter.description || node.excerpt,
-                  }}
-                />
+                <div style={{ padding: 5 , background: `url(${node.frontmatter.thumbnail})`}}>
+                  <small>{node.frontmatter.date}</small>
+                  <p style={{ margin: 0 }}
+                    dangerouslySetInnerHTML={{
+                      __html: node.frontmatter.description || node.excerpt,
+                    }}
+                  />
+                </div>
               </div>
             )
           })}

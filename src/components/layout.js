@@ -11,7 +11,7 @@ class Layout extends React.Component {
     const blogPath = `${__PATH_PREFIX__}/blog/`
     let header
 
-    if (location.pathname === rootPath || location.pathname === blogPath) {
+   /* if (location.pathname === rootPath || location.pathname === blogPath) {
       header = (
         <h1
           style={{
@@ -32,38 +32,45 @@ class Layout extends React.Component {
           </Link>
         </h1>
       )
-    } else {
+    } else { */
       header = (
-        <h3
-          style={{
-            fontFamily: `Montserrat, sans-serif`,
-            marginTop: 0,
-          }}
-        >
-          <Link
+        <React.Fragment>
+          <h3
             style={{
-              boxShadow: `none`,
-              textDecoration: `none`,
-              color: `inherit`,
+              fontFamily: `helsinki, sans-serif`,
+              marginTop: 0,
+              transform: `rotate(-5deg)`,
+              textAlign: `center`,
             }}
-            to={`/blog/`}
           >
-            {title}
-          </Link>
-        </h3>
+            <Link
+              style={{
+                boxShadow: `none`,
+                textDecoration: `none`,
+                fontSize: `90px`,
+                color: `#FF9800`,
+                textShadow: `-7px 7px 2px #FFF`,
+              }}
+              to={location.pathname === blogPath ? `/blog/` : `/`}
+            >
+              {title}
+            </Link>
+          </h3>
+          <h4 style={{ textAlign: `center`, marginTop: 0, fontFamily: `vtc_letterer_proregular, sans-serif`, fontSize: `28px`, color: '#ddd' }}>Posteando Con de Todo</h4>
+        </React.Fragment>
       )
-    }
+    // }
     return (
       <Wrapper>
         <div
           style={{
             marginLeft: `auto`,
             marginRight: `auto`,
-            maxWidth: rhythm(24),
+            maxWidth: `90%`,
             padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
           }}
         >
-          <header>{header}</header>
+          <header style={{ marginLeft: `auto`, marginRight: `auto`}}>{header}</header>
           <main>{children}</main>
         </div>
         <Footer>
