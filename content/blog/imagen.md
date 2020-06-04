@@ -17,7 +17,7 @@ asd
 
 
 
-![](assets/numero1.jpg "numero1")
+![](/assets/numero1.jpg "numero1")
 
 ```
 asdasd
