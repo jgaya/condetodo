@@ -28,7 +28,7 @@ class Blog extends React.Component {
           }}>
           {posts.map(({ node }) => {
             const title = node.frontmatter.title || node.fields.slug;
-            const img = node.frontmatter.thumbnail ? node.frontmatter.thumbnail.childImageSharp.fluid.src : '';
+            const img = `/${node.frontmatter.thumbnail}` // ? node.frontmatter.thumbnail.childImageSharp.fluid.src : '';
             return (
               <div key={node.fields.slug} style={{
                 // border: '1px solid black',
@@ -67,7 +67,7 @@ class Blog extends React.Component {
                     <div>
                       <p>{node.frontmatter.date}</p>
                       <p>{node.frontmatter.description || node.excerpt}</p>
-                      <p><a href={`${node.fields.slug}`}>Would you like to know more?</a></p>
+                      <p><a href={`blog${node.fields.slug}`}>Would you like to know more?</a></p>
                     </div>
                   </figcaption>			
                 </figure>
@@ -104,16 +104,7 @@ export const pageQuery = graphql`
             date(formatString: "MMMM DD, YYYY")
             title
             description
-            thumbnail {
-              childImageSharp {
-                fixed(width: 50, height: 50) {
-                  ...GatsbyImageSharpFixed
-                }
-                fluid {
-                  ...GatsbyImageSharpFluid
-                }
-              }
-            }
+            thumbnail
           }
         }
       }
