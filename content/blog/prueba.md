@@ -6,3 +6,7 @@ thumbnail: assets/dark_knight_ver4_xlg.jpg
 description: test
 ---
 mucho texto loco loco
+
+
+
+![404](assets/404.jpg "404")
