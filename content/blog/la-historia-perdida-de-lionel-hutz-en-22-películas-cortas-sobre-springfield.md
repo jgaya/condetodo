@@ -22,7 +22,7 @@ Josh Weinstein guionista de la serie compartió un de las historias que fueron c
 Para todos aquellos que no comprende ingles me he tomado la libertad de traducir las paginas del libreto con esta gran escena de Lionel Hutz.
 
 <img src="http://condetodo.ml/wp-content/uploads/2017/10/lionelhutz-300x297.png" style={{ margin: '0 auto', display: 'block' }}/>
-<p align=center>
+<p style={{textAlign: 'center'}}>
 Lionel Hutz</p>
 
 ## La traducción del guion
@@ -43,7 +43,7 @@ HUTZ</p>
 SRA. BOUVIER</p>
 <p style={{textAlign: 'center'}}>
 (RISILLA) ¿Donde estaba Ud, cuando mi hija se estaba casando?</p>
-<p align=center>
+<p style={{textAlign: 'center'}}>
 Y gracias por esta hermosa torta de cumpleaños. Pero mi edad es 68 no 48.</p>
 <p style={{textAlign: 'center'}}>
 HUTZ</p>
@@ -58,7 +58,7 @@ JUEZ SCHNEIDER</p>
 sala del jurado en el medio del juicio?!!</p>
 <p style={{textAlign: 'center'}}>
 HUTZ</p>
-<p align=center>
+<p style={{textAlign: 'center'}}>
 (SORPRENDIDO) ¡Blahh!
 <p style={{textAlign: 'center'}}>
 Hutz toma la torta y la arroja por la ventana.
@@ -66,7 +66,7 @@ Hutz toma la torta y la arroja por la ventana.
 HUTZ (Continua)
 <p style={{textAlign: 'center'}}>
 (FINGIENDO) ¿La sala del jurado? Con razón alguna de estas buenas personas me resultaban familiares.</p>
-<p align=center>
+<p style={{textAlign: 'center'}}>
 Recoge sus cosas y se va, pero gira en el umbral y hace un gesto de "te llamo luego y almorzamos" a la Sra Bouvier detrás de la espalda del juez.</p>
 <p style={{textAlign: 'center'}}>
 JUEZ SCHNEIDER</p>
