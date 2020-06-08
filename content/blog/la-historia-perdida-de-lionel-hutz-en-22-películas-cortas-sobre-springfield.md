@@ -23,7 +23,7 @@ Para todos aquellos que no comprende ingles me he tomado la libertad de traducir
 
 <img src="http://condetodo.ml/wp-content/uploads/2017/10/lionelhutz-300x297.png" style="margin:0 auto; display:block"/>
 <p align=center>
-Lionel Hutz
+Lionel Hutz</p>
 
 ## La traducción del guion
 
@@ -32,32 +32,32 @@ Lionel Hutz
 <p align=center>
 Lionel Hutz esta entreteniendo a un grupo de gente sentada alrededor de una mesa **riendo**y comiendo torta.</p>
 <p align=center>
-MAUD FLANDERS
+MAUD FLANDERS</p>
 <p align=center>
-Sr. Hutz, usted es maravilloso.
+Sr. Hutz, usted es maravilloso.</p>
 <p align=center>
-HUTZ
+HUTZ</p>
 <p align=center>
-(GALANTE) Ni la mitad de los hermosos ojos marrones de la Sra. Bouvier.
+(GALANTE) Ni la mitad de los hermosos ojos marrones de la Sra. Bouvier.</p>
 <p align=center>
-SRA. BOUVIER
+SRA. BOUVIER</p>
 <p align=center>
-(RISILLA) ¿Donde estaba Ud, cuando mi hija se estaba casando?
+(RISILLA) ¿Donde estaba Ud, cuando mi hija se estaba casando?</p>
 <p align=center>
-Y gracias por esta hermosa torta de cumpleaños. Pero mi edad es 68 no 48.
+Y gracias por esta hermosa torta de cumpleaños. Pero mi edad es 68 no 48.</p>
 <p align=center>
-HUTZ
+HUTZ</p>
 <p align=center>
-No, no voy a creerlo.
+No, no voy a creerlo.</p>
 <p align=center>
-En ese momento la puerta se abre. Un serio juez Schneider se para en el umbral con dos abogados enojados detrás de él.
+En ese momento la puerta se abre. Un serio juez Schneider se para en el umbral con dos abogados enojados detrás de él.</p>
 <p align=center>
-JUEZ SCHNEIDER
+JUEZ SCHNEIDER</p>
 <p align=center>
 ¡¡Hutz!! ¡¡¿Qué, en el nombre de Dios, está haciendo en la
-sala del jurado en el medio del juicio?!!
+sala del jurado en el medio del juicio?!!</p>
 <p align=center>
-HUTZ
+HUTZ</p>
 <p align=center>
 (SORPRENDIDO) ¡Blahh!
 <p align=center>
@@ -65,15 +65,14 @@ Hutz toma la torta y la arroja por la ventana.
 <p align=center>
 HUTZ (Continua)
 <p align=center>
-(FINGIENDO) ¿La sala del jurado? Con razón alguna de estas buenas personas me resultaban familiares.
+(FINGIENDO) ¿La sala del jurado? Con razón alguna de estas buenas personas me resultaban familiares.</p>
 <p align=center>
-Recoge sus cosas y se va, pero gira en el umbral y hace un gesto de "te llamo luego y almorzamos" a la Sra Bouvier detrás de la espalda del juez.
+Recoge sus cosas y se va, pero gira en el umbral y hace un gesto de "te llamo luego y almorzamos" a la Sra Bouvier detrás de la espalda del juez.</p>
 <p align=center>
-JUEZ SCHNEIDER
+JUEZ SCHNEIDER</p>
 <p align=center>
-¡Hutz!
+¡Hutz!</p>
 <p align=center>
-HUTZ
-<p align=center>
-(CONFIDENCIALMENTE, AL JURADO) El grita pero me respeta mucho.
-Hutz corre hacia afuera.
+HUTZ</p>
+<p align=center>(CONFIDENCIALMENTE, AL JURADO) El grita pero me respeta mucho.
+Hutz corre hacia afuera.</p>
