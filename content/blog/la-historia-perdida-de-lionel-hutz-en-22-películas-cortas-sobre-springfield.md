@@ -29,34 +29,34 @@ Lionel Hutz</p>
 
 **Interior Habitación**
 
-<p align=center>
+<p align="center">
 Lionel Hutz esta entreteniendo a un grupo de gente sentada alrededor de una mesa **riendo**y comiendo torta.</p>
-<p align=center>
+<p align="center">
 MAUD FLANDERS</p>
-<p align=center>
+<p align="center">
 Sr. Hutz, usted es maravilloso.</p>
-<p align=center>
+<p align="center">
 HUTZ</p>
-<p align=center>
+<p align="center">
 (GALANTE) Ni la mitad de los hermosos ojos marrones de la Sra. Bouvier.</p>
-<p align=center>
+<p align="center">
 SRA. BOUVIER</p>
-<p align=center>
+<p align="center">
 (RISILLA) ¿Donde estaba Ud, cuando mi hija se estaba casando?</p>
 <p align=center>
 Y gracias por esta hermosa torta de cumpleaños. Pero mi edad es 68 no 48.</p>
-<p align=center>
+<p align="center">
 HUTZ</p>
-<p align=center>
+<p align="center">
 No, no voy a creerlo.</p>
-<p align=center>
+<p align="center">
 En ese momento la puerta se abre. Un serio juez Schneider se para en el umbral con dos abogados enojados detrás de él.</p>
-<p align=center>
+<p align="center">
 JUEZ SCHNEIDER</p>
-<p align=center>
+<p align="center">
 ¡¡Hutz!! ¡¡¿Qué, en el nombre de Dios, está haciendo en la
 sala del jurado en el medio del juicio?!!</p>
-<p align=center>
+<p align="center">
 HUTZ</p>
 <p align=center>
 (SORPRENDIDO) ¡Blahh!
@@ -68,11 +68,11 @@ HUTZ (Continua)
 (FINGIENDO) ¿La sala del jurado? Con razón alguna de estas buenas personas me resultaban familiares.</p>
 <p align=center>
 Recoge sus cosas y se va, pero gira en el umbral y hace un gesto de "te llamo luego y almorzamos" a la Sra Bouvier detrás de la espalda del juez.</p>
-<p align=center>
+<p align="center">
 JUEZ SCHNEIDER</p>
-<p align=center>
+<p align="center">
 ¡Hutz!</p>
 <p align=center>
 HUTZ</p>
-<p align=center>(CONFIDENCIALMENTE, AL JURADO) El grita pero me respeta mucho.
+<p align="center">(CONFIDENCIALMENTE, AL JURADO) El grita pero me respeta mucho.
 Hutz corre hacia afuera.</p>
