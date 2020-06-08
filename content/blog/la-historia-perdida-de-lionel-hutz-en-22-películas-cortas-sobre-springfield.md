@@ -22,57 +22,34 @@ Josh Weinstein guionista de la serie compartió un de las historias que fueron c
 Para todos aquellos que no comprende ingles me he tomado la libertad de traducir las paginas del libreto con esta gran escena de Lionel Hutz.
 
 <img src="http://condetodo.ml/wp-content/uploads/2017/10/lionelhutz-300x297.png" style={{ margin: '0 auto', display: 'block' }}/>
-<p style={{textAlign: 'center'}}>
-Lionel Hutz</p>
+<p style={{textAlign: 'center'}}>Lionel Hutz</p>
 
 ## La traducción del guion
 
 **Interior Habitación**
 
-<p style={{textAlign: 'center'}}>
-Lionel Hutz esta entreteniendo a un grupo de gente sentada alrededor de una mesa **riendo**y comiendo torta.</p>
-<p style={{textAlign: 'center'}}>
-MAUD FLANDERS</p>
-<p style={{textAlign: 'center'}}>
-Sr. Hutz, usted es maravilloso.</p>
-<p style={{textAlign: 'center'}}>
-HUTZ</p>
-<p style={{textAlign: 'center'}}>
-(GALANTE) Ni la mitad de los hermosos ojos marrones de la Sra. Bouvier.</p>
-<p style={{textAlign: 'center'}}>
-SRA. BOUVIER</p>
-<p style={{textAlign: 'center'}}>
-(RISILLA) ¿Donde estaba Ud, cuando mi hija se estaba casando?</p>
-<p style={{textAlign: 'center'}}>
-Y gracias por esta hermosa torta de cumpleaños. Pero mi edad es 68 no 48.</p>
-<p style={{textAlign: 'center'}}>
-HUTZ</p>
-<p style={{textAlign: 'center'}}>
-No, no voy a creerlo.</p>
-<p style={{textAlign: 'center'}}>
-En ese momento la puerta se abre. Un serio juez Schneider se para en el umbral con dos abogados enojados detrás de él.</p>
-<p style={{textAlign: 'center'}}>
-JUEZ SCHNEIDER</p>
-<p style={{textAlign: 'center'}}>
-¡¡Hutz!! ¡¡¿Qué, en el nombre de Dios, está haciendo en la
-sala del jurado en el medio del juicio?!!</p>
-<p style={{textAlign: 'center'}}>
-HUTZ</p>
-<p style={{textAlign: 'center'}}>
-(SORPRENDIDO) ¡Blahh!
-<p style={{textAlign: 'center'}}>
-Hutz toma la torta y la arroja por la ventana.
-<p style={{textAlign: 'center'}}>
-HUTZ (Continua)
-<p style={{textAlign: 'center'}}>
-(FINGIENDO) ¿La sala del jurado? Con razón alguna de estas buenas personas me resultaban familiares.</p>
-<p style={{textAlign: 'center'}}>
-Recoge sus cosas y se va, pero gira en el umbral y hace un gesto de "te llamo luego y almorzamos" a la Sra Bouvier detrás de la espalda del juez.</p>
-<p style={{textAlign: 'center'}}>
-JUEZ SCHNEIDER</p>
-<p style={{textAlign: 'center'}}>
-¡Hutz!</p>
-<p style={{textAlign: 'center'}}>
-HUTZ</p>
-<p style={{textAlign: 'center'}}>(CONFIDENCIALMENTE, AL JURADO) El grita pero me respeta mucho.
-Hutz corre hacia afuera.</p>
+<p style={{textAlign: 'center'}}>Lionel Hutz esta entreteniendo a un grupo de gente sentada alrededor de una mesa **riendo** y comiendo torta.</p>
+<p style={{textAlign: 'center'}}>MAUD FLANDERS</p>
+<p style={{textAlign: 'center'}}>Sr. Hutz, usted es maravilloso.</p>
+<p style={{textAlign: 'center'}}>HUTZ</p>
+<p style={{textAlign: 'center'}}>(GALANTE) Ni la mitad de los hermosos ojos marrones de la Sra. Bouvier.</p>
+<p style={{textAlign: 'center'}}>SRA. BOUVIER</p>
+<p style={{textAlign: 'center'}}>(RISILLA) ¿Donde estaba Ud, cuando mi hija se estaba casando?</p>
+<p style={{textAlign: 'center'}}>Y gracias por esta hermosa torta de cumpleaños. Pero mi edad es 68 no 48.</p>
+<p style={{textAlign: 'center'}}>HUTZ</p>
+<p style={{textAlign: 'center'}}>No, no voy a creerlo.</p>
+<p style={{textAlign: 'center'}}>En ese momento la puerta se abre. Un serio juez Schneider se para en el umbral con dos abogados enojados detrás de él.</p>
+<p style={{textAlign: 'center'}}>JUEZ SCHNEIDER</p>
+<p style={{textAlign: 'center'}}>¡¡Hutz!! ¡¡¿Qué, en el nombre de Dios, está haciendo en la sala del jurado en el medio del juicio?!!</p>
+<p style={{textAlign: 'center'}}>HUTZ</p>
+<p style={{textAlign: 'center'}}>(SORPRENDIDO) ¡Blahh!</p>
+<p style={{textAlign: 'center'}}>Hutz toma la torta y la arroja por la ventana.</p>
+<p style={{textAlign: 'center'}}>HUTZ (Continua)</p>
+<p style={{textAlign: 'center'}}>(FINGIENDO) ¿La sala del jurado? Con razón alguna de estas buenas personas me resultaban familiares.</p>
+<p style={{textAlign: 'center'}}>Recoge sus cosas y se va, pero gira en el umbral y hace un gesto de "te llamo luego y almorzamos" a la Sra Bouvier detrás de la espalda del juez.</p>
+<p style={{textAlign: 'center'}}>JUEZ SCHNEIDER</p>
+<p style={{textAlign: 'center'}}>¡Hutz!</p>
+<p style={{textAlign: 'center'}}>HUTZ</p>
+<p style={{textAlign: 'center'}}>(CONFIDENCIALMENTE, AL JURADO) El grita pero me respeta mucho.</p>
+<p style={{textAlign: 'center'}}>Hutz corre hacia afuera.</p>
+
