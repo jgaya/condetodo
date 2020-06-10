@@ -6,6 +6,8 @@ thumbnail: assets/numero1.jpg
 description: imagen loca
 tags:
   - news
+  - comics
+  - web
 ---
 askjndajkljdandla
 
