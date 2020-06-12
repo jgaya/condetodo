@@ -16,7 +16,7 @@ class BlogPostTemplate extends React.Component {
     const siteTitle = this.props.data.site.siteMetadata.title
     const { previous, next, slug } = this.props.pageContext
     const disqusConfig = {
-      shortname: 'condetodo.disqus.com',
+      shortname: 'condetodo',
       config: { identifier: slug, title },
     }
     return (
