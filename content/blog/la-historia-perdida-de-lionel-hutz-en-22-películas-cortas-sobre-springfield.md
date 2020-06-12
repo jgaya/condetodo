@@ -21,14 +21,14 @@ Josh Weinstein guionista de la serie compartió un de las historias que fueron c
 
 Para todos aquellos que no comprende ingles me he tomado la libertad de traducir las paginas del libreto con esta gran escena de Lionel Hutz.
 
-<img src="http://condetodo.ml/wp-content/uploads/2017/10/lionelhutz-300x297.png" style={{ margin: '0 auto', display: 'block' }}/>
-<p style={{textAlign: 'center'}}>Lionel Hutz</p>
+<img src="/assets/lionelhutz-300x297.png" class="center polaroid"/>
+<p style={{ textAlign: 'center', color: 'black', marginTop: '-34px' }}>Lionel Hutz</p>
 
 ## La traducción del guion
 
 **Interior Habitación**
 
-<p style={{textAlign: 'center'}}>Lionel Hutz esta entreteniendo a un grupo de gente sentada alrededor de una mesa **riendo** y comiendo torta.</p>
+<p style={{textAlign: 'center'}}>Lionel Hutz esta entreteniendo a un grupo de gente sentada alrededor de una mesa <b>riendo</b> y comiendo torta.</p>
 <p style={{textAlign: 'center'}}>MAUD FLANDERS</p>
 <p style={{textAlign: 'center'}}>Sr. Hutz, usted es maravilloso.</p>
 <p style={{textAlign: 'center'}}>HUTZ</p>

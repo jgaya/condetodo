@@ -6,6 +6,8 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import { rhythm } from "../utils/typography"
 import Button from "../components/button"
+import Menu from "../components/menu"
+
 
 class Blog extends React.Component {
   render() {
@@ -16,12 +18,9 @@ class Blog extends React.Component {
     return (
       <Layout location={this.props.location} title={siteTitle}>
         <SEO title="All posts" />
-        <Bio />
+        <Menu/>
         <div style={{ 
           margin: "20px 0 40px",
-          // display: 'grid',
-          // gridTemplateColumns: 'repeat(4, 1fr)',
-          // gap: '5px 10px',
           columns: 4,
           columnGap: 5,
           padding: 5,
@@ -31,19 +30,16 @@ class Blog extends React.Component {
             const img = `/${node.frontmatter.thumbnail}` // ? node.frontmatter.thumbnail.childImageSharp.fluid.src : '';
             return (
               <div key={node.fields.slug} style={{
-                // border: '1px solid black',
                 height: 'auto',
                 background: '#2f3238',
-                // boxShadow: '0 0 5px 2px white',
                 position: 'relative',
                 display: 'block',
                 overflow: 'hidden',
                 width: '100%',
                 minHeight: 200,
                 breakInside: 'avoid',
-                marginBottom: '10px',
               }}>
-                <figure class="effect-julia">
+                <figure className="effect-julia">
                   <img src={img} alt="img21"/>
                   <figcaption>
                     <h3
@@ -79,6 +75,7 @@ class Blog extends React.Component {
         <Link to="/">
           <Button marginTop="85px">Go Home</Button>
         </Link>
+        <Bio />
       </Layout>
     )
   }

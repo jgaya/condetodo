@@ -6,15 +6,21 @@ import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import { rhythm, scale } from "../utils/typography"
+import { DiscussionEmbed } from "disqus-react"
+
 
 class BlogPostTemplate extends React.Component {
   render() {
     const post = this.props.data.mdx
+    const title = post.frontmatter.title
     const siteTitle = this.props.data.site.siteMetadata.title
-    const { previous, next } = this.props.pageContext
-
+    const { previous, next, slug } = this.props.pageContext
+    const disqusConfig = {
+      shortname: 'condetodo.disqus.com',
+      config: { identifier: slug, title },
+    }
     return (
-      <Layout location={this.props.location} title={siteTitle}>
+      <Layout location={this.props.location} title={siteTitle} classname={'post'}>
         <SEO
           title={post.frontmatter.title}
           description={post.frontmatter.description || post.excerpt}
@@ -62,6 +68,7 @@ class BlogPostTemplate extends React.Component {
             )}
           </li>
         </ul>
+        <DiscussionEmbed {...disqusConfig} />
       </Layout>
     )
   }

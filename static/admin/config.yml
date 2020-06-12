@@ -3,7 +3,7 @@ backend:
   repo: jgaya/condetodo
 media_folder: static/assets
 public_folder: assets
-
+publish_mode: editorial_workflow
 collections:
   - name: blog
     label: Blog
@@ -16,3 +16,7 @@ collections:
       - { name: thumbnail, label: 'Featured Image', widget: image }
       - { name: description, label: Description }
       - { name: body, label: Body, widget: markdown }
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+        default: ["news","pelis"]
