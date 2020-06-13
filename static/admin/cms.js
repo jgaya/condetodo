@@ -3,7 +3,6 @@ import CMS from 'netlify-cms';
 
 CMS.registerWidget("youtube", youtubeControl, youtubePreview);
 
-// AIzaSyALoc-P_7mjGeheOYtbf7g2nVIXMfYW7sY
 CMS.registerEditorComponent({
     // Internal id of the component
     id: "youtube",

@@ -11,7 +11,7 @@ function Menu(current) {
         const tags = data.tagsGroup.group;
         return (
           <nav className="cl-effect-10">
-            <a href="/blog/" data-hover="All">
+            <a href="/blog/" data-hover="Todos">
               <span>Todos</span>
             </a>
             {tags.map((tag) => (
