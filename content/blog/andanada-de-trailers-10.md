@@ -39,29 +39,27 @@ La nueva temporada de  Stranger Things se estrena el 27 de octubre.
 <iframe style="margin: 0 auto; display:block width: 424px, height:238px" width="424" height="238" src="https://www.youtube.com/embed/3WueeiEc2hA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-<h2>Patton Oswald: Annihiliation</h2>
+## Patton Oswald: Annihiliation
 
-
-Nuevo especial de stand up de Patton Oswald filmado en el teatro Athenaeum en Chicago se estreno el 17 de octubre para aquellos que tengan netflix.
+Nuevo especial de stand up de Patton Oswald filmado en el teatro Athenaeum en Chicago se estreno el 17 de octubre para aquellos que tengan Netflix.
 
 <iframe style="margin: 0 auto; display:block width: 424px, height:238px" width="424" height="238" src="https://www.youtube.com/embed/4hZi5QaMBFc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
-<h2>Castle Rock</h2>
+## Castle Rock
 <p style="text-align: justify;">Nueva serie de Hulu, que aprovechando el envión de adaptaciones de Stephen King de este año, se moverá dentro de todo el canon de King. Se estrena en algún momento del 2018.</p>
 
 <iframe style="margin: 0 auto; display:block width: 424px, height:238px" width="424" height="238" src="https://www.youtube.com/embed/K3U7Z94NHgg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-<h2>Mindhunter</h2>
+## Mindhunter
 <p style="text-align: justify;">Ya se puede ver en Netflix el nuevo proyecto de David Fincher que ya hemos mencionado aquí con anterioridad, basado en el libro homónimo, sigue la historia de dos agentes del FBI que entrevistan a varios asesinos seriales.</p>
 
 <iframe style="margin: 0 auto; display:block width: 424px, height:238px" width="424" height="238" src="https://www.youtube.com/embed/evdxH50J3rs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-<h2>Wheelman</h2>
-
+## Wheelman
 
 <p style="text-align: justify;">Un thriller de Jeremy Rush, producido por Joe Carnahan y  protagonizado por Frank Grillo como un conductor de escape de unos delincuentes, con Shea Whigham y Garret Dillahunt. Disponible en Netflix  para quien o tenga.</p>
 
@@ -69,14 +67,13 @@ Nuevo especial de stand up de Patton Oswald filmado en el teatro Athenaeum en C
 <iframe style="margin: 0 auto; display:block width: 424px, height:238px" width="424" height="238" src="https://www.youtube.com/embed/Ylb3nPLqyFc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-
-<h2>The Alienist</h2>
+## The Alienist
 <p style="text-align: justify;">La nueva serie de TNT un thriller de  época sobre asesinatos en serie se estrenara el 22 de enero, con  Daniel Brühl, Luke Evans y Dakota Fanning.</p>
 
 
 <iframe style="margin: 0 auto; display:block width: 424px, height:238px" width="424" height="238" src="https://www.youtube.com/embed/8oyf8Ecwo-Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<h2>Godless</h2>
+## Godless
 <p style="text-align: justify;">Producida por Steven Soderbergh,  escrita y dirigida por Scott Frank (<em><strong>Out of Sight</strong></em>), <em><strong>Godless </strong></em>protagonizada por  Jeff Daniels y Jack O'Connell es una mini serie compuesta por 6 episodios, se estrenara por Netflix el 22 de Noviembre.</p>
 
 
