@@ -7,6 +7,7 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import { rhythm, scale } from "../utils/typography"
 import { DiscussionEmbed } from "disqus-react"
+import Menu from "../components/menu"
 
 
 class BlogPostTemplate extends React.Component {
@@ -25,6 +26,7 @@ class BlogPostTemplate extends React.Component {
           title={post.frontmatter.title}
           description={post.frontmatter.description || post.excerpt}
         />
+        <Menu/>
         <h1>{post.frontmatter.title}</h1>
         <p
           style={{
@@ -34,7 +36,7 @@ class BlogPostTemplate extends React.Component {
             marginTop: rhythm(-1),
           }}
         >
-          {post.frontmatter.date}
+          Publicado en {post.frontmatter.date} bajo {post.frontmatter.tags.map((tag) => {return `${tag}, `})}
         </p>
         <MDXRenderer>{post.body}</MDXRenderer>
         <hr
@@ -92,6 +94,7 @@ export const pageQuery = graphql`
         title
         date(formatString: "MMMM DD, YYYY")
         description
+        tags
       }
     }
   }

@@ -37,7 +37,8 @@ figure.effect-julia img {
 	transition: opacity 1s, transform 1s;
 	-webkit-backface-visibility: hidden;
     backface-visibility: hidden;
-    margin: 0;
+    margin: 0 auto;
+    display: block;
 }
 
 figure.effect-julia figcaption {

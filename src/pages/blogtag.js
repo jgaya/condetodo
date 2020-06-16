@@ -63,7 +63,7 @@ class Blogtag extends React.Component {
                     <div>
                       <p>{node.frontmatter.date}</p>
                       <p>{node.frontmatter.description || node.excerpt}</p>
-                      <p><a href={`blog${node.fields.slug}`}>Would you like to know more?</a></p>
+                      <p><a href={`${node.fields.slug}`}>Would you like to know more?</a></p>
                     </div>
                   </figcaption>			
                 </figure>
