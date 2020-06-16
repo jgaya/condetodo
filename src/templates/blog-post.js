@@ -14,6 +14,7 @@ class BlogPostTemplate extends React.Component {
   render() {
     const post = this.props.data.mdx
     const title = post.frontmatter.title
+    const tags = post.frontmatter.tags || ['Sin Clasificar']
     const siteTitle = this.props.data.site.siteMetadata.title
     const { previous, next, slug } = this.props.pageContext
     const disqusConfig = {
@@ -36,7 +37,7 @@ class BlogPostTemplate extends React.Component {
             marginTop: rhythm(-1),
           }}
         >
-          Publicado en {post.frontmatter.date} bajo {post.frontmatter.tags.map((tag) => {return `${tag}, `})}
+          Publicado en {post.frontmatter.date} bajo {tags.map((tag) => {return `${tag}, `})}
         </p>
         <MDXRenderer>{post.body}</MDXRenderer>
         <hr
