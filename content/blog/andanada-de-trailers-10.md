@@ -10,13 +10,13 @@ tags:
 ---
 ## Black Panther
 
-El trailer oficial de la película de Marvel se estreno, la misma se podrá ver a partir del 16 de febrero.
+<p style="text-align: justify;">El trailer oficial de la película de Marvel se estreno, la misma se podrá ver a partir del 16 de febrero.</p>
 
 <iframe style="margin: 0 auto; display:block width: 424px, height:238px" width="424" height="238" src="https://www.youtube.com/embed/xjDjIWPwcPU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Replicas
 
-Keanu interpreta a un científico que trabaja en el cerebro humano, con el propósito de clonarlo, para poder clonar a su familia que murió en un accidente de auto.
+<p style="text-align: justify;">Keanu interpreta a un científico que trabaja en el cerebro humano, con el propósito de clonarlo, para poder clonar a su familia que murió en un accidente de auto.</p>
 
 <iframe style="margin: 0 auto; display:block width: 424px, height:238px" width="424" height="238" src="https://www.youtube.com/embed/yBt9zuvZxIc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -41,7 +41,7 @@ La nueva temporada de  Stranger Things se estrena el 27 de octubre.
 
 ## Patton Oswald: Annihiliation
 
-Nuevo especial de stand up de Patton Oswald filmado en el teatro Athenaeum en Chicago se estreno el 17 de octubre para aquellos que tengan Netflix.
+<p style="text-align: justify;">Nuevo especial de stand up de Patton Oswald filmado en el teatro Athenaeum en Chicago se estreno el 17 de octubre para aquellos que tengan Netflix.</p>
 
 <iframe style="margin: 0 auto; display:block width: 424px, height:238px" width="424" height="238" src="https://www.youtube.com/embed/4hZi5QaMBFc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
