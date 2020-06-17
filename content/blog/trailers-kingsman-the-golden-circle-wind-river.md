@@ -1,6 +1,6 @@
 ---
 path: "Trailers Kingsman: The Golden Circle - Wind River"
-date: 2020-06-17T02:13:38.571Z
+date: 2017-07-22T02:13:38.571Z
 title: "Trailers Kingsman: The Golden Circle - Wind River"
 thumbnail: assets/popcorn-movie.jpg
 description: "Trailers Kingsman: The Golden Circle - Wind River"
