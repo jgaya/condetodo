@@ -3,7 +3,7 @@ path: "RoboDoc The Creation of RoboCop Actualizacion "
 date: 2020-06-17T01:54:17.911Z
 title: "RoboDoc The Creation of RoboCop Actualizacion "
 thumbnail: assets/robocop.jpeg
-description: "Adelanto de 15 minutos del documental RoboDoc: The Creation of RoboCop"
+description: "Adelanto de más de 15 minutos del documental RoboDoc: The Creation of RoboCop"
 tags:
   - peliculas
 ---
