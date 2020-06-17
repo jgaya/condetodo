@@ -13,7 +13,7 @@ Por suerte el proyecto sigue en pie y paso de un documental a tres documentales,
 
 
 
-![RoboDocs](assets/robodoc3.jpg "RoboDocs")
+![RoboDocs](/assets/robodoc3.jpg "RoboDocs")
 
 
 
