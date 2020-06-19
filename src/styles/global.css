@@ -14,8 +14,13 @@ img.polaroid{
 
 blockquote {
 	color:#fff;
- }
+}
 
+a:hover, a:active {
+	box-shadow: none;
+    font-weight: bolder;
+    color: orange;
+}
  main.post {
 	 width: 80%;
 	 margin: 0 auto;
@@ -190,3 +195,347 @@ nav a {
 	-moz-transform: translateX(0%);
 	transform: translateX(0%);
 }
+
+main.post ol {
+	max-width: 350px;
+	counter-reset: my-awesome-counter;
+	list-style: none;
+	padding-left: 40px;
+    margin: 20px auto;
+    display: table;
+}
+main.post ol li {
+	margin: 0 0 0.5rem 0;
+	counter-increment: my-awesome-counter;
+	position: relative;
+}
+main.post ol li::before {
+	content: counter(my-awesome-counter);
+	color: #fcd000;
+	font-size: 1.5rem;
+	font-weight: bold;
+	position: absolute;
+	--size: 32px;
+	left: calc(-1 * var(--size) - 10px);
+	line-height: var(--size);
+	width: var(--size);
+	height: var(--size);
+	top: 0;
+	transform: rotate(-10deg);
+	background: black;
+	border-radius: 50%;
+	text-align: center;
+	box-shadow: 1px 1px 0 #999;
+}
+
+/*----------------*/
+/***** Footer *****/
+/*----------------*/
+
+footer {
+	margin: 0;
+	text-align: center;
+	display: grid;
+	grid-template-areas: "fl fc fr" "light light light";
+}
+footer .footerLeft {
+    grid-area: fl;
+
+}
+footer .footerCenter {
+	grid-area: fc;
+
+}
+footer .footerRight {
+	grid-area: fr;
+}
+#wrap
+{
+	grid-area: light;
+	width: 100%;
+	height: 150px;
+	position: relative;
+	margin: 0 auto 0 auto;
+	overflow: hidden;
+}
+
+#lightings
+{
+	bottom: -60px;
+	position: absolute;
+	width: 100%;
+}
+
+section
+{
+	/*border-radius*/
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	border-radius: 50%;
+	height: 20px;
+	width: 100%;
+	position: relative;
+	margin: auto;
+
+}
+
+#one
+{
+	/*animation*/
+	-webkit-animation: one 5s ease-in-out infinite alternate;
+	-moz-animation: one 5s ease-in-out infinite alternate;
+	-ms-animation: one 5s ease-in-out infinite alternate;
+	-o-animation: one 5s ease-in-out infinite alternate;
+	animation: one 5s ease-in-out infinite alternate;
+}
+@-webkit-keyframes 
+one { from {
+-webkit-box-shadow: 0 0 250px 20px #473C78;
+}
+
+to { -webkit-box-shadow: 0 0 100px 15px #F72A3B; }
+}
+@-moz-keyframes 
+one { from {
+-moz-box-shadow: 0 0 250px 20px #473C78;
+}
+
+to { -moz-box-shadow: 0 0 100px 15px #F72A3B; }
+}
+@-o-keyframes 
+one { from {
+-o-box-shadow: 0 0 250px 20px #473C78;
+}
+
+to { -o-box-shadow: 0 0 100px 15px #F72A3B; }
+}
+
+@keyframes 
+one { from {
+box-shadow: 0 0 250px 20px #473C78;
+}
+
+to {box-shadow: 0 0 100px 15px #F72A3B; }
+}
+
+#two
+{
+	width: 90%;
+	/*animation*/
+	-webkit-animation: two 4s ease-in-out infinite alternate;
+	-moz-animation: two 4s ease-in-out infinite alternate;
+	-ms-animation: two 4s ease-in-out infinite alternate;
+	-o-animation: two 4s ease-in-out infinite alternate;
+	animation: two 4s ease-in-out infinite alternate;
+}
+@-webkit-keyframes 
+two { from {
+-webkit-box-shadow: 0 0 250px 20px #18C499;
+}
+
+to { -webkit-box-shadow: 0 0 100px 15px #D8F05E; }
+}
+@-moz-keyframes 
+two { from {
+-moz-box-shadow: 0 0 250px 20px #18C499;
+}
+
+to { -moz-box-shadow: 0 0 100px 15px #D8F05E; }
+}
+@-o-keyframes 
+two { from {
+-o-box-shadow: 0 0 250px 20px #18C499;
+}
+
+to { -o-box-shadow: 0 0 100px 15px #D8F05E; }
+}
+
+@keyframes 
+two { from {
+box-shadow: 0 0 250px 20px #18C499;
+}
+
+to { box-shadow: 0 0 100px 15px #D8F05E; }
+}
+
+#three
+{
+	width: 80%;
+	/*animation*/
+	-webkit-animation: three 3s ease-in-out infinite alternate;
+	-moz-animation: three 3s ease-in-out infinite alternate;
+	-ms-animation: three 3s ease-in-out infinite alternate;
+	-o-animation: three 3s ease-in-out infinite alternate;
+	animation: three 3s ease-in-out infinite alternate;
+}
+@-webkit-keyframes 
+three { from {
+-webkit-box-shadow: 0 0 250px 20px #FFDD00;
+}
+
+to { -webkit-box-shadow: 0 0 100px 15px #3E33FF; }
+}
+@-moz-keyframes 
+three { from {
+-moz-box-shadow: 0 0 250px 20px #FFDD00;
+}
+
+to { -moz-box-shadow: 0 0 100px 15px #3E33FF }
+}
+@-o-keyframes 
+three { from {
+-o-box-shadow: 0 0 250px 20px #FFDD00;
+}
+
+to { -o-box-shadow: 0 0 100px 15px #3E33FF }
+}
+
+@keyframes 
+three { from {
+box-shadow: 0 0 250px 20px #FFDD00;
+}
+
+to { box-shadow: 0 0 100px 15px #3E33FF }
+}
+
+#four
+{
+	width: 70%;
+	/*animation*/
+	-webkit-animation: four 2s ease-in-out infinite alternate;
+	-moz-animation: four 2s ease-in-out infinite alternate;
+	-ms-animation: four 2s ease-in-out infinite alternate;
+	-o-animation: four 2s ease-in-out infinite alternate;
+	animation: four 2s ease-in-out infinite alternate;
+}
+@-webkit-keyframes 
+four { from {
+-webkit-box-shadow: 0 0 250px 20px #781848;
+}
+
+to { -webkit-box-shadow: 0 0 100px 15px #F2BBE9; }
+}
+@-moz-keyframes 
+four { from {
+-moz-box-shadow: 0 0 250px 20px #781848;
+}
+
+to { -moz-box-shadow: 0 0 100px 15px #F2BBE9; }
+}
+@-o-keyframes 
+four { from {
+-o-box-shadow: 0 0 250px 20px #781848;
+}
+
+to { -o-box-shadow: 0 0 100px 15px #F2BBE9; }
+}
+
+@keyframes 
+four { from {
+shadow: 0 0 250px 20px #781848;
+}
+
+to { shadow: 0 0 100px 15px #F2BBE9; }
+}
+
+#five
+{
+	width: 60%;
+	/*animation*/
+	-webkit-animation: five 1s ease-in-out infinite alternate;
+	-moz-animation: five 1s ease-in-out infinite alternate;
+	-ms-animation: five 1s ease-in-out infinite alternate;
+	-o-animation: five 1s ease-in-out infinite alternate;
+	animation: five 1s ease-in-out infinite alternate;
+}
+@-webkit-keyframes 
+five { from {
+-webkit-box-shadow: 0 0 250px 20px #42F2A1;
+}
+
+to { -webkit-box-shadow: 0 0 100px 15px #F4F6AD; }
+}
+@-moz-keyframes 
+five { from {
+-moz-box-shadow: 0 0 250px 20px #42F2A1;
+}
+
+to { -moz-box-shadow: 0 0 100px 15px #F4F6AD; }
+}
+@-o-keyframes 
+five { from {
+-o-box-shadow: 0 0 250px 20px #42F2A1;
+}
+
+to { -o-box-shadow: 0 0 100px 15px #F4F6AD; }
+}
+
+@keyframes 
+five { from {
+box-shadow: 0 0 250px 20px #42F2A1;
+}
+
+to { box-shadow: 0 0 100px 15px #F4F6AD; }
+}
+
+/*----------------*/
+/***** Share *****/
+/*----------------*/
+.post-social .button {
+	margin: 0.5rem 0.25rem;
+  }
+  .post-social .button.facebook {
+	color: #3b5998;
+	border-color: #3b5998;
+  }
+  .post-social .button.facebook:hover {
+	background-color: #3b5998;
+	border-color: #3b5998;
+	color: #fff;
+  }
+  .post-social .button.twitter {
+	color: #1da1f2;
+	border-color: #1da1f2;
+  }
+  .post-social .button.twitter:hover {
+	background-color: #1da1f2;
+	border-color: #1da1f2;
+	color: #fff;
+  }
+  .post-social .button.googleplus {
+	color: #dd4b39;
+	border-color: #dd4b39;
+  }
+  .post-social .button.googleplus:hover {
+	background-color: #dd4b39;
+	border-color: #dd4b39;
+	color: #fff;
+  }
+  .post-social .button.linkedin {
+	color: #0077b5;
+	border-color: #0077b5;
+  }
+  .post-social .button.linkedin:hover {
+	background-color: #0077b5;
+	border-color: #0077b5;
+	color: #fff;
+  }
+  .post-social .button.reddit {
+	color: #ff4500;
+	border-color: #ff4500;
+  }
+  .post-social .button.reddit:hover {
+	background-color: #ff4500;
+	border-color: #ff4500;
+	color: #fff;
+  }
+  .post-social .button.whatsapp {
+	color: #128c7e;
+	border-color: #128c7e;
+  }
+  .post-social .button.whatsapp:hover {
+	background-color: #128c7e;
+	border-color: #128c7e;
+	color: #fff;
+  }
+  

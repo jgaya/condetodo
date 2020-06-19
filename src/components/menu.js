@@ -7,7 +7,6 @@ function Menu(current) {
     <StaticQuery
       query={menuQuery}
       render={data => {
-        console.log(current)
         const tags = data.tagsGroup.group;
         return (
           <nav className="cl-effect-10">

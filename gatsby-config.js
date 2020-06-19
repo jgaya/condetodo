@@ -91,5 +91,11 @@ module.exports = {
         pathToConfigModule: `src/utils/typography`,
       },
     },
+    { 
+      resolve: `@awolf81/gatsby-theme-addthis`, 
+      options: {
+        publicId: 'ra-5eec1405007ffbd0'
+      } 
+    }
   ],
 }

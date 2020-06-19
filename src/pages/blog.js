@@ -1,11 +1,9 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
 
-import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import { rhythm } from "../utils/typography"
-import Button from "../components/button"
 import Menu from "../components/menu"
 
 
@@ -72,10 +70,6 @@ class Blog extends React.Component {
           })}
           <div style={{clear: 'both'}}></div>
         </div>
-        <Link to="/">
-          <Button marginTop="85px">Go Home</Button>
-        </Link>
-        <Bio />
       </Layout>
     )
   }

@@ -3,6 +3,7 @@ import { Link } from "gatsby"
 import styled from "styled-components"
 
 import { rhythm, scale } from "../utils/typography"
+import FooterLights from "./footerlights"
 
 class Layout extends React.Component {
   render() {
@@ -74,9 +75,16 @@ class Layout extends React.Component {
           <main className={classname}>{children}</main>
         </div>
         <Footer>
-          © {new Date().getFullYear()}, Built with
-          {` `}
-          <a href="https://www.gatsbyjs.org">Gatsby</a>
+          <div className="footerLeft">
+
+          </div>
+          <div className="footerCenter">
+          © 2017 - {new Date().getFullYear()}, hecho con{` `}<a href="https://www.gatsbyjs.org">Gatsby</a>{` `}por{` `} <a href="https://www.caldensoft.com">Calden Soft</a> 
+          </div>
+          <div className="footerRight">
+
+          </div>
+          <FooterLights/>
         </Footer>
       </Wrapper>
     )
@@ -89,7 +97,6 @@ const Wrapper = styled.div`
 
 const Footer = styled.footer`
   text-align: center;
-  margin: 24px;
 `
 
 export default Layout

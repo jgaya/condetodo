@@ -72,10 +72,6 @@ class Blogtag extends React.Component {
           })}
           <div style={{clear: 'both'}}></div>
         </div>
-        <Bio />
-        <Link to="/">
-          <Button marginTop="85px">Go Home</Button>
-        </Link>
       </Layout>
     )
   }

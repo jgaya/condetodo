@@ -21,6 +21,8 @@ class BlogPostTemplate extends React.Component {
       shortname: 'condetodo',
       config: { identifier: slug, title },
     }
+    //const postUrl = this.props.data.site.siteMetadata.siteUrl + slug;
+    //const twitterHandle= this.props.data.site.siteMetadata.social.twitter;
     return (
       <Layout location={this.props.location} title={siteTitle} classname={'post'}>
         <SEO
@@ -46,7 +48,6 @@ class BlogPostTemplate extends React.Component {
           }}
         />
         <Bio />
-
         <ul
           style={{
             display: `flex`,
@@ -85,6 +86,10 @@ export const pageQuery = graphql`
       siteMetadata {
         title
         author
+        siteUrl
+        social {
+          twitter
+        }
       }
     }
     mdx(fields: { slug: { eq: $slug } }) {
