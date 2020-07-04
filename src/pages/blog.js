@@ -17,12 +17,7 @@ class Blog extends React.Component {
       <Layout location={this.props.location} title={siteTitle}>
         <SEO title="All posts" />
         <Menu/>
-        <div style={{ 
-          margin: "20px 0 40px",
-          columns: 4,
-          columnGap: 5,
-          padding: 5,
-          }}>
+        <div className="postList">
           {posts.map(({ node }) => {
             const title = node.frontmatter.title || node.fields.slug;
             const img = `/${node.frontmatter.thumbnail}` // ? node.frontmatter.thumbnail.childImageSharp.fluid.src : '';

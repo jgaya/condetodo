@@ -5,6 +5,7 @@ import { MDXRenderer } from "gatsby-plugin-mdx"
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
+import Share from "../components/share"
 import { rhythm, scale } from "../utils/typography"
 import { DiscussionEmbed } from "disqus-react"
 import Menu from "../components/menu"
@@ -21,8 +22,8 @@ class BlogPostTemplate extends React.Component {
       shortname: 'condetodo',
       config: { identifier: slug, title },
     }
-    //const postUrl = this.props.data.site.siteMetadata.siteUrl + slug;
-    //const twitterHandle= this.props.data.site.siteMetadata.social.twitter;
+    const postUrl = this.props.data.site.siteMetadata.siteUrl + slug;
+    const twitterHandle= this.props.data.site.siteMetadata.social.twitter;
     return (
       <Layout location={this.props.location} title={siteTitle} classname={'post'}>
         <SEO
@@ -47,6 +48,7 @@ class BlogPostTemplate extends React.Component {
             marginBottom: rhythm(1),
           }}
         />
+        <Share socialConfig={{twitterHandle, config:{url: postUrl, title}}} tags/>
         <Bio />
         <ul
           style={{
