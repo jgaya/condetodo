@@ -29,9 +29,31 @@ a:hover, a:active {
  .postList {
 	margin: 20px 0 40px;
 	columns: 6;
-	column-gap: 4;
+	column-gap: 4px;
 	padding: 5px;
 }
+
+.postList .post {
+	height: auto;
+	position: relative;
+	display: block;
+	overflow: hidden;
+	width: 100%;
+	min-height: 200px;
+	break-inside: avoid;
+	margin: 5px 0;
+}
+
+.postList .post h3 {
+	background: rgba(0, 0, 0, 0.4);
+    color: rgb(255, 255, 255);
+    font-family: vtc_letterer_proregular;
+    font-size: 22px;
+    padding: 0.5em;
+    margin-top: 0px;
+    margin-bottom: 0.4375rem;
+}
+
 @media (max-width: 1440px) {
 	.postList {
 		columns: 4;
@@ -512,7 +534,7 @@ to { box-shadow: 0 0 100px 15px #F4F6AD; }
 /*----------------*/
 /***** Share *****/
 /*----------------*/
-.post-social {
+.fixed-bar {
     display: flex;
     flex-direction: column;
     position: fixed;
@@ -520,7 +542,7 @@ to { box-shadow: 0 0 100px 15px #F4F6AD; }
 	left: 2px;
 }
 
-.post-social button {
+.fixed-bar button {
 	outline: none;
 }
 

@@ -33,7 +33,7 @@ class Share extends React.Component {
                 render={data => {
                     const { socialConfig, tags } = this.props
                     return (
-                        <div className="post-social">
+                        <div className="fixed-bar">
                             <FacebookShareButton url={socialConfig.config.url} title={socialConfig.config.title} >
                                 <FacebookIcon size={40} />
                                 <FacebookShareCount url={socialConfig.config.url}>{count => count}</FacebookShareCount>

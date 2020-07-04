@@ -15,6 +15,7 @@ class BlogPostTemplate extends React.Component {
   render() {
     const post = this.props.data.mdx
     const title = post.frontmatter.title
+    const image = `${this.props.data.site.siteMetadata.siteUrl}/${post.frontmatter.thumbnail}`
     const tags = post.frontmatter.tags || ['Sin Clasificar']
     const siteTitle = this.props.data.site.siteMetadata.title
     const { previous, next, slug } = this.props.pageContext
@@ -29,6 +30,7 @@ class BlogPostTemplate extends React.Component {
         <SEO
           title={post.frontmatter.title}
           description={post.frontmatter.description || post.excerpt}
+          image={image}
         />
         <Menu/>
         <h1>{post.frontmatter.title}</h1>
@@ -102,7 +104,8 @@ export const pageQuery = graphql`
         title
         date(formatString: "MMMM DD, YYYY")
         description
-        tags
+        tags,
+        thumbnail
       }
     }
   }
