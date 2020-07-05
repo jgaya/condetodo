@@ -630,6 +630,7 @@ to { box-shadow: 0 0 100px 15px #F4F6AD; }
 	position: fixed;
 	height: 100%;
 	top: 0;
+	left: 0;
   }
   
   /* General sidebar styles */
@@ -659,6 +660,7 @@ to { box-shadow: 0 0 100px 15px #F4F6AD; }
   .bm-overlay {
 	background: rgba(0, 0, 0, 0.5);
 	top: 0;
+	left: 0;
   }
 
   
