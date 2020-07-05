@@ -36,24 +36,8 @@ class Layout extends React.Component {
     } else { */
       header = (
         <React.Fragment>
-          <h3
-            style={{
-              fontFamily: `helsinki, sans-serif`,
-              marginTop: 0,
-              transform: `rotate(-5deg)`,
-              textAlign: `center`,
-            }}
-          >
-            <Link
-              style={{
-                boxShadow: `none`,
-                textDecoration: `none`,
-                fontSize: `90px`,
-                color: `#FF9800`,
-                textShadow: `-7px 7px 2px #FFF`,
-              }}
-              to={location.pathname === blogPath ? `/blog/` : `/`}
-            >
+          <h3 className="title">
+            <Link className="text" to={location.pathname === blogPath ? `/blog/` : `/`}>
               {title}
             </Link>
           </h3>

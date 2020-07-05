@@ -1,6 +1,7 @@
 import React from "react"
 import { StaticQuery,graphql } from "gatsby"
 import PropTypes from "prop-types"
+import { slide as Burger } from 'react-burger-menu'
 
 function Menu(current) {
   return (
@@ -9,19 +10,29 @@ function Menu(current) {
       render={data => {
         const tags = data.tagsGroup.group;
         return (
-          <nav className="cl-effect-10">
-            <a href="/blog/" data-hover="Todos">
-              <span>Todos</span>
-            </a>
-            {tags.map((tag) => (
-            <React.Fragment key={tag.fieldValue}>
-              <a className={current.current === tag.fieldValue ? 'active': ''} href={`/tags/${tag.fieldValue}`} data-hover={tag.fieldValue}>
-                <span>{tag.fieldValue}</span>
+          <React.Fragment>
+            <Burger>
+              <a href="/blog/" className="menu-item">Todos</a>
+              {tags.map((tag) => (
+              <React.Fragment key={tag.fieldValue}>
+                <a className="menu-item" href={`/tags/${tag.fieldValue}`}>{tag.fieldValue}</a>
+              </React.Fragment>
+              ))}
+            </Burger>
+            <nav className="cl-effect-10">
+              <a href="/blog/" data-hover="Todos">
+                <span>Todos</span>
               </a>
-            </React.Fragment>
-            ))}
-          </nav>
-        );
+              {tags.map((tag) => (
+              <React.Fragment key={tag.fieldValue}>
+                <a className={current.current === tag.fieldValue ? 'active': ''} href={`/tags/${tag.fieldValue}`} data-hover={tag.fieldValue}>
+                  <span>{tag.fieldValue}</span>
+                </a>
+              </React.Fragment>
+              ))}
+            </nav>
+          </React.Fragment>
+        )
       }}
     />
   )
