@@ -37,7 +37,7 @@ h3.title .text {
 	text-decoration: none;
 	font-size: 90px;
 	color: #FF9800;
-	text-shadow: -7px 7px 2px #FFF;
+	text-shadow: -7px 7px 2px #EEE;
 }
 
 
@@ -221,6 +221,10 @@ nav a {
 	z-index: 1;
 	text-align: center;
 	display: block;
+	background-color: #2222226b;
+    border: 1px solid black;
+	padding: 10px 0 5px;
+	margin-bottom: 20px;
 }
 
 @media (max-width: 425px) {
@@ -675,6 +679,8 @@ to { box-shadow: 0 0 100px 15px #F4F6AD; }
 	grid-auto-rows: 1fr;
 	max-width: 1440px;
 	font-size: 0;
+	border: 10px solid ivory;
+    background: ivory;
   }
   
   .item-title {
