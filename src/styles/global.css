@@ -664,3 +664,147 @@ to { box-shadow: 0 0 100px 15px #F4F6AD; }
   }
 
   
+
+
+  
+
+  .wrapper {
+	display: grid;
+	grid-gap: 10px;
+	grid-template-columns: repeat(2, 1fr);
+	grid-auto-rows: 1fr;
+	max-width: 1440px;
+	font-size: 0;
+  }
+  
+  .item-title {
+	width: 100%;
+	background: rgba(0, 0, 0, 0.5);
+	height: 150px;
+	color: white;
+	font-size: 22px;
+	position: absolute;
+	bottom: -80px;
+	padding: 0 20px;
+  }
+
+  .item-title a {
+	color: white;
+	font-size: 18px;
+  }
+
+  .item-title a:hover, .item-title a:active {
+    box-shadow: none;
+    font-weight: bolder;
+    color: orange;
+  }
+
+  .standard-item:nth-child(2) .item-title {
+	bottom: -20px;
+  }
+
+  .standard-item:nth-child(5) .item-title {
+	bottom: -50px;
+  }
+  .standard-item:nth-child(3) .item-title,
+  .standard-item:nth-child(6) .item-title {
+	  padding-left: 45px;
+  }
+  
+  .hero-item,
+  .standard-item {
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+  }
+  
+  .news-item {
+	display: block;
+	min-height: 400px;
+	width: 50%;
+  }
+  
+  .hero-item:hover .item-title,
+  .standard-item:hover .item-title {
+	bottom: 0px;
+  }
+  
+  .hero-item {
+	background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/53819/divinity-ori-sin.jpg");
+  }
+  
+  .standard-item:nth-child(2),
+  .standard-item:nth-child(5) {
+	background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/53819/re7-chris-large.jpg");
+  }
+  
+  .standard-item:nth-child(3),
+  .standard-item:nth-child(6) {
+	background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/53819/bioshock-large.jpg");
+  }
+  
+  .standard-item:nth-child(4) {
+	background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/53819/dishonored-large.jpg");
+  }
+  
+  @supports (display: grid) {
+	.news-item {
+	  width: auto;
+	  min-height: 0;
+	}
+  
+	.hero-item {
+	  grid-column: 1 / span 2;
+	  grid-row: 1 / 50;
+	  -webkit-clip-path: polygon(0 0, 100% 0, 100% calc(100% - 75px), 0 100%);
+	  clip-path: polygon(0 0, 100% 0, 100% calc(100% - 75px), 0 100%);
+	}
+  
+	.standard-item:nth-child(2),
+	.standard-item:nth-child(5) {
+	  grid-column: 1 / span 1;
+	  grid-row: 50 / 100;
+	  -webkit-clip-path: polygon(0 14%, 0 86%, 90% 81%, 100% 6%);
+	  clip-path: polygon(0 14%, 0 86%, 90% 81%, 100% 6%);
+	  margin-top: -73px;
+	}
+  
+	.standard-item:nth-child(3),
+	.standard-item:nth-child(6) {
+	  grid-column: 2 / span 1;
+	  grid-row: 50 / 100;
+	  -webkit-clip-path: polygon(13% 6%, 4% 84%, 100% 100%, 100% 0%);
+	  clip-path: polygon(13% 6%, 4% 84%, 100% 100%, 100% 0%);
+	  margin-top: -73px;
+	  margin-left: -15%;
+	  margin-bottom: 18px;
+	}
+  
+	.standard-item:nth-child(4) {
+	  grid-column: 1 / span 2;
+	  grid-row: 100 / 150;
+	  -webkit-clip-path: polygon(45% 0, 100% 15%, 100% 100%, 0 100%, 0 5%);
+	  clip-path: polygon(45% 0, 100% 15%, 100% calc(100% - 75px), 0 100%, 0 5%);
+	  margin-top: -107px;
+	}
+  
+	.standard-item:nth-child(5) {
+	  grid-column: 1 / span 1;
+	  grid-row: 150 / 200;
+	}
+  
+	.standard-item:nth-child(6) {
+	  grid-column: 2 / span 1;
+	  grid-row: 150 / 200;
+	}
+  
+	.standard-item:nth-child(7) {
+	  background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/53819/divinity-ori-sin.jpg");
+	  grid-column: 1 / span 2;
+	  grid-row: 200 / 250;
+	  -webkit-clip-path: polygon(45% 0, 100% 15%, 100% 100%, 0 100%, 0 5%);
+	  clip-path: polygon(45% 0, 100% 15%, 100% 100%, 0 100%, 0 5%);
+	  margin-top: -107px;
+	}
+  }
+  
