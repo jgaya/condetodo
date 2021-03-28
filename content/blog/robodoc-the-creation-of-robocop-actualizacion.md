@@ -11,11 +11,7 @@ Migrando el contenido del blog a esta nueva versión para mantener el histórico
 
 Por suerte el proyecto sigue en pie y paso de un documental a tres documentales, uno por cada película, sumando un tiempo total de alrededor de 8 horas, cuatro para robocop y dos horas para cada secuela.
 
-
-
 ![RoboDocs](/assets/robodoc3.jpg "RoboDocs")
-
-
 
 Para explicar mejor la situación, el co-director Christopher Griffiths se sentó con el colaborador y partidario, Richard Jackson en Val Verde Broadcasting para discutir el proyecto y comentar cómo pasó de una simple retrospectiva de 90 minutos a una extravaganza de ocho horas en tres películas. Entrevista que pueden ver a continuación:
 
@@ -35,6 +31,10 @@ Los principales responsables de RoboDoc son:
 * Productores ejecutivos Ed Neumeier and Antony Keen.
 
 Ahora si lo importante,todos los adelantos que han sacado mostrando que el trabajo sigue adelante y que la calidad esta presente y que todas las demoras serán justificadas cuando sean liberadas las tres películas, sin mas preambulos los adelantos.
+
+
+**Editado 28/03/2021 los videos pasaron a estado privado, tampoco se pueden ver en la página oficial ni en su facebook. La última actualización en su fb oficial es del 12 enero del 2021 anunciando más retrasos por la pandemia, el retraso ya es mayor a 3 años... **
+
 
 <iframe style="margin: 0 auto; display:block width: 424px, height:238px" width="424" height="238" src="https://www.youtube.com/embed/LCYF7eOlrJo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
