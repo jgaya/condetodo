@@ -7,6 +7,11 @@ img.center {
 	margin: 0px auto;
 	display: block;
 }
+
+img.fifty {
+	width:50%;
+}
+
 img.polaroid{
     border: 10px solid;
     border-bottom: 40px solid;
