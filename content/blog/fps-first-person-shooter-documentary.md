@@ -9,7 +9,7 @@ tags:
   - peliculas
   - juegos
 ---
-![FPS DOC Poster](assets/fps-poster-a2-black-bg.jpg "FPS DOC Poster")
+![FPS DOC Poster](/assets/fps-poster-a2-black-bg.jpg "FPS DOC Poster")
 
 Nos llega una nueva propuesta de los creadores de los documentales IN SEARCH OF THE LAST ACTION HEROES y IN SEARCH OF DARKNESS, todavía en una etapa muy temprano de desarrollo cuyo nombre es FPS: FIRST PERSON SHOOTER el documental definitivo sobre este género de videojuegos según sus creadores. 
 
