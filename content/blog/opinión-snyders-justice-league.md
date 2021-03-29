@@ -5,8 +5,7 @@ title: "Opinión: Snyder's Justice League"
 thumbnail: assets/sjl.jpg
 description: Mi Opinión sobre Snyder's Justice League
 tags:
-  - news
-  - pelis
+  - peliculas
 ---
 ## Prologo
 
