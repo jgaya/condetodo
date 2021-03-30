@@ -18,3 +18,29 @@ Sin nada nuevo que atraiga a la gente al servicio decidieron desempolvar el Snyd
 ## Trama
 
 Si vieron la versión de Whedon la trama en esencia es la misma, solo que mas explicada, con otro paso, mas cancino, hay momentos que tal vez demasiado para mi gusto. El mcguffin principal de la película "the mother boxes" se explica como  se activan, con el grito final de la vida de superman, el sonido de este grito activa las cajas de alguna manera que no es explicada, y por algún motivo el sonido desafía todo ley de la física doblando para poder llegar al fondo del mar. detalles, todo en super cámara lenta, uno empieza a sospechar que por eso dura 4hs todo es en cámara lenta.
+
+El flashback de la la pelea entre los habitantes de la tierra contra los extraterrestres está con algunas variaciones y mucha cámara lenta. Con  el cameo de un Linterna Verde ayudando a las fuerzas terrestres contra las de Apokolips.  Todo esto juega en contra de la lógica interna de la pelicula mas adelante.
+
+Steppenwolf ya en tiempos modernos, vence fácilmente a las amazonas primero y luego a los habitantes de Atlantis, finalmente queda buscar la última que está inactiva, no habiéndose activado como las otras dos.
+
+Paralelamente un largo tramo de la película Batman y Diana reclutando a Aquaman, Flash y Cyborg, es bastante similar a lo ya visto, con escenas, más largas que es evidente porque fueron cortadas, Aquaman mirando el mar,  Diana y Alfred haciendo té y cosas asi, pura indulgencia del director, uno empieza a mirar el reloj, se empieza a notar que la película no amerita el largo del metraje.
+
+Una vez reunido el equipo van al encuentro del invasor y su ejército de paratroopers comienza la acción y son derrotados, convencidos de que si solo Superman estuviera vivo podrían ganar. Así surge la idea de resucitar a Superman con la misma maquinaria que Luthor uso para crear al engendro que mató a superman en la película anterior. 
+
+Aca la lógica interna de la película comienza a fallar, porque en el pasado todo el ejército de las Amazonas va a luchar y ahora solo mandan a un representante nada más, mismo argumentos para los Atlantes, después de todo deberían de defender el mundo donde viven, pero por algún motivo se conforman con no participar, negando completamente la escena del principio.
+
+Steppenwolf dice que no hay Linternas Verdes protegiendo el planeta, ni Kryptonianos, el planeta esta indefenso, en una conversación con Desaad, lugarteniente de Darkseid, y da a entender que por eso las cajas se despiertan, lo cual no tiene mucho sentido porque se supone que las "cajas madre" están en la tierra miles de años salvo los ultimo 30, sin kriptonianos. Ademas sabiendo como funcionan los Linternas Verdes siempre hay uno asignado a cada sector, asi que deberia de haber uno asignado al sector 2814 (el de la Tierra).
+
+Pero bueno, se arma un plan para resucitar a Superman, pelea con el malo, se logra , Superman le gana a los cinco héroes que lo resucitaron con una facilidad que hace suponer que la liga es innecesaria mientras el exista, es más fuerte que todos combinados, más rápido que flash mejor luchador que Amazona y el Atlante, y mejor estratega que Batman.  Solo se va cuando Lois Lane aparece y el la reconoce y la lleva a villa chica y 5 minutos despues recupera toda su memoria.
+
+El equipo (me rehuso a llamar este rejunta la la Liga) luego de todo eso, decide ir a pelear sin Superman, para que lo resucitaron se pregunta uno, sabiendo que va a ser el Deus Ex Machina de la película cuando haga falta.
+
+Batman hace un plan muy poco característico de ninguna versión de Batman, uno suicida, siendo el señuelo para que el resto del equipo pueda llegar por sorpresa y atacar a Steppenwolf, el equipo decide ir a salvar a Batman desperdiciando el efecto sorpresa, pero llegan a luchar de todas maneras, y cuando están en el momento desesperado a punto de perder, llegar superman y salva el dia justo como uno suponía que iba a pasar. Vencen al malo y la pelicula deberia de terminar ahi, uno mira el reloj y falta media hora, que mas  puede pasar... 
+
+Al igual que el Retorno del Rey, la película no sabe cuando terminar, y tiene muchos puntos en los cuales podría haber terminado, preparando innumerables secuelas que nunca van a pasar ahora, Luthor hablando con Deathstroke sobre quien es Batman, (esto iba a ser la película de Batman de Ben Affleck) Aquaman yendo a buscar a su padre, Flash consiguiendo empleo en el laboratorio de policía y finalmente el futuro distópico donde Superman es el villano porque Lois Lane muere, con un cameo de Jared Leto es su particular versión del Joker (esa en donde no es el Joker) no se porque se insiste con esto no funcionó, cambien el acto.
+
+En resumen la película tiene una trama, principio medio y final,muy repleta de cosas superfluas es mejor que la versión de Whedon, probablemente, pero en esencia es la misma película mala, solo que mas larga, comparten las mismas fallas, una trama risible, los personajes no son fieles a sus personalidades con 80 años de canon atrás, simplemente no se entendió de qué va una película de la Liga de la Justicia, porque es necesaria, en esta película solo fueron necesarios para resucitar a Superman, asi que seran necesarios como los secuaces de Ra's Al Ghul para llevarlo al pozo de Lázaro. 
+
+**Lo que no me gusto**
+
+Los diseños de algunos de los personajes cambian, es cuestion de gustos, pero a mi entender  para peor, muy alejados del material original, especialmente Cyborg (Ironman de segunda mano), Steppenwolf, Darkseid (que no aparece en la versión de whedon)  y Flash.
