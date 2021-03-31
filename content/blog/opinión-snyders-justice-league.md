@@ -15,6 +15,8 @@ Los fans empezaron a pedir esta versión en la redes sociales y a WB no lo impor
 
 Sin nada nuevo que atraiga a la gente al servicio decidieron desempolvar el Snyder Cut, anunciado como una miniserie de 8 capítulos (probablemente hubiera funcionado mejor así) pero ante la imposibilidad de contar con mucho del reparto para filmar material nuevo, se decidió a hacer una película de 4hs, (innecesariamente de 4hs).
 
+<iframe width="1440" height="620" src="https://www.youtube.com/embed/vM-Bja2Gy04" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Trama
 
 Si vieron la versión de Whedon la trama en esencia es la misma, solo que mas explicada, con otro paso, mas cancino, hay momentos que tal vez demasiado para mi gusto. El mcguffin principal de la película "the mother boxes" se explica como  se activan, con el grito final de la vida de superman, el sonido de este grito activa las cajas de alguna manera que no es explicada, y por algún motivo el sonido desafía todo ley de la física doblando para poder llegar al fondo del mar. detalles, todo en super cámara lenta, uno empieza a sospechar que por eso dura 4hs todo es en cámara lenta.
