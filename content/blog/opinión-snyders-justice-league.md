@@ -7,6 +7,8 @@ description: Mi Opinión sobre Snyder's Justice League
 tags:
   - peliculas
 ---
+![](assets/snyder.jpg)
+
 ## Prólogo
 
 Antes de meternos con la película en sí, aclaremos un poco como llegamos a este punto, con una de las producciones más manoseadas de los últimos tiempos. Resumiendo esta hubiera sido la tercera película de Snyder para Warner Bros. pero los ejecutivos de Warner decidieron echarlo de la misma cuando ya estaba filmada, debido a la mala recepción de Batman v Superman: The Dawn of Martha. Lo reemplazaron con Joss Whedon y bueno esa fue la película de la liga que quisieron en los cines, si tuvieron la mala fortuna de ver ese engendro, por lo menos tenía más color que las películas de snyder no mucho más.
