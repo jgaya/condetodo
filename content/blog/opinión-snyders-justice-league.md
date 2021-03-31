@@ -31,9 +31,9 @@ Aca la lógica interna de la película comienza a fallar, porque en el pasado to
 
 Steppenwolf dice que no hay Linternas Verdes protegiendo el planeta, ni Kryptonianos, el planeta esta indefenso, en una conversación con Desaad, lugarteniente de Darkseid, y da a entender que por eso las cajas se despiertan, lo cual no tiene mucho sentido porque se supone que las "cajas madre" están en la tierra miles de años salvo los ultimo 30, sin kriptonianos. Ademas sabiendo como funcionan los Linternas Verdes siempre hay uno asignado a cada sector, asi que deberia de haber uno asignado al sector 2814 (el de la Tierra).
 
-Pero bueno, se arma un plan para resucitar a Superman, pelea con el malo, se logra , Superman le gana a los cinco héroes que lo resucitaron con una facilidad que hace suponer que la liga es innecesaria mientras el exista, es más fuerte que todos combinados, más rápido que flash mejor luchador que Amazona y el Atlante, y mejor estratega que Batman.  Solo se va cuando Lois Lane aparece y el la reconoce y la lleva a villa chica y 5 minutos despues recupera toda su memoria.
+Pero bueno, se arma un plan para resucitar a Superman, pelea con el malo, se logra , Superman le gana a los cinco héroes que lo resucitaron con una facilidad que hace suponer que la liga es innecesaria mientras el exista, es más fuerte que todos combinados, más rápido que flash mejor luchador que Amazona y el Atlante, y mejor estratega que Batman.  Solo se va cuando Lois Lane aparece y él la reconoce y la lleva a villa chica y 5 minutos después recupera toda su memoria.
 
-El equipo (me rehuso a llamar este rejunta la la Liga) luego de todo eso, decide ir a pelear sin Superman, para que lo resucitaron se pregunta uno, sabiendo que va a ser el Deus Ex Machina de la película cuando haga falta.
+El equipo (me rehuso a llamar este rejunte la Liga) luego de todo eso, decide ir a pelear sin Superman, para que lo resucitaron se pregunta uno, sabiendo que va a ser el Deus Ex Machina de la película cuando haga falta.
 
 Batman hace un plan muy poco característico de ninguna versión de Batman, uno suicida, siendo el señuelo para que el resto del equipo pueda llegar por sorpresa y atacar a Steppenwolf, el equipo decide ir a salvar a Batman desperdiciando el efecto sorpresa, pero llegan a luchar de todas maneras, y cuando están en el momento desesperado a punto de perder, llegar superman y salva el dia justo como uno suponía que iba a pasar. Vencen al malo y la pelicula deberia de terminar ahi, uno mira el reloj y falta media hora, que mas  puede pasar... 
 
@@ -41,6 +41,24 @@ Al igual que el Retorno del Rey, la película no sabe cuando terminar, y tiene m
 
 En resumen la película tiene una trama, principio medio y final,muy repleta de cosas superfluas es mejor que la versión de Whedon, probablemente, pero en esencia es la misma película mala, solo que mas larga, comparten las mismas fallas, una trama risible, los personajes no son fieles a sus personalidades con 80 años de canon atrás, simplemente no se entendió de qué va una película de la Liga de la Justicia, porque es necesaria, en esta película solo fueron necesarios para resucitar a Superman, asi que seran necesarios como los secuaces de Ra's Al Ghul para llevarlo al pozo de Lázaro. 
 
+**Lo que me gusto**\
+\
+Difícil encontrar flores en la basura, pero algunas cosas hay. Visualmente Batman esta muy bien, el guión no le dio nada muy espectacular para hacer, ni ninguna linea memorable, su superpoder es ser rico... no seria memorable. 
+
+El reparto de la hipotética película de Batman es muy bueno, Jeremy Irons como un Alfred sarcastico y  el Gordon de J.K. Simmons podria haber dado mucho de si, un villano diferente a los ya vistos en Deathstroke.
+
+La potencial pelicula donde Superman es el villano, resulta mucho más interesante como concepto, por lo menos es algo que no se ha hecho en cine.
+
+En resumen lo que me gusto de la película son las posibilidades más allá de la película, que claramente fue un ejercicio de construcción de mundo más que una película que brilla en soledad, un problema compartido por Iron Man 2 por ejemplo.
+
 **Lo que no me gusto**
 
-Los diseños de algunos de los personajes cambian, es cuestion de gustos, pero a mi entender  para peor, muy alejados del material original, especialmente Cyborg (Ironman de segunda mano), Steppenwolf, Darkseid (que no aparece en la versión de whedon)  y Flash.
+La composición de la Liga, paso a explicar, a lo largo del tiempo la liga ha tenido muchas versiones, pero todas han tenido algo en común, el único miembro en las buenas (JLI) y en las malas (Detroit) ha sido el Martian Manhunter, el no incluirlo de entrada como miembro fundador e incluso peor, el papel penoso que tuvo en la película en donde sabe que se está jugando el destino del planeta y decide no participar, teniendo niveles de fuerza iguales a los de superman es incomprensible, un cameo ridículo que lo deja mal parado al personaje y la lógica de la película, donde nadie quiere defender el planeta para que tenga sentido resucitar a Superman.
+
+La  Liga en sus encarnaciones más fuertes y cuando se le ha dejado elegir los personajes a los escritores sin problemas, han recalado en los 7 grandes de DC, si alguno ha visto o leído  The Boys, como parodian la liga, son llamados The Seven (los siete), Superman, Batman, Wonder Woman, Flash, Green Lantern, Aquaman y Martian Manhunter. Esa es la liga para una primer película, esos son los fundadores y no era tan difícil. La inclusion forzada de Cyborg, un fundador de los Teen Titan, que a través de los dibujos animados todo el mundo conoce como un Titan, no tiene sentido, el hecho que sea un clon de Iron Man, no tiene sentido.
+
+Cómo se encara la personalidad de los personajes, al ser la tercera parte de una trilogía, algunas cosas vienen de las películas anteriores, pero las personalidades de Batman en este película es irreconocible, todo el mundo sabe quién, el se presenta como Batman ante cualquiera, sus planes son suicidas y tontos, no es un detective, no es un estratega y no es paranoico de su identidad secreta, esta gente jamás leyó una historieta de Batman, posiblemente hayan visto los dibujos pero no mucho más. 
+
+Flash es probablemente el personaje donde mas lejos de los comics esta, simplemente mal hecho el casting, la edad elegida del personaje, usarlo de comic relief y sin gracia para colmo... cuando la serie de televisión lo hace 100 veces mejor no hay mucho para decir.
+
+Los diseños de algunos de los personajes cambian, es cuestion de gustos, pero a mi entender  para peor, muy alejados del material original, especialmente Cyborg (Ironman de segunda mano), Steppenwolf, Darkseid (que no aparece en la versión de Whedon) y Flash.
