@@ -7,7 +7,7 @@ description: Mi Opinión sobre Snyder's Justice League
 tags:
   - peliculas
 ---
-<img src="/assets/snyder.jpeg" class="center fifty polaroid"/>
+<img src="/assets/snyder.jpg" class="center fifty polaroid"/>
 <p style={{ textAlign: 'center', color: 'black', marginTop: '-34px' }}>Zack Snyder</p>
 
 ## Prólogo
@@ -79,6 +79,5 @@ Los efectos especiales son dignos de un videojuego de mediados de la década pas
 
 ## Recomendación
 
-Si te gustaron Man of Steel o Batman v Superman, esta es la película para vos, si estás cansado del color en las películas de superhéroe esta es para vos. Si tienes tiempo para perder y podes desconectar el cerebro para ver una película, para los curiosos que quieren hacer la comparación con la versión de Whedon. La recomiendo.\
-\
+Si te gustaron Man of Steel o Batman v Superman, esta es la película para vos, si estás cansado del color en las películas de superhéroe esta es para vos. Si tienes tiempo para perder y podes desconectar el cerebro para ver una película, para los curiosos que quieren hacer la comparación con la versión de Whedon. La recomiendo.
 Para el resto de la gente, especialmente si les gusta el cine o son lectores de DC comics, pasen de verla,  me lo van a agradecer.
