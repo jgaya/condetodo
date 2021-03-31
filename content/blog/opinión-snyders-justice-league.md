@@ -60,10 +60,8 @@ En resumen lo que me gusto de la película son las posibilidades más allá de l
 
 La composición de la Liga, paso a explicar, a lo largo del tiempo la liga ha tenido muchas versiones, pero todas han tenido algo en común, el único miembro en las buenas (JLI) y en las malas (Detroit) ha sido el Martian Manhunter, el no incluirlo de entrada como miembro fundador e incluso peor, el papel penoso que tuvo en la película en donde sabe que se está jugando el destino del planeta y decide no participar, teniendo niveles de fuerza iguales a los de superman es incomprensible, un cameo ridículo que lo deja mal parado al personaje y la lógica de la película, donde nadie quiere defender el planeta para que tenga sentido resucitar a Superman.
 
-<img src="/assets/unite.jpeg" class="center fifty polaroid"/>
+<img src="/assets/unite.jpg" class="center fifty polaroid"/>
 <p style={{ textAlign: 'center', color: 'black', marginTop: '-34px' }}>Imagen promocional oficial de la película original.</p>
-
-![Unite the seven](assets/unite.jpeg "Imagen promocional oficial de la película original.")
 
 La  Liga en sus encarnaciones más fuertes y cuando se le ha dejado elegir los personajes a los escritores sin problemas, han recalado en los 7 grandes de DC, si alguno ha visto o leído  The Boys, como parodian la liga, son llamados The Seven (los siete), Superman, Batman, Wonder Woman, Flash, Green Lantern, Aquaman y Martian Manhunter. Esa es la liga para una primer película, esos son los fundadores y no era tan difícil. La inclusion forzada de Cyborg, un fundador de los Teen Titan, que a través de los dibujos animados todo el mundo conoce como un Titan, no tiene sentido, el hecho que sea un clon de Iron Man, no tiene sentido.
 
