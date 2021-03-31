@@ -41,8 +41,8 @@ Al igual que el Retorno del Rey, la película no sabe cuando terminar, y tiene m
 
 En resumen la película tiene una trama, principio medio y final,muy repleta de cosas superfluas es mejor que la versión de Whedon, probablemente, pero en esencia es la misma película mala, solo que mas larga, comparten las mismas fallas, una trama risible, los personajes no son fieles a sus personalidades con 80 años de canon atrás, simplemente no se entendió de qué va una película de la Liga de la Justicia, porque es necesaria, en esta película solo fueron necesarios para resucitar a Superman, asi que seran necesarios como los secuaces de Ra's Al Ghul para llevarlo al pozo de Lázaro. 
 
-**Lo que me gusto**\
-\
+## **Lo que me gusto**
+
 Difícil encontrar flores en la basura, pero algunas cosas hay. Visualmente Batman esta muy bien, el guión no le dio nada muy espectacular para hacer, ni ninguna linea memorable, su superpoder es ser rico... no seria memorable. 
 
 El reparto de la hipotética película de Batman es muy bueno, Jeremy Irons como un Alfred sarcastico y  el Gordon de J.K. Simmons podria haber dado mucho de si, un villano diferente a los ya vistos en Deathstroke.
@@ -51,7 +51,7 @@ La potencial pelicula donde Superman es el villano, resulta mucho más interesan
 
 En resumen lo que me gusto de la película son las posibilidades más allá de la película, que claramente fue un ejercicio de construcción de mundo más que una película que brilla en soledad, un problema compartido por Iron Man 2 por ejemplo.
 
-**Lo que no me gusto**
+## **Lo que no me gusto**
 
 La composición de la Liga, paso a explicar, a lo largo del tiempo la liga ha tenido muchas versiones, pero todas han tenido algo en común, el único miembro en las buenas (JLI) y en las malas (Detroit) ha sido el Martian Manhunter, el no incluirlo de entrada como miembro fundador e incluso peor, el papel penoso que tuvo en la película en donde sabe que se está jugando el destino del planeta y decide no participar, teniendo niveles de fuerza iguales a los de superman es incomprensible, un cameo ridículo que lo deja mal parado al personaje y la lógica de la película, donde nadie quiere defender el planeta para que tenga sentido resucitar a Superman.
 
@@ -59,6 +59,18 @@ La  Liga en sus encarnaciones más fuertes y cuando se le ha dejado elegir los p
 
 Cómo se encara la personalidad de los personajes, al ser la tercera parte de una trilogía, algunas cosas vienen de las películas anteriores, pero las personalidades de Batman en este película es irreconocible, todo el mundo sabe quién, el se presenta como Batman ante cualquiera, sus planes son suicidas y tontos, no es un detective, no es un estratega y no es paranoico de su identidad secreta, esta gente jamás leyó una historieta de Batman, posiblemente hayan visto los dibujos pero no mucho más. 
 
-Flash es probablemente el personaje donde mas lejos de los comics esta, simplemente mal hecho el casting, la edad elegida del personaje, usarlo de comic relief y sin gracia para colmo... cuando la serie de televisión lo hace 100 veces mejor no hay mucho para decir.
+Flash es probablemente el personaje donde más lejos de los comics esta, simplemente mal hecho el casting, la edad elegida del personaje, usarlo de comic relief y sin gracia para colmo... cuando la serie de televisión lo hace 100 veces mejor no hay mucho para decir.
 
-Los diseños de algunos de los personajes cambian, es cuestion de gustos, pero a mi entender  para peor, muy alejados del material original, especialmente Cyborg (Ironman de segunda mano), Steppenwolf, Darkseid (que no aparece en la versión de Whedon) y Flash.
+Martian Manhunter, usarlo como un cameo, asi, fue un error, como se mencionó más arriba.
+
+Seguir insistiendo con la iconografía religiosa de manera poco sutil ya es graciosa, siempre poniendo a superman contra la luz de brazos abiertos pareciendo crucificado, no era inspirado en Man of Steel o en Batman v Superman, imaginense ahora.
+
+Visualmente los diseños de algunos de los personajes cambian, es cuestion de gustos, pero a mi entender  para peor, muy alejados del material original, especialmente Cyborg (Ironman de segunda mano), Steppenwolf, Darkseid (que no aparece en la versión de Whedon) y Flash.  
+
+Los efectos especiales son dignos de un videojuego de mediados de la década pasada, nada parece realista, especialmente los movimiento de los personajes cuando hacen movimientos super humanos, por momentos parece Matrix o Spiderman original, la liga merece un poco mas de calidad visual.
+
+## Recomendación
+
+Si te gustaron Man of Steel o Batman v Superman, esta es la película para vos, si estás cansado del color en las películas de superhéroe esta es para vos. Si tienes tiempo para perder y podes desconectar el cerebro para ver una película, para los curiosos que quieren hacer la comparación con la versión de Whedon. La recomiendo.\
+\
+Para el resto de la gente, especialmente si les gusta el cine o son lectores de DC comics, pasen de verla,  me lo van a agradecer.
