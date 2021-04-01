@@ -3,11 +3,9 @@ path: La historia perdida de Lionel Hutz en 22 películas cortas sobre Springfie
 date: 2020-06-08T01:01:21.643Z
 title: La historia perdida de Lionel Hutz en 22 películas cortas sobre Springfield
 thumbnail: assets/lionelhutz-300x297.png
-description: "Los Simpson son y serán la seria mas vista, mas citada y
-  probablemente con mayor influencia en la cultura de estos lares y cada
-  información que sale sobre la serie vale la pena, especialmente sobre la era
-  de oro, al episodio que nos referimos hoy es al vigésimo primero de la séptima
-  temporada: 22 películas cortas sobre Springfield."
+description: La historia perdida de Lionel Hutz en 22 películas cortas sobre Springfield
+tags:
+  - tv
 ---
 Los Simpson son y serán la seria mas vista, mas citada y probablemente con mayor influencia en la cultura de estos lares y cada información que sale sobre la serie vale la pena, especialmente sobre la era de oro, al episodio que nos referimos hoy es al vigésimo primero de la séptima temporada: 22 películas cortas sobre Springfield.
 
