@@ -2,7 +2,7 @@
 path: Trailers de peliculas a estrenar proximamente
 date: 2021-04-02T14:58:59.962Z
 title: Trailers de peliculas a estrenar próximamente
-thumbnail: assets/popcorn-movie.jpg
+thumbnail: assets/cinema.jpg
 description: Trailers de peliculas a estrenar próximamente
 tags:
   - peliculas
