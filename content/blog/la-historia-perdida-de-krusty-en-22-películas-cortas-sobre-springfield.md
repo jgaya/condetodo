@@ -7,12 +7,15 @@ description: La historia perdida de Krusty y Ralph en 22 películas cortas sobre
 tags:
   - tv
 ---
+![](assets/krusty.gif)
+
+![](assets/rafa.jpg)
+
 Segunda historia que hemos encontrado que los guionistas de la serie han compartido en la internet luego de la [historia de Lionel Hutz](/blog/la-historia-perdida-de-lionel-hutz-en-22-películas-cortas-sobre-springfield/), en esta oportunidad la protagonizan Krusty el Payaso y Ralph Wiggum (Rafa Gorgory para nosotros).
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Simpsons Museum<br>A treat for you today! The Krusty/Ralph scene we had to cut from &quot;22 Short Films About Springfield&quot; <a href="http://t.co/9THySu1kyj">pic.twitter.com/9THySu1kyj</a></p>&mdash; Josh Weinstein (@Joshstrangehill) <a href="https://twitter.com/Joshstrangehill/status/427154321675808768?ref_src=twsrc%5Etfw">January 25, 2014</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 A continuación me tomo la licencia de traducir el guión para aquellos que no sepan inglés.
-
 
 **Ext. Atmósfera Sobre Springfield**
 
@@ -21,6 +24,7 @@ Continua paneo hacia arriba hasta un jet de Unitas Airlines. Una foto de Johnny 
 **Int. Avion - Cabina de primera Clase - Continuo**
 
 Krusty toma un sorbo del vaso de champagne.
+
 <p style="text-align:center">KRUSTY</p>
 <p style="text-align:center">Ahhh. Primera clase. La clase de los reyes y las celebridades.</p>
 Vemos a un REY con corona charlando con los miembros de ZZ Top.
@@ -53,14 +57,3 @@ La azafata lo guia por el avión.
 <p style="text-align:center">KRUSTY (Continuacion)</p>
 <p style="text-align:center">Cualquiera tiene que ser mejor que el pequeño-- (DESPACIO, HORRORIZADO) oh por dios</p>
 El asiento vacio esta entre Patty  y Selma que ya se pusieron cómodas y se sacaron los zapatos.
-
-
-
-
-
-
-
-
- 
-
-
