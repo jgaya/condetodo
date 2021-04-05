@@ -7,9 +7,14 @@ description: La historia perdida de Krusty y Ralph en 22 películas cortas sobre
 tags:
   - tv
 ---
-![](assets/krusty.gif)
 
-![](assets/rafa.jpg)
+<div style="display:flex">
+<img src="/assets/krusty.gif" class="center polaroid"/>
+<p style={{ textAlign: 'center', color: 'black', marginTop: '-34px' }}>Krusty el payaso.</p>
+
+<img src="/assets/rafa.jpg" class="center fifty polaroid"/>
+<p style={{ textAlign: 'center', color: 'black', marginTop: '-34px' }}>Rafa Gorgory.</p>
+</div>
 
 Segunda historia que hemos encontrado que los guionistas de la serie han compartido en la internet luego de la [historia de Lionel Hutz](/blog/la-historia-perdida-de-lionel-hutz-en-22-películas-cortas-sobre-springfield/), en esta oportunidad la protagonizan Krusty el Payaso y Ralph Wiggum (Rafa Gorgory para nosotros).
 
