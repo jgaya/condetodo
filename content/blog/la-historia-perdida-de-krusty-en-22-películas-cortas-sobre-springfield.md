@@ -11,10 +11,10 @@ Segunda historia que hemos encontrado que los guionistas de la serie han compart
 
 <div style="display:flex">
 <img src="/assets/krusty.gif" class="center polaroid"/>
-<p style={{ textAlign: 'center', color: 'black', marginTop: '-34px' }}>Krusty el payaso.</p>
+<p style="textAlign: center, color: black, marginTop: -34px">Krusty el payaso.</p>
 
 <img src="/assets/rafa.jpg" class="center fifty polaroid"/>
-<p style={{ textAlign: 'center', color: 'black', marginTop: '-34px' }}>Rafa Gorgory.</p>
+<p style="textAlign: center, color: black, marginTop: -34px">Rafa Gorgory.</p>
 </div>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Simpsons Museum<br>A treat for you today! The Krusty/Ralph scene we had to cut from &quot;22 Short Films About Springfield&quot; <a href="http://t.co/9THySu1kyj">pic.twitter.com/9THySu1kyj</a></p>&mdash; Josh Weinstein (@Joshstrangehill) <a href="https://twitter.com/Joshstrangehill/status/427154321675808768?ref_src=twsrc%5Etfw">January 25, 2014</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
