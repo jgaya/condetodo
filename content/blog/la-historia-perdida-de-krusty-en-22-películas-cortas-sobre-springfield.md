@@ -66,3 +66,7 @@ La azafata lo guia por el avión.
 <p style="text-align:center">KRUSTY (Continuacion)</p>
 <p style="text-align:center">Cualquiera tiene que ser mejor que el pequeño-- (DESPACIO, HORRORIZADO) oh por dios</p>
 El asiento vacío está entre Patty  y Selma que ya se pusieron cómodas y se sacaron los zapatos.
+
+Un segmento cortito pero efectivo, personalmente el toque de Unitas airlines me gusto, usados en multiples episodios, asociado para siempre por estas latitudes con *"Ese corte si se deja ver."* \
+\
+Hasta la proxima.
