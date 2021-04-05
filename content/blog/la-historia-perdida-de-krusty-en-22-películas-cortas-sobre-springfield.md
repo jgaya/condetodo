@@ -31,5 +31,20 @@ Vemos a un REY con corona charlando con los miembros de ZZ Top.
 Krusty reclina hacia atrás su asiento y suspira contento.
 <p style="text-align:center">RAFA (Fuera de cuadro)</p>
 <p style="text-align:center">Voy a casa de la abuela y el piloto me dio unas alas, me pinche salio sangre, así que me toca sentarme en primera clase</p>
+Mientras habla, la cámara retrocede para revelar a RAFA con una curita en su dedo sentado al lado de KRUSTY. Uno de los ojos de KRUSTY se abre rápidamente en alarma y comienza a mirar alrededor.
+<p style="text-align:center">RAFA (Continuacion)</p>
+<p style="text-align:center">Tengo sanguches en mi bolsillo, pero son para después. Puedes tener uno pero son para después</p>
+Rafa saca un aplastado y chorreante sándwich de mantequilla de maní y jalea de su bolsillo de atrás. KRUSTY empieza a golpear repetidamente el botón de servicio.
+<p style="text-align:center">KRUSTY</p>
+<p style="text-align:center">Sobrecargo, me estoy muriendo aquí!</p>
+<p style="text-align:center">RAFA</p>
+<p style="text-align:center">Sabes que puedo jugar Merlin? Mira</p>
+Saca el juego y este empieza a emitir unos sonidos irritantes al azar que RAFA intenta imitar en el teclado.
+<p style="text-align:center">KRUSTY</p>
+<p style="text-align:center">Esto no esta pasando</p>
+
+
+
+ 
 
 
