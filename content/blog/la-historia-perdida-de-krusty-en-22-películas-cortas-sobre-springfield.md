@@ -1,6 +1,6 @@
 ---
 path: La historia perdida de Krusty y Ralph en 22 películas cortas sobre Springfield
-date: 2021-04-01T15:56:47.667Z
+date: 2021-04-05T15:56:47.667Z
 title: La historia perdida de Krusty y Ralph en 22 películas cortas sobre Springfield
 thumbnail: assets/krusty.jpg
 description: La historia perdida de Krusty y Ralph en 22 películas cortas sobre Springfield
