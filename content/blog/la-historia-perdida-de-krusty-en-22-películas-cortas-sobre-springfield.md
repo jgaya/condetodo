@@ -12,12 +12,12 @@ Segunda historia que hemos encontrado que los guionistas de la serie han compart
 <div style="display:flex">
 <div>
 <img src="/assets/krusty.gif" class="center polaroid"/>
-<p style="textAlign: center, color: black, marginTop: -34px">Krusty el payaso.</p>
+<p style="text-align:center; color: black; margin-top: -34px">Krusty el payaso.</p>
 </div>
 <div>
 
 <img src="/assets/rafa.jpg" class="center fifty polaroid"/>
-<p style="textAlign: center, color: black, marginTop: -34px">Rafa Gorgory.</p>
+<p style="text-align:center; color: black; margin-top: -34px">Rafa Gorgory.</p>
 </div>
 
 </div>
