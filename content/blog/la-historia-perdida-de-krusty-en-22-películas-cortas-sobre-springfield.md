@@ -42,6 +42,22 @@ Rafa saca un aplastado y chorreante sándwich de mantequilla de maní y jalea de
 Saca el juego y este empieza a emitir unos sonidos irritantes al azar que RAFA intenta imitar en el teclado.
 <p style="text-align:center">KRUSTY</p>
 <p style="text-align:center">Esto no esta pasando</p>
+La azafata se acerca con un brazo lleno de auriculares. 
+<p style="text-align:center">KRUSTY (Continuacion)</p>
+<p style="text-align:center">Llevame muy muy lejos.</p>
+<p style="text-align:center">AZAFATA</p>
+<p style="text-align:center">De acuerdo, pero solo hay un solo asiento desocupado en todo el avión.</p>
+<p style="text-align:center">KRUSTY</p>
+<p style="text-align:center">Demelo!</p>
+La azafata lo guia por el avión.
+<p style="text-align:center">KRUSTY (Continuacion)</p>
+<p style="text-align:center">Cualquiera tiene que ser mejor que el pequeño-- (DESPACIO, HORRORIZADO) o por dios/p>
+El asiento vacio esta entre Patty  y Selma que ya se pusieron cómodas y se sacaron los zapatos.
+
+
+
+
+
 
 
 
