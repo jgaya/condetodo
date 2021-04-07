@@ -92,7 +92,7 @@ Moleman yace a los pies de Dios.
 
 Moleman se despierta, esta vivo. Etienne esta sorprendida.
 <p style="text-align: center">ETIENNE</p>
-<p style="text-align: center">Eres inmortal! (se arrodilla ante Moleman) Perdona mi vida y te dare tu parte de las ganancias.</p>
+<p style="text-align: center">Eres inmortal! (se arrodilla ante Moleman) Perdona mi vida y te daré tu parte de las ganancias.</p>
 <p style="text-align: center">MOLEMAN</p>
 <p style="text-align: center">(EL DE SIEMPRE) Eso estaria bien. Ahora por favor, me darias para el colectivo?</p>
 
@@ -100,7 +100,10 @@ Etienne le da una moneda y el se va.
 
 **EXT - RASCACIELOS**
 
+Moleman sale del edificio justo cuando Bart viene andando en la patineta por la vereda. Bart lo golpea y se le cae la moneda en una alcantarilla.
 
+<p style="text-align: center">MOLEMAN</p>
+<p style="text-align: center">Ahora, nunca voy a llegar.</p>
 
 
 
