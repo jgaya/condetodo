@@ -1,6 +1,6 @@
 ---
 path: La historia perdida de Hans Moleman en 22 peliculas cortas sobre Springfield
-date: 2021-04-05T17:38:41.358Z
+date: 2021-04-14T17:38:41.358Z
 title: La historia perdida de Hans Moleman en 22 películas cortas sobre Springfield
 thumbnail: assets/moleman.jpg
 description: La historia perdida de Hans Moleman en 22 películas cortas sobre Springfield
@@ -105,13 +105,4 @@ Moleman sale del edificio justo cuando Bart viene andando en la patineta por la 
 <p style="text-align: center">MOLEMAN</p>
 <p style="text-align: center">Ahora, nunca voy a llegar.</p>
 
-
-
-
-
-
-
-
-
-
-
+Fin.
