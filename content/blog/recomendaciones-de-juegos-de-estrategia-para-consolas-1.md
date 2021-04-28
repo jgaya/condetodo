@@ -12,6 +12,12 @@ tags:
 
 Commandos pero en el viejo oeste, para aquellos que no hayan jugado al commandos, es un juego de estrategia en tiempo real, donde tenemos un equipo de 1 a 5 personas con diferentes habilidades para lograr el objetivo dependiendo del nivel que estemos. Un juego donde hay que usar el sigilo y trabajo de equipo para poder avanzar, no es posible pasar un nivel a los tiros como si fuera un shooter.
 
+Los enemigos en cada nivel tienen un cono de visión y las armas de fuego tienen un rango donde son oídas, con lo cual muchas veces es preferible las distracciones y las armas blancas para matar o pasar a los enemigos.
+
+El protagonista es John Cooper, sus habilidades 2 revolvers (puede matar a 2 enemigos en el mismo momento) un cuchillo que mata a corta distancia y hay que recuperar para volver a usarlo e infinitas monedas falsas para generar distracciones en los enemigos y animales, pero con un cooldown para usarla.
+
+
+
 <iframe width="1424" height="563" src="https://www.youtube.com/embed/llRb_xrChkk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Gears Tactics
