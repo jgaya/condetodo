@@ -22,7 +22,7 @@ Lo acompañan el Dr Mccoy, que es un francotirador con la capacidad de curar y d
 
 Héctor un grandote que posee una trampa para osos, una escopeta que a corta distancia mata a todo lo que este adelante, la capacidad de curarse y un silbido que atrae a quien lo escucha.
 
-Kate O'Hara
+Kate O'Hara lleva un deringer para matar a cortísima distancia, un frasco de perfume que ciega momentáneamente a los enemigos y un disfraz que le permite distraer y atraer a la mayoría de los adversarios excepto un tipo que las descubre y los perros guardianes.
 
 Isabelle Moreau 
 
