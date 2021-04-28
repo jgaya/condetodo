@@ -10,11 +10,18 @@ tags:
 ---
 # Desperados 3
 
+Commandos pero en el viejo oeste, 
+
+<iframe width="1424" height="563" src="https://www.youtube.com/embed/llRb_xrChkk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Gears Tactics
 
+<iframe width="1424" height="563" src="https://www.youtube.com/embed/s225ZVmUdGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Mutant Year Zero: Road To Eden
 
+<iframe width="1424" height="563" src="https://www.youtube.com/embed/d3tLGCYSmqo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Empire Of Sin
+
+<iframe width="1424" height="563" src="https://www.youtube.com/embed/tcHqbLwAWx8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
