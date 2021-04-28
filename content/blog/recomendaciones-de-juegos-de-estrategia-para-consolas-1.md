@@ -10,7 +10,7 @@ tags:
 ---
 # Desperados 3
 
-Commandos pero en el viejo oeste, 
+Commandos pero en el viejo oeste, para aquellos que no hayan jugado al commandos, es un juego de estrategia en tiempo real, donde tenemos un equipo de 1 a 5 personas con diferentes habilidades para lograr el objetivo dependiendo del nivel que estemos. Un juego donde hay que usar el sigilo y trabajo de equipo para poder avanzar, no es posible pasar un nivel a los tiros como si fuera un shooter.
 
 <iframe width="1424" height="563" src="https://www.youtube.com/embed/llRb_xrChkk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
