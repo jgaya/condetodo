@@ -16,6 +16,8 @@ Los enemigos en cada nivel tienen un cono de visión y las armas de fuego tienen
 
 La historia sin spoilers es clasica, una de venganza, el protagonista debe vengar la muerte de su padre y esta es la historia de todo lo que debe hacer y con quienes se encuentra para llevar a cabo su cometido.
 
+<iframe width="1424" height="563" src="https://www.youtube.com/embed/llRb_xrChkk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 El protagonista es John Cooper, sus habilidades 2 revolvers (puede matar a 2 enemigos en el mismo momento) un cuchillo que mata a corta distancia y hay que recuperar para volver a usarlo e infinitas monedas falsas para generar distracciones en los enemigos y animales, pero con un cooldown para usarla.
 
 Lo acompañan el Dr Mccoy, que es un francotirador con la capacidad de curar y de atraer a algunos enemigos con su bolsa y una especie de granada de gas.
@@ -24,9 +26,13 @@ Héctor un grandote que posee una trampa para osos, una escopeta que a corta dis
 
 Kate O'Hara lleva un deringer para matar a cortísima distancia, un frasco de perfume que ciega momentáneamente a los enemigos y un disfraz que le permite distraer y atraer a la mayoría de los adversarios excepto un tipo que las descubre y los perros guardianes.
 
-Isabelle Moreau 
+Isabelle Moreau es una experta en vudú y puede curarse, hacer un link entre 2 enemigos para sufran la misma suerte, si uno muere el otro tambien y tambien puede controlar mentalmente a otro.
 
-<iframe width="1424" height="563" src="https://www.youtube.com/embed/llRb_xrChkk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+El juego es real time todo el tiempo, salvo cuando se activa el modo duelo, donde podemos planificar las acciones de todos los miembros del equipo y ejecutar el plan para que todo pase a la vez, es muy útil en muchos escenarios.
+
+El diseño de los niveles es muy bueno y variado el juego tiene una extensión que permite hacer uso de todos los personajes y todas sus habilidades, tiene unos 4 niveles de dificultad, y muchos objetivos por nivel que permiten una gran rejugabilidad. También existen los desafíos del barón, que toma partes de un nivel con algún objetivo en particular a realizar. 
+
+Un juego muy completo y que se disfruta mucho si uno es o no fan del genero, lo recomiendo ampliamente.
 
 # Gears Tactics
 
