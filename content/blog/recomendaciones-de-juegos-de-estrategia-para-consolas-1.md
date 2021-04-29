@@ -36,6 +36,8 @@ Un juego muy completo y que se disfruta mucho si uno es o no fan del genero, lo 
 
 # Gears Tactics
 
+La mezcla perfecta entre X-Com y Gears of War, como si la fórmula de Gears hubiera sido pensada para este tipo de juego, el sistema por turnos se acopla perfecto con el cubrirse y disparar de Gears, los mecanismos son muy similares a los Xcom estrategia por turnos, con un número limitados de movimientos por jugador primero un equipo y luego la máquina, hay 4 tipo de misiones, mantener las bases X cantidad de turnos, huir de un ataque antes de que alcance, conquistar un objetivo limpiando de enemigos la zona
+
 <iframe width="1424" height="563" src="https://www.youtube.com/embed/s225ZVmUdGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Mutant Year Zero: Road To Eden
