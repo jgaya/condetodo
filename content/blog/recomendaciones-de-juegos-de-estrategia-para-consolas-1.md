@@ -54,4 +54,11 @@ En resumen muy recomendado para todo fan de Xcom, e incluso para la gente fana d
 
 # Empire Of Sin
 
+Empire of Sin es un juego indie de Romero Games, uno de los creadores de Id Software, ni mas ni menos, y los esperaba con ansias, es un mezcla de estrategia por turnos con manejo de recursos y diplomacia.
+
+Uno debe elegir a un jefe de una banda de mafiosos recién llegado a Chicago en los años 20 y adueñarse de la ciudad, de a un barrio a la vez, hay más de una docena de mafiosos para arrancar a jugar entre ellos el celebre Alphonse Capone 
+
+Son todas grandes ideas y la combinación parece que funciona, pero se al querer abarcar mucho se queda corto, la diplomacia puede ser ignorada completamente una vez que uno se hace fuerte y tiene una buena economía y al personaje que eligió en un un nivel alto con las habilidades desbloqueadas.
+
+
 <iframe width="1424" height="563" src="https://www.youtube.com/embed/tcHqbLwAWx8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
