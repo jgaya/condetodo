@@ -36,7 +36,14 @@ Un juego muy completo y que se disfruta mucho si uno es o no fan del genero, lo 
 
 # Gears Tactics
 
-La mezcla perfecta entre X-Com y Gears of War, como si la fórmula de Gears hubiera sido pensada para este tipo de juego, el sistema por turnos se acopla perfecto con el cubrirse y disparar de Gears, los mecanismos son muy similares a los Xcom estrategia por turnos, con un número limitados de movimientos por jugador primero un equipo y luego la máquina, hay 4 tipo de misiones, mantener las bases X cantidad de turnos, huir de un ataque antes de que alcance, conquistar un objetivo limpiando de enemigos la zona
+La mezcla perfecta entre X-Com y Gears of War, como si la fórmula de Gears hubiera sido pensada para este tipo de juego, el sistema por turnos se acopla perfecto con el cubrirse y disparar de Gears, los mecanismos son muy similares a los Xcom estrategia por turnos, con un número limitados de movimientos por jugador primero un equipo y luego la máquina, hay 4 tipo de misiones, mantener las bases X cantidad de turnos, huir de un ataque antes de que alcance, conquistar un objetivo limpiando de enemigos la zona y rescatar aliados prisioneros.
+
+Hay 5 clases de soldado, sniper, medic, heavy, scout y assault que son clásicas y son lo que uno espera con esos nombres, cada héroe tiene un arbol de habilidades que al cual se van desbloqueando a medida que vamos subiendo de nivel.
+
+Buen diseño de niveles aunque se repiten bastante debido al grind que hay que para llegar al final o tratar de desbloquear todos los logros, eso es consistente con la saga de Gears, otra cosa que se respeta de la saga principal son los grandes jefes al final de un capítulo de la historia, algo que quedo muy bien integrado con el juego por turnos.
+
+En resumen muy recomendado para todo fan de Xcom, e incluso para la gente fana de Gears, se pueden llevar una grata sorpresa.
+
 
 <iframe width="1424" height="563" src="https://www.youtube.com/embed/s225ZVmUdGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
