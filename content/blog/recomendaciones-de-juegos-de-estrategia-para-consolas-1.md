@@ -69,6 +69,7 @@ Podemos contratar gangsters para ampliar nuestra banda y ayudarnos en las peleas
 
 El juego tiene grandes ideas y la combinación casi que funciona, pero se al querer abarcar mucho se queda corto, la diplomacia puede ser ignorada completamente una vez que uno se hace fuerte y tiene una buena economía y al personaje que eligió en un un nivel alto con las habilidades desbloqueadas. La economía no es un factor real a tener en cuenta, al tener 10 o 15  negocios,  y los combates se ponen muy repetitivos debido a que hay muy pocas locaciones diferente, son 3 o 4 tipos de edificio y se repiten mucho, al tener que defender los locales de uno cuando los atacan, siempre son 2 contra 2 o 3 contra 3 con pocas habilidades, y se pone molesto. Tampoco ayuda que si uno quiere que el desenlace de uno de estos combates se haga automatico, el % de ganar que muestra el juego es irrelevante, entre 51% o 75% a favor uno pierde siempre el combate, SIEMPRE, a partir de 80%, una gana el 100% de los mismos, así que es un sistema binario donde los % no importan.
 
+Un juego que recomiendo solo a los fans del género y a aquellos que lo tengan en gamepass, ya que no les cuesta nada probarlo.  
 
 
 
