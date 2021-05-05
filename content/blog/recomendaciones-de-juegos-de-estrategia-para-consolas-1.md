@@ -54,11 +54,21 @@ En resumen muy recomendado para todo fan de Xcom, e incluso para la gente fana d
 
 # Empire Of Sin
 
-Empire of Sin es un juego indie de Romero Games, uno de los creadores de Id Software, ni mas ni menos, y los esperaba con ansias, es un mezcla de estrategia por turnos con manejo de recursos y diplomacia.
+Empire of Sin es un juego indie de Romero Games, uno de los creadores de Id Software, ni mas ni menos, y lo esperaba con ansias, es un mezcla de estrategia por turnos con manejo de recursos y diplomacia.
 
-Uno debe elegir a un jefe de una banda de mafiosos recién llegado a Chicago en los años 20 y adueñarse de la ciudad, de a un barrio a la vez, hay más de una docena de mafiosos para arrancar a jugar entre ellos el celebre Alphonse Capone 
+Uno debe elegir a un jefe de una banda de mafiosos recién llegado a Chicago en los años 20 y adueñarse de la ciudad, de a un barrio a la vez, hay más de una docena de mafiosos para arrancar a jugar entre ellos el célebre Alphonse Capone.
 
-Son todas grandes ideas y la combinación parece que funciona, pero se al querer abarcar mucho se queda corto, la diplomacia puede ser ignorada completamente una vez que uno se hace fuerte y tiene una buena economía y al personaje que eligió en un un nivel alto con las habilidades desbloqueadas.
+Así que arrancando con un negocio y solo, se comienza el juego, la idea es dominar la ciudad y eliminar a todas las bandas rivales, la economía del juego pasa por comprar o robar a las otras bandas un negocio de los cuales hay 4 tipos, un hotel, un casino, un burdel, un bar clandestino y las fábricas de alcohol. El tipo de alcohol que se vende en un barrio depende de la economía del barrio y puede ir de veneno a whisky. 
 
+Las alianzas con otras bandas pueden ser de no agresión, de protección o acuerdos comerciales, plata x alcohol. Cuando se declara la guerra a una banda se pueden robar sus locales, tras una pelea por el mismo, primero en la puerta y luego dentro del local al ganar las 2 peleas controlamos el negocio y pasa a ser de los nuestros.
+
+Podemos contratar gangsters para ampliar nuestra banda y ayudarnos en las peleas por turnos, y estos tienen un sistema de amigos/enemigos/amantes , donde pueden negarse a trabajar con alguien o negarse a dispararle a alguien por amistad/amor.  
 
 <iframe width="1424" height="563" src="https://www.youtube.com/embed/tcHqbLwAWx8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+El juego tiene grandes ideas y la combinación casi que funciona, pero se al querer abarcar mucho se queda corto, la diplomacia puede ser ignorada completamente una vez que uno se hace fuerte y tiene una buena economía y al personaje que eligió en un un nivel alto con las habilidades desbloqueadas. La economía no es un factor real a tener en cuenta, al tener 10 o 15  negocios,  y los combates se ponen muy repetitivos debido a que hay muy pocas locaciones diferente, son 3 o 4 tipos de edificio y se repiten mucho, al tener que defender los locales de uno cuando los atacan, siempre son 2 contra 2 o 3 contra 3 con pocas habilidades, y se pone molesto. Tampoco ayuda que si uno quiere que el desenlace de uno de estos combates se haga automatico, el % de ganar que muestra el juego es irrelevante, entre 51% o 75% a favor uno pierde siempre el combate, SIEMPRE, a partir de 80%, una gana el 100% de los mismos, así que es un sistema binario donde los % no importan.
+
+
+
+
