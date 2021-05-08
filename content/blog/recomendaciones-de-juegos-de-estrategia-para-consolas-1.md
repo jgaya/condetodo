@@ -16,7 +16,7 @@ Los enemigos en cada nivel tienen un cono de visión y las armas de fuego tienen
 
 La historia sin spoilers es clásica, una de venganza, el protagonista debe vengar la muerte de su padre y esta es la historia de todo lo que debe hacer y con quienes se encuentra para llevar a cabo su cometido.
 
-<iframe width="1424" height="563" src="https://www.youtube.com/embed/llRb_xrChkk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1424" height="620" src="https://www.youtube.com/embed/wrKz2jYN3fQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 El protagonista es John Cooper, sus habilidades 2 revolvers (puede matar a 2 enemigos en el mismo momento) un cuchillo que mata a corta distancia y hay que recuperar para volver a usarlo e infinitas monedas falsas para generar distracciones en los enemigos y animales, pero con un cooldown para usarla.
 
@@ -36,7 +36,7 @@ Un juego muy completo y que se disfruta mucho si uno es o no fan del género, lo
 
 # Gears Tactics
 
-<iframe width="1424" height="563" src="https://www.youtube.com/embed/s225ZVmUdGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1424" height="620" src="https://www.youtube.com/embed/9lF7pye7BUw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 La mezcla perfecta entre X-Com y Gears of War, como si la fórmula de Gears hubiera sido pensada para este tipo de juego, el sistema por turnos se acopla perfecto con el cubrirse y disparar de Gears, los mecanismos son muy similares a los Xcom estrategia por turnos, con un número limitados de movimientos por jugador primero un equipo y luego la máquina, hay 4 tipo de misiones, mantener las bases X cantidad de turnos, huir de un ataque antes de que alcance, conquistar un objetivo limpiando de enemigos la zona y rescatar aliados prisioneros.
 
@@ -59,7 +59,7 @@ El juego tiene una gran atmósfera, y todo las mejoras que podemos conseguir las
 
 El misterio del juego y su resolución son buenos y aun cuando dan una conclusión quedan ganas de seguir jugando, los logros no son imposibles ni requieren demasiado grind, recomiendo mucho tanto a los fans del género como a aquellos que les gusta una historia bien contada.
 
-<iframe width="1424" height="563" src="https://www.youtube.com/embed/d3tLGCYSmqo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1424" height="620" src="https://www.youtube.com/embed/LzQ6-FFCGaM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Empire Of Sin
 
@@ -73,8 +73,7 @@ Las alianzas con otras bandas pueden ser de no agresión, de protección o acuer
 
 Podemos contratar gangsters para ampliar nuestra banda y ayudarnos en las peleas por turnos, y estos tienen un sistema de amigos/enemigos/amantes , donde pueden negarse a trabajar con alguien o negarse a dispararle a alguien por amistad/amor.
 
-
-<iframe width="1424" height="563" src="https://www.youtube.com/embed/tcHqbLwAWx8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1424" height="620" src="https://www.youtube.com/embed/khkvcTEznJ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 El juego tiene grandes ideas y la combinación casi que funciona, pero al querer abarcar mucho se queda corto, la diplomacia puede ser ignorada completamente una vez que uno se hace fuerte y tiene una buena economía y al personaje que eligió en un un nivel alto con las habilidades desbloqueadas. La economía no es un factor real a tener en cuenta, al tener 10 o 15 negocios, y los combates se ponen muy repetitivos debido a que hay muy pocas locaciones diferente, son 3 o 4 tipos de edificio y se repiten mucho, al tener que defender los locales de uno cuando los atacan, siempre son 2 contra 2 o 3 contra 3 con pocas habilidades, y se pone molesto. Tampoco ayuda que si uno quiere que el desenlace de uno de estos combates se haga automático, el % de ganar que muestra el juego es irrelevante, entre 51% o 75% a favor uno pierde siempre el combate, SIEMPRE, a partir de 80%, una gana el 100% de los mismos, así que es un sistema binario donde los % no importan.
 
