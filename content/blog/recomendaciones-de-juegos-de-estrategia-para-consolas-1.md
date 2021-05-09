@@ -8,6 +8,8 @@ description: "Ganas de Jugar algo como Xcom o Commandos, 4 opciones para
 tags:
   - juegos
 ---
+Cansado de los shooters, los mundos abiertos interminables, y juegos de deportes? Queres volver a los juegos de estrategia de antaño o sos fan del género y andas buscando un nuevo desafío, te recomiendo uno o varios de estos cuatro para que puedas probar.
+
 # Desperados 3
 
 Commandos pero en el viejo oeste, para aquellos que no hayan jugado al Commandos, es un juego de estrategia en tiempo real, donde tenemos un equipo de 1 a 5 personas con diferentes habilidades para lograr el objetivo dependiendo del nivel que estemos. Un juego donde hay que usar el sigilo y trabajo de equipo para poder avanzar, no es posible pasar un nivel a los tiros como si fuera un shooter.
