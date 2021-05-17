@@ -107,6 +107,19 @@ module.exports = {
       options: {
         publicId: 'ra-5eec1405007ffbd0'
       } 
-    }
+    },
+    {
+    resolve: "gatsby-plugin-social-cards",
+      options: {
+        // ommit to skip
+        authorImage: "./static/profile-pic.jpg",
+        // image to use when no cover in frontmatter
+        // backgroundImage: "./static/img/hvitserkur.JPG",
+        // author to use when no auth in frontmatter
+        defaultAuthor: "Don Canta",
+        // card design
+        design: "default", // 'default' or 'card'
+      },
+    },
   ],
 }
