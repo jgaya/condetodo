@@ -3,8 +3,8 @@ path: Juegos de Junio de los servicios de Consolas
 date: 2021-05-26T16:53:13.433Z
 title: Juegos de Junio de los servicios de Consolas
 thumbnail: assets/games.jpg
-description: Anunciados los. Games with gold y los juegos PSN  correspondientes
-  a Junio de 2021
+description: Anunciados los Games with gold y los juegos PSN correspondientes a
+  Junio de 2021
 tags:
   - juegos
 ---
