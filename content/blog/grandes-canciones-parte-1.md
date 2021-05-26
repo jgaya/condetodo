@@ -10,3 +10,5 @@ tags:
   - pelis
 ---
 Jet - Are you gonna be my girl
+Adele - Skyfall
+Robert Palmer - Addicted to love
