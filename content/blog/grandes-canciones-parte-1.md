@@ -42,7 +42,7 @@ tags:
 31. Tears For Fears - Sowing the seeds of love
 32. Queen - Under Pressure
 33. Bonnie Tyler - Total Eclipse of the heart
-34. Bonnie Tyler - I Need a Hero
+34. Bonnie Tyler - Holding Out For A Hero 
 35. Cutting Crew - (I Just) Died In Your Arms
 36. Modern Talking - Brother Louie
 37. Starship - Nothing's Gonna Stop Us Now
@@ -65,5 +65,28 @@ tags:
 54. ALPHAVILLE - Forever Young
 55. Kool & The Gang - Celebration 
 56. Dead Or Alive - You Spin Me Round (Like a Record)
-57.
-58.
+57. OPUS - Live Is Life
+58. Bon Jovi - I'll Be There For You
+59. Survivor - Burning Heart
+60. ZZ Top - Gimme All Your Lovin'
+61. Crowded House - Don't Dream It's Over
+62. Billy Joel - Uptown Girl
+63. Daryl Hall & John Oates - Maneater
+64. Billy Joel - We Didn't Start the Fire 
+65. The Bangles - Eternal Flame
+66. Lionel Richie - All Night Long (All Night)
+67. Dire Straits - Money For Nothing
+68. Paul Young - Everytime You Go Away
+69. Mr. Mister - Broken Wings
+70. Phil Collins - In The Air Tonight
+71. Whitesnake - Is This Love
+72. The Clash - Should I Stay or Should I Go 
+73. Air Supply - All Out Of Love
+74. Bon Jovi - Wanted Dead Or Alive
+75. Men At Work - Who Can It Be Now?
+76. Toto - Rosanna
+77.
+78.
+80.
+
+
