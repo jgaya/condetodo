@@ -19,23 +19,33 @@ tags:
 
   > Go
   >
-  > So one, two, three, take my hand and come with me\
-  > Because you look so fine that I really wanna make you mine\
+  > So one, two, three, take my hand and come with me
+  >
+  > Because you look so fine that I really wanna make you mine
+  >
   > I say you look so fine that I really wanna make you mine
   >
-  > Oh, four, five, six, c'mon and get your kicks\
-  > Now you don't need the money\
+  > Oh, four, five, six, c'mon and get your kicks
+  >
+  > Now you don't need the money
   > When you look like that do you honey
   >
-  > Big black boots\
-  > Long brown hair\
-  > She's so sweet with her\
+  > Big black boots
+  >
+  > Long brown hair
+  >
+  > She's so sweet with her
+  > 
   > Get back stare
   >
-  > Well I could see\
-  > You home with me\
-  > But you were with another man, yeah\
-  > I know we ain't got much to say\
+  > Well I could see
+  >
+  > You home with me
+  >
+  > But you were with another man, yeah
+  >
+  > I know we ain't got much to say
+  > 
   > Before I let you get away, yeah
   >
   > I said, are you gonna be my girl
