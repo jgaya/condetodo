@@ -11,99 +11,170 @@ tags:
 ---
 1. Jet - Are you gonna be my girl 
 
+## Album Get Born
+
+## Año 2003
+
 <iframe style="margin: 0 auto; display:block width: 424px, height:238px" width="424" height="238" src="https://www.youtube.com/embed/tuK6n2Lkza0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* Album Get Born
-* Año 2003
-* Letra
+## Letra
 
-  > Go
-  >
-  > So one, two, three, take my hand and come with me
-  >
-  > Because you look so fine that I really wanna make you mine
-  >
-  > I say you look so fine that I really wanna make you mine
-  >
-  > Oh, four, five, six, c'mon and get your kicks
-  >
-  > Now you don't need the money
-  >
-  > When you look like that do you honey
-  >
-  >
-  > Big black boots
-  >
-  > Long brown hair
-  >
-  > She's so sweet with her
-  > 
-  > Get back stare
-  >
-  > Well I could see
-  >
-  > You home with me
-  >
-  > But you were with another man, yeah
-  >
-  > I know we ain't got much to say
-  > 
-  > Before I let you get away, yeah
-  >
-  > I said, are you gonna be my girl
-  >
-  > Well it's one, two, three, take my hand and come with me
-  >
-  > Because you look so fine that I really wanna make you mine
-  >
-  > I say you look so fine that I really wanna make you mine
-  >
-  > Oh four, five, six, c'mon and get your kicks
-  >
-  > Now you don't need the money
-  >
-  > With a face like that do ya
-  >
-  > Big black boots
-  >
-  > Long brown hair
-  >
-  > She's so sweet with her
-  >
-  > Get back stare
-  >
-  >
-  > Well I could see\
-  > You home with me\
-  > But you were with another man, yeah\
-  > I know we ain't got much to say\
-  > Before I let you get away, yeah
-  >
-  > I said, are you gonna be my girl
-  >
-  > Oh yeah
-  >
-  > Oh yeah
-  >
-  > C'mon
-  >
-  > I could see
-  >
-  > You home with me
-  >
-  > But you were with another man, yeah
-  >
-  > I know we ain't got much to say
-  >
-  > Before I let you get away, yeah
-  >
-  > Uh, be my girl
-  >
-  > Be my girl
-  >
-  > Are you gonna be my girl, yeah
+> Go
+>
+> So one, two, three, take my hand and come with me
+>
+> Because you look so fine that I really wanna make you mine
+>
+> I say you look so fine that I really wanna make you mine
+>
+> Oh, four, five, six, c'mon and get your kicks
+>
+> Now you don't need the money
+>
+> When you look like that do you honey
+>
+> Big black boots
+>
+> Long brown hair
+>
+> She's so sweet with her
+>
+> Get back stare
+>
+> Well I could see
+>
+> You home with me
+>
+> But you were with another man, yeah
+>
+> I know we ain't got much to say
+>
+> Before I let you get away, yeah
+>
+> I said, are you gonna be my girl
+>
+> Well it's one, two, three, take my hand and come with me
+>
+> Because you look so fine that I really wanna make you mine
+>
+> I say you look so fine that I really wanna make you mine
+>
+> Oh four, five, six, c'mon and get your kicks
+>
+> Now you don't need the money
+>
+> With a face like that do ya
+>
+> Big black boots
+>
+> Long brown hair
+>
+> She's so sweet with her
+>
+> Get back stare
+>
+> Well I could see\
+> You home with me\
+> But you were with another man, yeah\
+> I know we ain't got much to say\
+> Before I let you get away, yeah
+>
+> I said, are you gonna be my girl
+>
+> Oh yeah
+>
+> Oh yeah
+>
+> C'mon
+>
+> I could see
+>
+> You home with me
+>
+> But you were with another man, yeah
+>
+> I know we ain't got much to say
+>
+> Before I let you get away, yeah
+>
+> Uh, be my girl
+>
+> Be my girl
+>
+> Are you gonna be my girl, yeah
 
 2. Heart - Barracuda
+
+## Album Little Queen
+
+## Año 1977
+
+<iframe width="1424" height="620" src="https://www.youtube.com/embed/PeMvMNpvB5M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Letra
+
+> So this ain't the end, I saw you again today
+>
+> I had to turn my heart away
+>
+> Smile like the sun, kisses for everyone
+>
+> And tales, it never fails!
+>
+> [Chorus] 
+>
+> You lying so low into the weeds
+>
+> I bet you gonna ambush me
+>
+> You'd have me down, down, down, down on my knees
+>
+> Now won't you, Barracuda?
+>
+> [Verse 2]
+>
+> Back over time, we were all trying for free
+>
+> You met the porpoise and me
+>
+> No right, no wrong, you're selling a song, a name
+>
+> Whisper game
+>
+> [Chorus] 
+>
+>And if the real thing don't do the trick
+>
+> You better make up something quick
+>
+> You gonna burn, burn, burn, burn, burn to the wick
+>
+> Ooh, Barracuda
+>
+> [Bridge] 
+>
+>"Sell me sell you" the porpoise said
+>
+> Dive down deep to save my head
+>
+> I think that you got the blues, too
+>
+> All that night and all the next
+>
+> Swam without looking back
+>
+> Made for the western pools, silly, silly fools!
+>
+> [Chorus] 
+>
+> If the real thing don't do the trick, no
+>
+> You better make up something quick
+>
+> You gonna burn, burn, burn, burn, burn it to the wick
+>
+> Oh, Bara-Barracuda
+
 3. Robert Palmer - Addicted to love
 4. Baltimora - Tarzan Boy
 5. ALPHAVILLE - BIG IN JAPAN
@@ -184,7 +255,7 @@ tags:
 80. Whitesnake - Here I Go Again 
 81. The Bangles - Walk Likke An Egypcian
 82. Blondie - One Way Or Another
-83. 
+83.
 84.
 85.
 86.
