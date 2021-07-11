@@ -13,66 +13,68 @@ tags:
 
 <iframe style="margin: 0 auto; display:block width: 424px, height:238px" width="424" height="238" src="https://www.youtube.com/embed/tuK6n2Lkza0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Letra
+* Album Get Born
+* Año 2003
+* Letra
 
-> Go
->
-> So one, two, three, take my hand and come with me\
-> Because you look so fine that I really wanna make you mine\
-> I say you look so fine that I really wanna make you mine
->
-> Oh, four, five, six, c'mon and get your kicks\
-> Now you don't need the money\
-> When you look like that do you honey
->
-> Big black boots\
-> Long brown hair\
-> She's so sweet with her\
-> Get back stare
->
-> Well I could see\
-> You home with me\
-> But you were with another man, yeah\
-> I know we ain't got much to say\
-> Before I let you get away, yeah
->
-> I said, are you gonna be my girl
->
-> Well it's one, two, three, take my hand and come with me\
-> Because you look so fine that I really wanna make you mine\
-> I say you look so fine that I really wanna make you mine
->
-> Oh four, five, six, c'mon and get your kicks\
-> Now you don't need the money\
-> With a face like that do ya
->
-> Big black boots\
-> Long brown hair\
-> She's so sweet with her\
-> Get back stare
->
-> Well I could see\
-> You home with me\
-> But you were with another man, yeah\
-> I know we ain't got much to say\
-> Before I let you get away, yeah
->
-> I said, are you gonna be my girl
->
-> Oh yeah
->
-> Oh yeah
->
-> C'mon
->
-> I could see\
-> You home with me\
-> But you were with another man, yeah\
-> I know we ain't got much to say\
-> Before I let you get away, yeah\
-> Uh, be my girl\
-> Be my girl\
-> Are you gonna be my girl, yeah
+  > Go
+  >
+  > So one, two, three, take my hand and come with me\
+  > Because you look so fine that I really wanna make you mine\
+  > I say you look so fine that I really wanna make you mine
+  >
+  > Oh, four, five, six, c'mon and get your kicks\
+  > Now you don't need the money\
+  > When you look like that do you honey
+  >
+  > Big black boots\
+  > Long brown hair\
+  > She's so sweet with her\
+  > Get back stare
+  >
+  > Well I could see\
+  > You home with me\
+  > But you were with another man, yeah\
+  > I know we ain't got much to say\
+  > Before I let you get away, yeah
+  >
+  > I said, are you gonna be my girl
+  >
+  > Well it's one, two, three, take my hand and come with me\
+  > Because you look so fine that I really wanna make you mine\
+  > I say you look so fine that I really wanna make you mine
+  >
+  > Oh four, five, six, c'mon and get your kicks\
+  > Now you don't need the money\
+  > With a face like that do ya
+  >
+  > Big black boots\
+  > Long brown hair\
+  > She's so sweet with her\
+  > Get back stare
+  >
+  > Well I could see\
+  > You home with me\
+  > But you were with another man, yeah\
+  > I know we ain't got much to say\
+  > Before I let you get away, yeah
+  >
+  > I said, are you gonna be my girl
+  >
+  > Oh yeah
+  >
+  > Oh yeah
+  >
+  > C'mon
+  >
+  > I could see\
+  > You home with me\
+  > But you were with another man, yeah\
+  > I know we ain't got much to say\
+  > Before I let you get away, yeah\
+  > Uh, be my girl\
+  > Be my girl\
+  > Are you gonna be my girl, yeah
 
 2. Adele - Skyfall
 3. Robert Palmer - Addicted to love
@@ -154,10 +156,9 @@ tags:
 79. The Human League - Don't you want me
 80. Whitesnake - Here I Go Again 
 81. The Bangles - Walk Likke An Egypcian
-82.
+82. Blondie - One Way Or Another
 83.
 84.
 85.
 86.
 87.
-88.
