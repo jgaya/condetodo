@@ -30,4 +30,39 @@ s
 
 Tuve que hacer varias busquedas en internet para confirar que esto era real y no era una broma, y aun asi quedan dudas, pero gana al premio al peor doble sentido de la campaña. Tambien puntea muy alto en generar las carcajadas de forma involuntaria.
 
+# Movimiento Al Socialismo
 
+La extrema izquierda tiene claramente el spot mas desconectado de la realidad con diferencia, planteando subir el salario minio a 100k pesos en verso de su rap para echar a los patrones en el proximo, si los echan quien va a pagar esos sueldos? en fin, todas las consideraciones esteticas quedan a cargo del espectador, estan avisados. Premio Ezeize a la generacion de mas emigrados luego de ver el spot.
+
+<iframe width="1424" height="563" src="https://www.youtube.com/embed/fuPJIO9hRYQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+# Florencio Randazzo
+
+Recuerdan a Florencio? Bueno el tampoco recuerda quien fue y ahora se postula como la alternativa a su propio partido, mostrando como desprecio un cargo de gobernador porque el estaba para presidente, pero ahora quiere ser diputado, seguramente es un cargo mayor a presidente y soy yo el que no entiende...
+
+Pero ademas trae a su madre a los spots para mostrar que al menos una persona mas va a votar por el, ya son 2, seguramente podra conseguir el doble minimo.
+
+Intento hacer una campaña a lo Moreno pero no le salio, no causa una sonrisa, esperemos que mejore su estrategia de marketing en el futuro...
+
+<iframe width="1424" height="563" src="https://www.youtube.com/embed/KYjw8wasC6I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="1424" height="563" src="https://www.youtube.com/embed/6aturIYvV4I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<iframe width="1424" height="563" src="https://www.youtube.com/embed/0lERiGuZ0R8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="1424" height="563" src="https://www.youtube.com/embed/BnVdr6ocrFs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+# Facundo Manes
+
+El neurocirujano despliega toda su faceta intelectual en su campaña con un spot digno de un chico de 6 años, en el que ni siquiera aparece, porque no hace falta supongo.
+
+<iframe width="1424" height="563" src="https://www.youtube.com/embed/oQNCildgZc0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+# Sebastian Neuspiller
+
+El Dr Neuspiller goleador historico de Fenix hace lo que mejor sabe, patear una pelota para combatir al gobierno, en olivos estan transpirando pensando un contraataque.
+
+<iframe width="1424" height="563" src="https://www.youtube.com/embed/SJxceA7SgE4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
