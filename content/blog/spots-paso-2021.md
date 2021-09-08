@@ -66,3 +66,9 @@ El neurocirujano despliega toda su faceta intelectual en su campaña con un spot
 El Dr Neuspiller goleador historico de Fenix hace lo que mejor sabe, patear una pelota para combatir al gobierno, en olivos estan transpirando pensando un contraataque.
 
 <iframe width="1424" height="563" src="https://www.youtube.com/embed/SJxceA7SgE4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+# Frente de Izquierda
+
+Mas alla del plagio de tercera sobre el programa de television, sorprenden dos cosas, la primera y mas evidente, es que se enfocan en su enemigo mas facil, en vez de ir contra el gobierno o el gobierno anterior, pero lo mas significativo es la produccion del video es facilmente el mejor video a nivel audiovisual comparado con el resto quien financia esto?
+
+<iframe width="1424" height="563" src="https://www.youtube.com/embed/NWgxcNQb0WM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
