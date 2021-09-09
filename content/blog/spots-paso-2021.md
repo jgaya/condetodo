@@ -16,7 +16,6 @@ El ex Secretario de comercio gana por mucho la competencia de spots publicitario
 
 
 
-s
 <iframe width="1424" height="620" src="https://www.youtube.com/embed/pJLG1e8IgoQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="1424" height="620" src="https://www.youtube.com/embed/Sy_IuWwd9qk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -72,3 +71,10 @@ El Dr Neuspiller goleador historico de Fenix hace lo que mejor sabe, patear una 
 Mas alla del plagio de tercera sobre el programa de television, sorprenden dos cosas, la primera y mas evidente, es que se enfocan en su enemigo mas facil, en vez de ir contra el gobierno o el gobierno anterior, pero lo mas significativo es la produccion del video es facilmente el mejor video a nivel audiovisual comparado con el resto quien financia esto?
 
 <iframe width="1424" height="563" src="https://www.youtube.com/embed/NWgxcNQb0WM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+# Luis Arias
+
+El ex juez y precandidato a concejal por el Frente de Todos La Plata, Luis Federico Arias, utilizó en su spot rumbo a las PASO 2021 una canción de Bizarrap y Nicky Jam. Arias despliega todo su “talento” musical y su falta de verguenza como si fuera un rapero y explica sus propuestas sin reirse, un logro.
+
+<iframe width="1424" height="563" src="https://www.youtube.com/embed/lLtmWpbFqh8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
