@@ -13,7 +13,7 @@ tags:
 
 El ex Secretario de comercio gana por mucho la competencia de spots publicitarios tanto en cantidad como en calidad, lo mas bizarro pero divertido. Tambien es el que mas violaciones a los derechos de autor comete, metiendose con cuanto autor nacional y hasta con Disney, siemrpe combatiendo al capital como dice la doctrina.
 
-
+<iframe width="1424" height="563" src="https://www.youtube.com/embed/ybtHZ2boGcI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="1424" height="620" src="https://www.youtube.com/embed/pJLG1e8IgoQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
