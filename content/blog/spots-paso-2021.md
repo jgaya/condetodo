@@ -28,6 +28,8 @@ El ex Secretario de comercio gana por mucho la competencia de spots publicitario
 
 Tuve que hacer varias busquedas en internet para confirar que esto era real y no era una broma, y aun asi quedan dudas, pero gana al premio al peor doble sentido de la campaña. Tambien puntea muy alto en generar las carcajadas de forma involuntaria.
 
+<iframe width="1424" height="563" src="https://www.youtube.com/embed/N2I84s2nV28" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # Movimiento Al Socialismo
 
 La extrema izquierda tiene claramente el spot mas desconectado de la realidad con diferencia, planteando subir el salario minio a 100k pesos en verso de su rap para echar a los patrones en el proximo, si los echan quien va a pagar esos sueldos? en fin, todas las consideraciones esteticas quedan a cargo del espectador, estan avisados. Premio Ezeize a la generacion de mas emigrados luego de ver el spot.
