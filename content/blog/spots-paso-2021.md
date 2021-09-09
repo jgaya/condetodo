@@ -77,3 +77,18 @@ Mas alla del plagio de tercera sobre el programa de television, sorprenden dos c
 El ex juez y precandidato a concejal por el Frente de Todos La Plata, Luis Federico Arias, utilizó en su spot rumbo a las PASO 2021 una canción de Bizarrap y Nicky Jam. Arias despliega todo su “talento” musical y su falta de verguenza como si fuera un rapero y explica sus propuestas sin reirse, un logro.
 
 <iframe width="1424" height="563" src="https://www.youtube.com/embed/lLtmWpbFqh8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+# Carolina Losada
+
+La periodista (?) en busca del voto onanista, mostrando su falta de propuestas.
+
+<iframe width="1424" height="563" src="https://www.youtube.com/embed/bWrWNjUIalw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+# Ruben Giustiniani
+
+Propone el chiste mas simple posible con su nombre, merito suficiente para ir al congreso, al menos son spot cortos.
+
+<iframe width="1424" height="563" src="https://www.youtube.com/embed/gZG39mlGyjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="1424" height="563" src="https://www.youtube.com/embed/UJn0eHyZb3k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
