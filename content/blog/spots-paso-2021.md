@@ -7,8 +7,7 @@ description: Comparamos los mejores y más bizarros spots publicitarios de los
   aspirantes a candidatos a la cámara legisladora de la nación para las PASO
   2021
 tags:
-  - news
-  - pelis
+  - politica
 ---
 # Guillermo Moreno
 
