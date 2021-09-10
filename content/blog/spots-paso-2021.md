@@ -11,6 +11,10 @@ tags:
 ---
 Una vez más ha llegado el momento de las P.A.S.O. legislativas, cuando los creativos se encuentran con políticos invendibles y poco presupuesto. La diversión está garantizada, luego en la general los bizarros no pasan lamentablemente y la campaña se achata, políticos inviables encima aburridos y no como De La Rúa, aburrido en serio, luego silencio de radio por años viviendo del estado como reyes sin hacer nada, hasta que deban presentarse a su reelección. Pero por ahora disfrutemos de los spots más bizarros de este 2021.
 
+Esto solo es un extracto seguramente nos quedaron muchos afuera, si tienen algo digno de esta lista por favor déjenlos en los comentarios para una segunda parte. 
+
+Gozenlo!
+
 # Guillermo Moreno
 
 El ex Secretario de comercio gana por mucho la competencia de spots publicitarios tanto en cantidad como en calidad, lo más bizarro pero divertido. También es el que más violaciones a los derechos de autor comete, metiéndose con cuanto autor nacional y hasta con Disney, siempre combatiendo al capital como dice la doctrina.
