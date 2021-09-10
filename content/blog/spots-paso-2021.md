@@ -2,7 +2,7 @@
 path: Spots PASO 2021
 date: 2021-09-08T14:03:50.650Z
 title: Spots PASO 2021
-thumbnail: assets/404.png
+thumbnail: assets/paso.jpg
 description: Comparamos los mejores y más bizarros spots publicitarios de los
   aspirantes a candidatos a la cámara legisladora de la nación para las PASO
   2021
