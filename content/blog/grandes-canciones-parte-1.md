@@ -313,6 +313,94 @@ tags:
 > Might as well face it, you're addicted to love
 
 4. Baltimora - Tarzan Boy
+
+## Album Living in the Background
+
+## Año 1985
+
+<iframe width="676" height="380" src="https://www.youtube.com/embed/_r0n9Dv6XnY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Letra
+
+> Oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh 
+>
+> Oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh
+>
+> Oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh
+>
+> Oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh
+>
+> Jungle life You're far away from nothing
+>
+> It's alright, you won't miss home
+>
+> Take a chance
+>
+> Leave everything behind you
+>
+> Come and join me, you won't be sorry
+>
+> It's easy to survive
+>
+> Jungle life We're living in the open
+>
+> All alone like Tarzans, boy
+>
+> Hid-and-seek
+>
+> We play alone while rushing 'cross the forest
+>
+> Monkey business on a sunny afternoon
+>
+> Night to night 
+>
+> Gimme the other, gimme the other
+>
+> Chance tonight
+>
+> Gimme the other, gimme the other
+>
+> Night to night
+>
+> Gimme the other, gimme the other
+>
+> Oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh 
+>
+> Oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh
+> Oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh
+>
+> Oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh
+>
+> Oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh 
+>
+> Oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh
+>
+> Oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh
+>
+> Oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh
+>
+> Night to night
+>
+> Gimme the other, gimme the other
+>
+> Chance tonight
+>
+> Night to night, night to night
+>
+> Gimme the other, gimme the other
+>
+> Oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh 
+>
+> Oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh
+>
+> Oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh
+>
+> Oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh
+>
+> Oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh 
+>
+> Oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh
+
 5. ALPHAVILLE - BIG IN JAPAN
 6. THE OUTFIELD - YOUR LOVE
 7. WANG CHUNG - DANCE HALL DAYS
