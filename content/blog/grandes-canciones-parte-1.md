@@ -503,6 +503,62 @@ tags:
 > (Lose your) I don't want to lose your love tonight\
 
 7. WANG CHUNG - DANCE HALL DAYS
+
+## Album Play Deep
+
+## Año 1985
+
+<iframe width="1424" height="563" src="https://www.youtube.com/embed/n1TNLU-ydLA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Letra
+
+> Take your baby by the hand\
+> And make her do a high handstand\
+> And take your baby by the heel\
+> And do the next thing that you feel\
+> We were so in phase\
+> In our dance hall days\
+> We were cool on craze\
+> When I, you and everyone we knew\
+> Could believe, do and share in what was true\
+> I said\
+> Dance hall days love\
+> Take your baby by the hair\
+> And pull her close and there, there, there\
+> And take your baby by the ears\
+> And play upon her darkest fears\
+> We were so in phase\
+> In our dance hall days\
+> We were cool on craze\
+> When I, you and everyone we knew\
+> Could believe, do and share in what was true\
+> I said\
+> Dance hall days, love\
+> Dance hall days\
+> Dance hall days, love\
+> Take your baby by the wrist\
+> And in her mouth an amethyst\
+> And in her eyes two sapphires blue\
+> And you need her and she needs you\
+> And you need her and she needs you\
+> And you need her and she needs you\
+> And you need her and she needs you\
+> And you need her and she needs you\
+> We were so in phase\
+> In our dance hall days\
+> We were cool on craze\
+> When I, you and everyone we knew\
+> Could believe, do and share in what was true\
+> I said\
+> Dance hall days, love\
+> Dance hall days, love\
+> Dance hall days\
+> Dance hall days, love\
+> Dance hall days\
+> Dance hall days, love\
+> Dance hall days\
+> Dance hall days, love
+
 8. SIMPLE MINDS - DON'T YOU FORGET ABOUT ME
 9. MIDNIGHT OIL - BEDS ARE BURNING
 10. Coolio - Gangster's Paradise
