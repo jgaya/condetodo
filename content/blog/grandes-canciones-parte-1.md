@@ -6,8 +6,7 @@ thumbnail: assets/404.png
 description: Recomendaciones de canciones atemporales para escapar del ruido que
   se escucha en la radio y tv en esta epoca.
 tags:
-  - news
-  - pelis
+  - musica
 ---
 1. Jet - Are you gonna be my girl 
 
@@ -121,7 +120,7 @@ tags:
 >
 > And tales, it never fails!
 >
-> [Chorus] 
+> \[Chorus] 
 >
 > You lying so low into the weeds
 >
@@ -131,7 +130,7 @@ tags:
 >
 > Now won't you, Barracuda?
 >
-> [Verse 2]
+> \[Verse 2]
 >
 > Back over time, we were all trying for free
 >
@@ -141,9 +140,9 @@ tags:
 >
 > Whisper game
 >
-> [Chorus] 
+> \[Chorus] 
 >
->And if the real thing don't do the trick
+> And if the real thing don't do the trick
 >
 > You better make up something quick
 >
@@ -151,9 +150,9 @@ tags:
 >
 > Ooh, Barracuda
 >
-> [Bridge] 
+> \[Bridge] 
 >
->"Sell me sell you" the porpoise said
+> "Sell me sell you" the porpoise said
 >
 > Dive down deep to save my head
 >
@@ -165,7 +164,7 @@ tags:
 >
 > Made for the western pools, silly, silly fools!
 >
-> [Chorus] 
+> \[Chorus] 
 >
 > If the real thing don't do the trick, no
 >
@@ -176,6 +175,143 @@ tags:
 > Oh, Bara-Barracuda
 
 3. Robert Palmer - Addicted to love
+
+## Album Riptide
+
+## Año 1985
+
+<iframe width="676" height="380" src="https://www.youtube.com/embed/XcATvu5f9vE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Letra
+
+> Your lights are on but you're not home 
+>
+> Your mind is not your own
+>
+> Your heart sweats, your body shakes
+>
+> Another kiss is what it takes
+>
+> You can't sleep, no, you can't eat 
+>
+> There's no doubt, you're in deep
+>
+> Your throat is tight, you can't breathe
+>
+> Another kiss is all you need
+>
+> Woah, you like to think that you're immune to the stuff, 
+>
+> oh yeah It's closer to the truth to say you can't get enough
+>
+> You know you're gonna have to face it, you're addicted to love
+>
+> You see the signs but you can't read 
+>
+> You're runnin' at a different speed
+>
+> Your heart beats in double time
+>
+> Another kiss and you'll be mine
+>
+> A one track mind, you can't be saved 
+>
+> Oblivion is all you crave
+>
+> If there's some left for you
+>
+> You don't mind if you do
+>
+> Woah, you like to think that you're immune to the stuff, 
+>
+> oh yeah It's closer to the truth to say you can't get enough
+>
+> You know you're gonna have to face it, you're addicted to love
+>
+> Might as well face it, you're addicted to love
+>
+> Might as well face it, you're addicted to love
+>
+> Might as well face it, you're addicted to love
+>
+> Might as well face it, you're addicted to love
+>
+> Might as well face it, you're addicted to love 
+>
+> Might as well face it, you're addicted to love
+>
+> Might as well face it, you're addicted to love
+>
+> Might as well face it, you're addicted to love
+>
+> You're addicted to love 
+>
+> You're addicted to love
+>
+> Might as well face it, you're addicted to love
+>
+> Might as well face it, you're addicted to love
+>
+> Might as well face it 
+>
+> Might as well face it
+>
+> Might as well face it
+>
+> Might as well face it, you're addicted to love
+>
+> Might as well face it, you're addicted to love
+>
+> Ooh, yeah
+>
+> Your lights are on but you're not home 
+>
+> Your will is not your own
+>
+> Your heart sweats, your teeth grind
+>
+> Another kiss and you'll be mine
+>
+> Whoa, you like to think that you're immune to the stuff,
+>
+> oh yeah It's closer to the truth to say you can't get enough
+>
+> You know you're gonna have to face it, you're addicted to love
+>
+> Might as well face it, you're addicted to love
+>
+> Might as well face it, you're addicted to love
+>
+> Might as well face it, you're addicted to love
+>
+> Might as well face it, you're addicted to love
+>
+> Might as well face it, you're addicted to love 
+>
+> Might as well face it, you're addicted to love
+>
+> Might as well face it, you're addicted to love
+>
+> Might as well face it, you're addicted to love
+>
+> Might as well face it 
+>
+> Might as well face it, you're addicted to love
+>
+> Might as well face it 
+>
+> Might as well face it
+>
+> Might as well face it
+>
+> Might as well face it, you're addicted to love
+>
+> Might as well face it, you're addicted to love
+>
+> Might as well face it, you're addicted to love
+>
+> Might as well face it, you're addicted to love
+
 4. Baltimora - Tarzan Boy
 5. ALPHAVILLE - BIG IN JAPAN
 6. THE OUTFIELD - YOUR LOVE
