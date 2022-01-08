@@ -366,8 +366,7 @@ tags:
 >
 > Oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh 
 >
-> Oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh
-> Oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh
+> Oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh Oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh
 >
 > Oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh
 >
@@ -402,6 +401,63 @@ tags:
 > Oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh
 
 5. ALPHAVILLE - BIG IN JAPAN
+
+## Album Forever Young
+
+## Año 1985
+
+<iframe width="676" height="380" src="https://www.youtube.com/embed/tl6u2NASUzU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Letra
+
+> Winter's cityside, crystal bits of snowflakes\
+> All around my head and in the wind\
+> I had no illusions that I'd ever find\
+> A glimpse of summer's heatwaves in your eyes\
+> You did what you did to me\
+> Now it's history, I see\
+> Here's my comeback on the road again\
+> Things will happen while they can\
+> I will wait here for my man tonight\
+> It's easy when you're big in Japan\
+> Oh, when you're big in Japan, tonight\
+> Big in Japan, be tight\
+> Big in Japan, where the Eastern sea's so blue\
+> Big in Japan, alright\
+> Pay, then I'll sleep by your side\
+> Things are easy when you're big in Japan\
+> Oh, when you're big in Japan\
+> Neon on my naked skin, passing silhouettes\
+> Of strange illuminated mannequins\
+> Shall I stay here at the zoo\
+> Or shall I go and change my point of view\
+> For other ugly scenes\
+> You did what you did to me\
+> Now it's history, I see\
+> Things will happen while they can\
+> I will wait here for my man tonight\
+> It's easy when you're big in Japan\
+> Oh, when you're big in Japan, tonight\
+> Big in Japan, be tight\
+> Big in Japan, ooh, the Eastern sea's so blue\
+> Big in Japan, alright\
+> Pay, then I'll sleep by your side\
+> Things are easy when you're big in Japan\
+> Oh, when you're big in Japan, tonight\
+> Big in Japan, be tight\
+> Big in Japan, ooh, the Eastern sea's so blue\
+> Big in Japan, alright\
+> Pay, then I'll sleep by your side\
+> Things are easy when you're big in Japan\
+> Oh, when you're big in Japan\
+> Oh, when you're big in Japan, tonight\
+> Big in Japan, be tight\
+> Big in Japan, ooh, the Eastern sea's so blue\
+> Big in Japan, alright\
+> Pay, then I'll sleep by your side\
+> Things are easy when you're big in Japan\
+> Oh, when you're big in Japan
+
 6. THE OUTFIELD - YOUR LOVE
 7. WANG CHUNG - DANCE HALL DAYS
 8. SIMPLE MINDS - DON'T YOU FORGET ABOUT ME
