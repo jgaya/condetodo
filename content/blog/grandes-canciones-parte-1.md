@@ -1,10 +1,10 @@
 ---
-path: grandes canciones parte 1
+path: Infinite Playlist parte 1
 date: 2021-05-24T17:53:17.175Z
 title: Grandes Canciones Parte 1
 thumbnail: assets/404.png
 description: Recomendaciones de canciones atemporales para escapar del ruido que
-  se escucha en la radio y tv en esta epoca.
+  se escucha en la radio, primera entrega y tv en esta epoca.
 tags:
   - musica
 ---
