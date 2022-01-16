@@ -1,14 +1,18 @@
 ---
 path: Infinite Playlist parte 1
 date: 2021-05-24T17:53:17.175Z
-title: Grandes Canciones Parte 1
+title: Infinite Playlist parte 1
 thumbnail: assets/404.png
 description: Recomendaciones de canciones atemporales para escapar del ruido que
   se escucha en la radio, primera entrega y tv en esta epoca.
 tags:
   - musica
 ---
+Empezamos nuna nueva seccion en el sitio, recomendando humildemente canciones de todos las epocas para salir un poco del ruido que se escucha en la radio y tal vez encuentres algo que no hayas escuchado antes o recordar las grandes canciones. 
 
+Copiaremos el marketing de la pelicula Historia sin fin y prometemos lo imposible una playlist infinita, veremos hasta donde llegamos, agregando de a 10 canciones por semana hasta que se terminen la canciones o blog, lo que pase primero.
+
+Sin ningun orden en especial, a medida que las vamos encontrando las vamos agregando, esperamos que les guste, si alguien quiere brindar sugerencias son mas que bienvenidas en los comentarios.
 
 1. Jet - Are you gonna be my girl 
 
