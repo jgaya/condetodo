@@ -5,8 +5,7 @@ title: Infinite Playlist Parte 2
 thumbnail: assets/404.png
 description: Segunda parte de la playlist infinita
 tags:
-  - news
-  - pelis
+  - musica
 ---
 
 
