@@ -120,7 +120,8 @@ Sin ningun orden en especial, a medida que las vamos encontrando las vamos agreg
 <iframe width="1424" height="620" src="https://www.youtube.com/embed/PeMvMNpvB5M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Letra
-
+<details>
+  <summary>Desplegar la letra de la cancion</summary>
 > So this ain't the end, I saw you again today
 >
 > I had to turn my heart away
@@ -182,7 +183,7 @@ Sin ningun orden en especial, a medida que las vamos encontrando las vamos agreg
 > You gonna burn, burn, burn, burn, burn it to the wick
 >
 > Oh, Bara-Barracuda
-
+</details>
 3. Robert Palmer - Addicted to love
 
 ## Album Riptide
@@ -192,7 +193,8 @@ Sin ningun orden en especial, a medida que las vamos encontrando las vamos agreg
 <iframe width="676" height="380" src="https://www.youtube.com/embed/XcATvu5f9vE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Letra
-
+<details>
+  <summary>Desplegar la letra de la cancion</summary>
 > Your lights are on but you're not home 
 >
 > Your mind is not your own
@@ -320,7 +322,7 @@ Sin ningun orden en especial, a medida que las vamos encontrando las vamos agreg
 > Might as well face it, you're addicted to love
 >
 > Might as well face it, you're addicted to love
-
+</details>
 4. Baltimora - Tarzan Boy
 
 ## Album Living in the Background
@@ -330,7 +332,8 @@ Sin ningun orden en especial, a medida que las vamos encontrando las vamos agreg
 <iframe width="676" height="380" src="https://www.youtube.com/embed/_r0n9Dv6XnY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Letra
-
+<details>
+  <summary>Desplegar la letra de la cancion</summary>
 > Oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh 
 >
 > Oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh
@@ -408,6 +411,7 @@ Sin ningun orden en especial, a medida que las vamos encontrando las vamos agreg
 > Oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh 
 >
 > Oh-oh-oh-oh-oh-oh-oh-oh-oh-oh-oh
+</details>
 
 5. ALPHAVILLE - BIG IN JAPAN
 
@@ -418,7 +422,8 @@ Sin ningun orden en especial, a medida que las vamos encontrando las vamos agreg
 <iframe width="676" height="380" src="https://www.youtube.com/embed/tl6u2NASUzU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Letra
-
+<details>
+  <summary>Desplegar la letra de la cancion</summary>
 > Winter's cityside, crystal bits of snowflakes
 >
 > All around my head and in the wind
@@ -513,6 +518,8 @@ Sin ningun orden en especial, a medida que las vamos encontrando las vamos agreg
 >
 > Oh, when you're big in Japan
 
+</details>
+
 6. THE OUTFIELD - YOUR LOVE
 
 ## Album Play Deep
@@ -522,7 +529,8 @@ Sin ningun orden en especial, a medida que las vamos encontrando las vamos agreg
 <iframe width="1424" height="563" src="https://www.youtube.com/embed/4N1iwQxiHrs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Letra
-
+<details>
+  <summary>Desplegar la letra de la cancion</summary>
 > Josie's on a vacation far away\
 > Come around and talk it over\
 > So many things that I want to say\
@@ -556,6 +564,7 @@ Sin ningun orden en especial, a medida que las vamos encontrando las vamos agreg
 > Lose your love tonight (your love)\
 > Lose your love tonight (your love)\
 > (Lose your) I don't want to lose your love tonight\
+</details>
 
 7. WANG CHUNG - DANCE HALL DAYS
 
@@ -566,7 +575,8 @@ Sin ningun orden en especial, a medida que las vamos encontrando las vamos agreg
 <iframe width="1424" height="563" src="https://www.youtube.com/embed/n1TNLU-ydLA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Letra
-
+<details>
+  <summary>Desplegar la letra de la cancion</summary>
 > Take your baby by the hand\
 > And make her do a high handstand\
 > And take your baby by the heel\
@@ -613,6 +623,7 @@ Sin ningun orden en especial, a medida que las vamos encontrando las vamos agreg
 > Dance hall days, love\
 > Dance hall days\
 > Dance hall days, love
+</details>
 
 8. SIMPLE MINDS - DON'T YOU FORGET ABOUT ME
 
@@ -621,7 +632,8 @@ Sin ningun orden en especial, a medida que las vamos encontrando las vamos agreg
 ## Año 1985
 
 ## Letra
-
+<details>
+  <summary>Desplegar la letra de la cancion</summary>
 > Hey, hey, hey, hey Ooh, woah\
 > Won't you come see about me?\
 > I'll be alone, dancing, you know it, baby\
@@ -674,6 +686,7 @@ Sin ningun orden en especial, a medida que las vamos encontrando las vamos agreg
 > When you walk on by\
 > And you call my name\
 > When you walk on by
+</details>
 
 9. MIDNIGHT OIL - BEDS ARE BURNING
 
@@ -684,7 +697,8 @@ Sin ningun orden en especial, a medida que las vamos encontrando las vamos agreg
 <iframe width="1424" height="620" src="https://www.youtube.com/embed/ejorQVy3m8E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Letra
-
+<details>
+  <summary>Desplegar la letra de la cancion</summary>
 > Out where the river broke\
 > The bloodwood and the desert oak\
 > Holden wrecks and boiling diesels\
@@ -741,6 +755,7 @@ Sin ningun orden en especial, a medida que las vamos encontrando las vamos agreg
 > When our earth is turning?\
 > How do we sleep\
 > While our beds are burning?
+</details>
 
 10. Coolio - Gangster's Paradise
 
@@ -749,7 +764,8 @@ Sin ningun orden en especial, a medida que las vamos encontrando las vamos agreg
 ## Año 1995
 
 ## Letra
-
+<details>
+  <summary>Desplegar la letra de la cancion</summary>
 > As I walk through the valley of the shadow of death\
 > I take a look at my life and realize there's nothin' left\
 > 'Cause I've been blastin' and laughin' so long that\
@@ -824,3 +840,4 @@ Sin ningun orden en especial, a medida que las vamos encontrando las vamos agreg
 > That the ones we hurt are you and me?\
 > Tell me why are we so blind to see\
 > That the ones we hurt are you and me?
+</details>
