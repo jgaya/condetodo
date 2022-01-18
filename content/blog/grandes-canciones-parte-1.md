@@ -724,61 +724,116 @@ Sin ningun orden en especial, a medida que las vamos encontrando las vamos agreg
 <details>
   <summary>Desplegar la letra de la cancion</summary>
 
-> Out where the river broke\
-> The bloodwood and the desert oak\
-> Holden wrecks and boiling diesels\
-> Steam in 45 degrees\
-> The time has come\
-> To say fair's fair\
-> To pay the rent\
-> To pay our share\
-> The time has come\
-> A fact's a fact\
-> It belongs to them\
-> Let's give it back\
-> How can we dance\
-> When our earth is turning?\
-> How do we sleep\
-> While our beds are burning?\
-> How can we dance\
-> When our earth is turning?\
-> How do we sleep\
-> While our beds are burning?\
-> The time has come\
-> To say fair's fair\
-> To pay the rent\
-> Now to pay our share\
-> Four wheels scare the cockatoos\
-> From Kintore East to Yuendemu\
-> The western desert lives and breathes\
-> In 45 degrees\
-> The time has come\
-> To say fair's fair\
-> To pay the rent\
-> To pay our share\
-> The time has come\
-> A fact's a fact\
-> It belongs to them\
-> Let's give it back\
-> How can we dance\
-> When our earth is turning?\
-> How do we sleep\
-> While our beds are burning?\
-> How can we dance\
-> When our earth is turning?\
-> How do we sleep\
-> While our beds are burning?\
-> The time has come\
-> To say fair's fair\
-> To pay the rent now\
-> To pay our share\
-> The time has come\
-> A fact's a fact\
-> It belongs to them\
-> We're gonna give it back\
-> How can we dance\
-> When our earth is turning?\
-> How do we sleep\
+> Out where the river broke
+>
+> The bloodwood and the desert oak
+>
+> Holden wrecks and boiling diesels
+>
+> Steam in 45 degrees
+>
+> The time has come
+>
+> To say fair's fair
+>
+> To pay the rent
+>
+> To pay our share
+>
+> The time has come
+>
+> A fact's a fact
+>
+> It belongs to them
+>
+> Let's give it back
+>
+> How can we dance
+>
+> When our earth is turning?
+>
+> How do we sleep
+>
+> While our beds are burning?
+>
+> How can we dance
+>
+> When our earth is turning?
+>
+> How do we sleep
+>
+> While our beds are burning?
+>
+> The time has come
+>
+> To say fair's fair
+>
+> To pay the rent
+>
+> Now to pay our share
+>
+> Four wheels scare the cockatoos
+>
+> From Kintore East to Yuendemu
+>
+> The western desert lives and breathes
+>
+> In 45 degrees
+>
+> The time has come
+>
+> To say fair's fair
+>
+> To pay the rent
+>
+> To pay our share
+>
+> The time has come
+>
+> A fact's a fact
+>
+> It belongs to them
+>
+> Let's give it back
+>
+> How can we dance
+>
+> When our earth is turning?
+>
+> How do we sleep
+>
+> While our beds are burning?
+>
+> How can we dance
+>
+> When our earth is turning?
+>
+> How do we sleep
+>
+> While our beds are burning?
+>
+> The time has come
+>
+> To say fair's fair
+>
+> To pay the rent now
+>
+> To pay our share
+>
+> The time has come
+>
+> A fact's a fact
+>
+> It belongs to them
+>
+> We're gonna give it back
+>
+> How can we dance
+>
+> When our earth is turning?
+>
+> How do we sleep
+>
 > While our beds are burning?
 
 </details>
