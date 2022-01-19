@@ -12,7 +12,9 @@ Empezamos nuna nueva seccion en el sitio, recomendando humildemente canciones de
 
 Copiaremos el marketing de la pelicula Historia sin fin y prometemos lo imposible una playlist infinita, veremos hasta donde llegamos, agregando de a 10 canciones por semana hasta que se terminen la canciones o blog, lo que pase primero.
 
-Sin ningun orden en especial, a medida que las vamos encontrando las vamos agregando, esperamos que les guste, si alguien quiere brindar sugerencias son mas que bienvenidas en los comentarios.
+Al final del post esta la lista de spotify que iremos actualizando semana a semana a medida que vayan apareciendo en el blog.
+
+Ahora si, sin ningun orden en especial, a medida que las vamos encontrando las vamos agregando, esperamos que les guste, si alguien quiere brindar sugerencias son mas que bienvenidas en los comentarios.
 
 1. Jet - Are you gonna be my girl 
 
@@ -585,7 +587,7 @@ Sin ningun orden en especial, a medida que las vamos encontrando las vamos agreg
 
 7. WANG CHUNG - DANCE HALL DAYS
 
-## Album Play Deep
+## Album Points on the Curve
 
 ## Año 1985
 
@@ -987,3 +989,7 @@ Sin ningun orden en especial, a medida que las vamos encontrando las vamos agreg
 </details>
 
 Nos vemos la semana que viene con 10 canciones mas, o ya mismo si estas leyendo esto en el futuro.
+
+### Lista en Spotify
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6GPBhZ98FgEkg274PihHn5?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
