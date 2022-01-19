@@ -551,38 +551,70 @@ Ahora si, sin ningún orden en especial, a medida que las vamos encontrando las 
   <summary>Desplegar la letra de la cancion</summary>
 
 > Josie's on a vacation far away
-> \Come around and talk it over
-> \So many things that I want to say
-> \You know I like my girls a little bit older
-> \I just want to use your love tonight
-> \I don't want to lose your love tonight
-> \I ain't got many friends left to talk to
-> \Nowhere to run when I'm in trouble
-> \You know I'd do anything for you
-> \Stay the night but keep it under cover
-> \I just want to use your love tonight
-> \I don't want to lose your love tonight
-> \Try to stop my hands from shaking
-> \But something in my mind's not making sense
-> \It's been a while since we were all alone
-> \But I can't hide the way I'm feeling
-> \As you're leaving please would you close the door?
-> \And don't forget what I told you
-> \Just 'cause you're right that don't mean I'm wrong
-> \Another shoulder to cry upon
-> \I just want to use your love tonight
-> \I don't want to lose your love tonight
-> \I just want to use your love tonight
-> \I don't want to lose your love tonight
-> \I just want to use your love tonight
-> \I don't want to lose your love tonight
-> \Use your love, lose your love, your love!
-> \I don't want to lose your love tonight
-> \(I don't wanna, I don't wanna, I don't wanna)
-> \Lose your love tonight (your love)
-> \Lose your love tonight (your love)
-> \Lose your love tonight (your love)
-> \(Lose your) I don't want to lose your love tonight
+>
+> Come around and talk it over
+>
+> So many things that I want to say
+>
+> You know I like my girls a little bit older
+>
+> I just want to use your love tonight
+>
+> I don't want to lose your love tonight
+>
+> I ain't got many friends left to talk to
+>
+> Nowhere to run when I'm in trouble
+>
+> You know I'd do anything for you
+>
+> Stay the night but keep it under cover
+>
+> I just want to use your love tonight
+>
+> I don't want to lose your love tonight
+>
+> Try to stop my hands from shaking
+>
+> But something in my mind's not making sense
+>
+> It's been a while since we were all alone
+>
+> But I can't hide the way I'm feeling
+>
+> As you're leaving please would you close the door?
+>
+> And don't forget what I told you
+>
+> Just 'cause you're right that don't mean I'm wrong
+>
+> Another shoulder to cry upon
+>
+> I just want to use your love tonight
+>
+> I don't want to lose your love tonight
+>
+> I just want to use your love tonight
+>
+> I don't want to lose your love tonight
+>
+> I just want to use your love tonight
+>
+> I don't want to lose your love tonight
+>
+> Use your love, lose your love, your love!
+>
+> I don't want to lose your love tonight
+>
+> (I don't wanna, I don't wanna, I don't wanna)
+>
+> Lose your love tonight (your love)
+>
+> Lose your love tonight (your love)
+>
+> Lose your love tonight (your love)
+>
+> (Lose your) I don't want to lose your love tonight
 
 </details>
 
@@ -599,51 +631,96 @@ Ahora si, sin ningún orden en especial, a medida que las vamos encontrando las 
 <details>
   <summary>Desplegar la letra de la cancion</summary>
 
-> Take your baby by the hand\
-> And make her do a high handstand\
-> And take your baby by the heel\
-> And do the next thing that you feel\
-> We were so in phase\
-> In our dance hall days\
-> We were cool on craze\
-> When I, you and everyone we knew\
-> Could believe, do and share in what was true\
-> I said\
-> Dance hall days love\
-> Take your baby by the hair\
-> And pull her close and there, there, there\
-> And take your baby by the ears\
-> And play upon her darkest fears\
-> We were so in phase\
-> In our dance hall days\
-> We were cool on craze\
-> When I, you and everyone we knew\
-> Could believe, do and share in what was true\
-> I said\
-> Dance hall days, love\
-> Dance hall days\
-> Dance hall days, love\
-> Take your baby by the wrist\
-> And in her mouth an amethyst\
-> And in her eyes two sapphires blue\
-> And you need her and she needs you\
-> And you need her and she needs you\
-> And you need her and she needs you\
-> And you need her and she needs you\
-> And you need her and she needs you\
-> We were so in phase\
-> In our dance hall days\
-> We were cool on craze\
-> When I, you and everyone we knew\
-> Could believe, do and share in what was true\
-> I said\
-> Dance hall days, love\
-> Dance hall days, love\
-> Dance hall days\
-> Dance hall days, love\
-> Dance hall days\
-> Dance hall days, love\
-> Dance hall days\
+> Take your baby by the hand
+>
+> And make her do a high handstand
+>
+> And take your baby by the heel
+>
+> And do the next thing that you feel
+>
+> We were so in phase
+>
+> In our dance hall days
+>
+> We were cool on craze
+>
+> When I, you and everyone we knew
+>
+> Could believe, do and share in what was true
+>
+> I said
+>
+> Dance hall days love
+>
+> Take your baby by the hair
+>
+> And pull her close and there, there, there
+>
+> And take your baby by the ears
+>
+> And play upon her darkest fears
+>
+> We were so in phase
+>
+> In our dance hall days
+>
+> We were cool on craze
+>
+> When I, you and everyone we knew
+>
+> Could believe, do and share in what was true
+>
+> I said
+>
+> Dance hall days, love
+>
+> Dance hall days
+>
+> Dance hall days, love
+>
+> Take your baby by the wrist
+>
+> And in her mouth an amethyst
+>
+> And in her eyes two sapphires blue
+>
+> And you need her and she needs you
+>
+> And you need her and she needs you
+>
+> And you need her and she needs you
+>
+> And you need her and she needs you
+>
+> And you need her and she needs you
+>
+> We were so in phase
+>
+> In our dance hall days
+>
+> We were cool on craze
+>
+> When I, you and everyone we knew
+>
+> Could believe, do and share in what was true
+>
+> I said
+>
+> Dance hall days, love
+>
+> Dance hall days, love
+>
+> Dance hall days
+>
+> Dance hall days, love
+>
+> Dance hall days
+>
+> Dance hall days, love
+>
+> Dance hall days
+>
 > Dance hall days, love
 
 </details>
@@ -659,57 +736,108 @@ Ahora si, sin ningún orden en especial, a medida que las vamos encontrando las 
 <details>
   <summary>Desplegar la letra de la cancion</summary>
 
-> Hey, hey, hey, hey Ooh, woah\
-> Won't you come see about me?\
-> I'll be alone, dancing, you know it, baby\
-> Tell me your troubles and doubts\
-> Giving everything inside and out and\
-> Love's strange, so real in the dark\
-> Think of the tender things that we were working on\
-> Slow change may pull us apart\
-> When the light gets into your heart, baby\
-> Don't you, forget about me\
-> Don't, don't, don't, don't\
-> Don't you, forget about me\
-> Will you stand above me?\
-> Look my way, never love me\
-> Rain keeps falling, rain keeps falling\
-> Down, down, down\
-> Will you recognize me?\
-> Call my name or walk on by\
-> Rain keeps falling, rain keeps falling\
-> Down, down, down, down\
-> Hey, hey, hey, hey\
-> Ooh, woah\
-> Don't you try and pretend\
-> It's my feeling we'll win in the end\
-> I won't harm you or touch your defenses\
-> Vanity and security, ah\
-> Don't you forget about me\
-> I'll be alone, dancing, you know it, baby\
-> Going to take you apart\
-> I'll put us back together at heart, baby\
-> Don't you, forget about me\
-> Don't, don't, don't, don't\
-> Don't you, forget about me\
-> As you walk on by\
-> Will you call my name?\
-> As you walk on by\
-> Will you call my name?\
-> When you walk away\
-> Or will you walk away?\
-> Will you walk on by?\
-> Come on, call my name\
-> Will you call my name?\
-> I say\
-> La, la-la-la-la, la-la-la-la\
-> La-la-la-la-la-la-la-la-la-la\
-> La-la-la-la, la-la-la-la\
-> La-la-la-la-la-la-la-la-la-la\
-> La-la-la-la, la-la-la-la\
-> La-la-la-la-la-la-la-la-la-la\
-> When you walk on by\
-> And you call my name\
+> Hey, hey, hey, hey Ooh, woah
+>
+> Won't you come see about me?
+>
+> I'll be alone, dancing, you know it, baby
+>
+> Tell me your troubles and doubts
+>
+> Giving everything inside and out and
+>
+> Love's strange, so real in the dark
+>
+> Think of the tender things that we were working on
+>
+> Slow change may pull us apart
+>
+> When the light gets into your heart, baby
+>
+> Don't you, forget about me
+>
+> Don't, don't, don't, don't
+>
+> Don't you, forget about me
+>
+> Will you stand above me?
+>
+> Look my way, never love me
+>
+> Rain keeps falling, rain keeps falling
+>
+> Down, down, down
+>
+> Will you recognize me?
+>
+> Call my name or walk on by
+>
+> Rain keeps falling, rain keeps falling
+>
+> Down, down, down, down
+>
+> Hey, hey, hey, hey
+>
+> Ooh, woah
+>
+> Don't you try and pretend
+>
+> It's my feeling we'll win in the end
+>
+> I won't harm you or touch your defenses
+>
+> Vanity and security, ah
+>
+> Don't you forget about me
+>
+> I'll be alone, dancing, you know it, baby
+>
+> Going to take you apart
+>
+> I'll put us back together at heart, baby
+>
+> Don't you, forget about me
+>
+> Don't, don't, don't, don't
+>
+> Don't you, forget about me
+>
+> As you walk on by
+>
+> Will you call my name?
+>
+> As you walk on by
+>
+> Will you call my name?
+>
+> When you walk away
+>
+> Or will you walk away?
+>
+> Will you walk on by?
+>
+> Come on, call my name
+>
+> Will you call my name?
+>
+> I say
+>
+> La, la-la-la-la, la-la-la-la
+>
+> La-la-la-la-la-la-la-la-la-la
+>
+> La-la-la-la, la-la-la-la
+>
+> La-la-la-la-la-la-la-la-la-la
+>
+> La-la-la-la, la-la-la-la
+>
+> La-la-la-la-la-la-la-la-la-la
+>
+> When you walk on by
+>
+> And you call my name
+>
 > When you walk on by
 
 </details>
