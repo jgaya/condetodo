@@ -1,6 +1,7 @@
 body {
     background: #2f3238;
-    color: #ccc;
+	color: #ccc;
+	counter-reset: my-awesome-counter;
 }
 
 img.center {
@@ -17,8 +18,15 @@ img.polaroid{
     border-bottom: 40px solid;
 }
 
+summary {
+	display: list-item;
+}
+
 blockquote {
 	color:#fff;
+	font-size: 1em;
+	margin: 20px 0 20px 40px;
+	
 }
 
 a:hover, a:active {
@@ -289,8 +297,6 @@ nav a {
 }
 
 main.post ol {
-	max-width: 350px;
-	/* counter-reset: my-awesome-counter; */
 	list-style: none;
 	padding-left: 40px;
     margin: 20px auto;
