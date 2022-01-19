@@ -4,17 +4,18 @@ date: 2021-05-24T17:53:17.175Z
 title: Infinite Playlist parte 1
 thumbnail: assets/404.png
 description: Recomendaciones de canciones atemporales para escapar del ruido que
-  se escucha en la radio, primera entrega y tv en esta epoca.
+  se escucha en la radio y tv en esta época.
 tags:
   - musica
 ---
-Empezamos nuna nueva seccion en el sitio, recomendando humildemente canciones de todos las epocas para salir un poco del ruido que se escucha en la radio y tal vez encuentres algo que no hayas escuchado antes o recordar las grandes canciones. 
+Empezamos una nueva sección en el sitio, recomendando humildemente canciones de todos las épocas para salir un poco del ruido que se escucha en la radio y tal vez encuentres algo que no hayas escuchado antes o recordar las grandes canciones.
 
-Copiaremos el marketing de la pelicula Historia sin fin y prometemos lo imposible una playlist infinita, veremos hasta donde llegamos, agregando de a 10 canciones por semana hasta que se terminen la canciones o blog, lo que pase primero.
+Copiaremos el marketing de la película Historia sin fin y prometemos lo imposible una playlist infinita, veremos hasta donde llegamos, agregando de a 10 canciones por semana hasta que se terminen la canciones o blog, lo que pase primero.
 
-Al final del post esta la lista de spotify que iremos actualizando semana a semana a medida que vayan apareciendo en el blog.
+Al final del post está la lista de spotify que iremos actualizando semana a semana a medida que vayan apareciendo en el blog.
 
-Ahora si, sin ningun orden en especial, a medida que las vamos encontrando las vamos agregando, esperamos que les guste, si alguien quiere brindar sugerencias son mas que bienvenidas en los comentarios.
+Ahora si, sin ningún orden en especial, a medida que las vamos encontrando las vamos agregando, esperamos que les guste, si alguien quiere brindar sugerencias son más que bienvenidas en los comentarios.
+
 
 1. Jet - Are you gonna be my girl 
 
@@ -988,8 +989,9 @@ Ahora si, sin ningun orden en especial, a medida que las vamos encontrando las v
 
 </details>
 
-Nos vemos la semana que viene con 10 canciones mas, o ya mismo si estas leyendo esto en el futuro.
-
 ### Lista en Spotify
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6GPBhZ98FgEkg274PihHn5?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+
+Nos vemos la semana que viene con 10 canciones más, o ya mismo si estás leyendo esto en el futuro.
