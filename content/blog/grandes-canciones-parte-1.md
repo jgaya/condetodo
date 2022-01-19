@@ -537,7 +537,7 @@ Ahora si, sin ningún orden en especial, a medida que las vamos encontrando las 
 
 </details>
 
-6. THE OUTFIELD - YOUR LOVE
+6. The Outfield - Your Love
 
 ## Album Play Deep
 
@@ -550,43 +550,43 @@ Ahora si, sin ningún orden en especial, a medida que las vamos encontrando las 
 <details>
   <summary>Desplegar la letra de la cancion</summary>
 
-> Josie's on a vacation far away\
-> Come around and talk it over\
-> So many things that I want to say\
-> You know I like my girls a little bit older\
-> I just want to use your love tonight\
-> I don't want to lose your love tonight\
-> I ain't got many friends left to talk to\
-> Nowhere to run when I'm in trouble\
-> You know I'd do anything for you\
-> Stay the night but keep it under cover\
-> I just want to use your love tonight\
-> I don't want to lose your love tonight\
-> Try to stop my hands from shaking\
-> But something in my mind's not making sense\
-> It's been a while since we were all alone\
-> But I can't hide the way I'm feeling\
-> As you're leaving please would you close the door?\
-> And don't forget what I told you\
-> Just 'cause you're right that don't mean I'm wrong\
-> Another shoulder to cry upon\
-> I just want to use your love tonight\
-> I don't want to lose your love tonight\
-> I just want to use your love tonight\
-> I don't want to lose your love tonight\
-> I just want to use your love tonight\
-> I don't want to lose your love tonight\
-> Use your love, lose your love, your love!\
-> I don't want to lose your love tonight\
-> (I don't wanna, I don't wanna, I don't wanna)\
-> Lose your love tonight (your love)\
-> Lose your love tonight (your love)\
-> Lose your love tonight (your love)\
-> (Lose your) I don't want to lose your love tonight\
+> Josie's on a vacation far away
+> \Come around and talk it over
+> \So many things that I want to say
+> \You know I like my girls a little bit older
+> \I just want to use your love tonight
+> \I don't want to lose your love tonight
+> \I ain't got many friends left to talk to
+> \Nowhere to run when I'm in trouble
+> \You know I'd do anything for you
+> \Stay the night but keep it under cover
+> \I just want to use your love tonight
+> \I don't want to lose your love tonight
+> \Try to stop my hands from shaking
+> \But something in my mind's not making sense
+> \It's been a while since we were all alone
+> \But I can't hide the way I'm feeling
+> \As you're leaving please would you close the door?
+> \And don't forget what I told you
+> \Just 'cause you're right that don't mean I'm wrong
+> \Another shoulder to cry upon
+> \I just want to use your love tonight
+> \I don't want to lose your love tonight
+> \I just want to use your love tonight
+> \I don't want to lose your love tonight
+> \I just want to use your love tonight
+> \I don't want to lose your love tonight
+> \Use your love, lose your love, your love!
+> \I don't want to lose your love tonight
+> \(I don't wanna, I don't wanna, I don't wanna)
+> \Lose your love tonight (your love)
+> \Lose your love tonight (your love)
+> \Lose your love tonight (your love)
+> \(Lose your) I don't want to lose your love tonight
 
 </details>
 
-7. WANG CHUNG - DANCE HALL DAYS
+7. Wang Chung - Dance Hall Days 
 
 ## Album Points on the Curve
 
@@ -648,7 +648,7 @@ Ahora si, sin ningún orden en especial, a medida que las vamos encontrando las 
 
 </details>
 
-8. SIMPLE MINDS - DON'T YOU FORGET ABOUT ME
+8. Simple Minds - Don't You Forget About Me
 
 ## Album The Breakfast Club (Original Motion Picture Soundtrack)
 
@@ -714,7 +714,7 @@ Ahora si, sin ningún orden en especial, a medida que las vamos encontrando las 
 
 </details>
 
-9. MIDNIGHT OIL - BEDS ARE BURNING
+9. Midnight Oil - Beds Are Burning
 
 ## Album Diesel and Dust
 
