@@ -3,10 +3,17 @@ path: Infinite Playlist parte 2
 date: 2022-01-15T22:22:25.116Z
 title: Infinite Playlist Parte 2
 thumbnail: assets/music.jpeg
-description: Segunda parte de la playlist infinita
+description: Segunda parte de la playlist infinita con Toto, The outfield, Guns
+  and Roses, AC/DC, Roxette y mucho mas.
 tags:
   - musica
 ---
+Segunda entrega de la lista infinita, y arrancamos con rickroll, pero mas alla del meme es una gran cancion que no pasa de moda. Los ochenta siguen siendo mayoria en la lista por ahora pero empiezan a colarse cosas de los 90s y 70s. 
+
+Esta semana mas rockera que la anterior pero no hacemos diferencia si la cancion es buena entra a la lista para disfrutarla.
+
+Como siempre sugerencias y comentarios son bienvenidos, al final de la lista la lista de spotify si quieren seguirla por ahi.
+
 11. Rick Astley - Never Gonna Give You Up
 
 ## Album Whenever You Need Somebody
@@ -20,64 +27,142 @@ tags:
 
 > We're no strangers to love You know the rules and so do I
 >
-> A full commitment's what I'm thinking of
-> You wouldn't get this from any other guy
+> A full commitment's what I'm thinking of You wouldn't get this from any other guy
 >
 > I just wanna tell you how I'm feeling Gotta make you understand
 >
-> Never gonna give you up Never gonna let you down
-> Never gonna run around and desert you
-> Never gonna make you cry
+> Never gonna give you up Never gonna let you down Never gonna run around and desert you Never gonna make you cry
 > Never gonna say goodbye
 > Never gonna tell a lie and hurt you
 >
-> We've known each other for so long Your heart's been aching but you're too shy to say it
-> Inside we both know what's been going on
-> We know the game and we're gonna play it
+> We've known each other for so long Your heart's been aching but you're too shy to say it Inside we both know what's been going on We know the game and we're gonna play it
 > And if you ask me how I'm feeling
 > Don't tell me you're too blind to see
 >
-> Never gonna give you up Never gonna let you down
-> Never gonna run around and desert you
-> Never gonna make you cry
+> Never gonna give you up Never gonna let you down Never gonna run around and desert you Never gonna make you cry
 > Never gonna say goodbye
 > Never gonna tell a lie and hurt you
 >
-> Never gonna give you up Never gonna let you down
-> Never gonna run around and desert you
-> Never gonna make you cry
+> Never gonna give you up Never gonna let you down Never gonna run around and desert you Never gonna make you cry
 > Never gonna say goodbye
 > Never gonna tell a lie and hurt you
 >
 > Never gonna give, never gonna give (Give you up)
 >
-> We've known each other for so long Your heart's been aching but you're too shy to say it
-> Inside we both know what's been going on
-> We know the game and we're gonna play it
+> We've known each other for so long Your heart's been aching but you're too shy to say it Inside we both know what's been going on We know the game and we're gonna play it
 >
 > I just wanna tell you how I'm feeling Gotta make you understand
 >
-> Never gonna give you up Never gonna let you down
-> Never gonna run around and desert you
-> Never gonna make you cry
+> Never gonna give you up Never gonna let you down Never gonna run around and desert you Never gonna make you cry
 > Never gonna say goodbye
 > Never gonna tell a lie and hurt you
 >
-> Never gonna give you up Never gonna let you down
-> Never gonna run around and desert you
-> Never gonna make you cry
+> Never gonna give you up Never gonna let you down Never gonna run around and desert you Never gonna make you cry
 > Never gonna say goodbye
 > Never gonna tell a lie and hurt you
 >
-> Never gonna give you up Never gonna let you down
-> Never gonna run around and desert you
-> Never gonna make you cry
+> Never gonna give you up Never gonna let you down Never gonna run around and desert you Never gonna make you cry
 > Never gonna say goodbye
 
 </details>
 
-12. THE OUTFIELD - ALL THE LOVE IN THE WORLD
+12. The Outfield  - All The Love In The World
+
+## Album Play Deep
+
+## Año 1985
+
+## Letra
+
+<details>
+  <summary>Desplegar la letra de la cancion</summary>
+
+> I can't believe the things that happen to me I guess that I should have seen a long, long time ago Letters you write don't help me get through the night
+> So I'll just turn out the light
+> And sleep here all alone
+>
+> All the love, all the love in the world All the love, I'll be sending you girl All the love
+> All the love in the world
+>
+> Time after time I put my life on the line But I ain't committed no crime, so take what you can find Forget what I say 'cause I'll keep running away
+> I only live for today, but I'm one day behind
+>
+> All the love, all the love in the world All the love, I'll be sending you girl All the love
+> All the love in the world
+>
+> These are the words that I whisper on every first night But that day you left me Those words were on that same flight
+>
+> I can't believe the things that happen to me I guess that I should have seen a long, long time ago Letters you write don't help me get through the night
+> So I'll just turn out the light
+> And sleep here all alone
+>
+> All the love, all the love in the world All the love, I'll be sending you girl All the love
+> All the love in the world
+
+</details>
+
 13. Toto - Hold The Line
+
+## Album Toto
+
+## Año 1978
+
+## Letra
+
+<details>
+  <summary>Desplegar la letra de la cancion</summary>
+
+> It's not in the way that you hold me 
+>
+> It's not in the way you say you care
+>
+> It's not in the way you've been treating my friends
+>
+> It's not in the way that you stayed till the end
+> 
+> It's not in the way you look or the things that you say that you do
+>
+>
+> Hold the line Love isn't always on time, oh oh oh
+>
+> Hold the line
+>
+> Love isn't always on time, oh oh oh
+>
+>
+> It's not in the words that you told me, girl It's not in the way you say you're mine
+> It's not in the way that you came back to me
+> It's not in the way that your love set me free
+> It's not in the way you look or the things that you say that you do
+>
+>
+> Hold the line Love isn't always on time, oh oh oh
+> Hold the line
+> Love isn't always on time, oh oh oh
+>
+>
+> It's not in the words that you told me It's not in the way you say you're mine
+> It's not in the way that you came back to me
+> It's not in the way that your love set me free
+> It's not in the way you look or the things that you say that you do
+>
+>
+> Hold the line Love isn't always on time, oh oh oh
+> Hold the line
+> Love isn't always on time
+> Love isn't always on time
+>
+>
+> Hold the line Love isn't always on time
+> Love isn't always, love isn't always on time
+> Hold the line
+> Love isn't always on time
+> Love isn't always on time
+> Love isn't always on time
+> Love isn't always on time, oh oh oh
+
+</details>
+
 14. Roxette - Joyride
 15. Twisted Sister - We're Not Gonna Take it
 16. Bon Jovi - Livin' On A Prayer
@@ -147,7 +232,7 @@ tags:
 80. Whitesnake - Here I Go Again
 81. The Bangles - Walk Likke An Egypcian
 82. Blondie - One Way Or Another
-83.
+83. Flock of Seagulls - I Ran
 84.
 85.
 86.
