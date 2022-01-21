@@ -2,29 +2,95 @@
 path: Infinite Playlist parte 2
 date: 2022-01-15T22:22:25.116Z
 title: Infinite Playlist Parte 2
-thumbnail: assets/404.png
+thumbnail: assets/music.jpeg
 description: Segunda parte de la playlist infinita
 tags:
   - musica
 ---
+11. Rick Astley - Never Gonna Give You Up
 
+## Album Whenever You Need Somebody
 
-11. RICK ASTLEY - NEVER GONNA GIVE YOU UP
+## Año 1987
+
+## Letra
+
+<details>
+  <summary>Desplegar la letra de la cancion</summary>
+
+> We're no strangers to love You know the rules and so do I
+>
+> A full commitment's what I'm thinking of
+> You wouldn't get this from any other guy
+>
+> I just wanna tell you how I'm feeling Gotta make you understand
+>
+> Never gonna give you up Never gonna let you down
+> Never gonna run around and desert you
+> Never gonna make you cry
+> Never gonna say goodbye
+> Never gonna tell a lie and hurt you
+>
+> We've known each other for so long Your heart's been aching but you're too shy to say it
+> Inside we both know what's been going on
+> We know the game and we're gonna play it
+> And if you ask me how I'm feeling
+> Don't tell me you're too blind to see
+>
+> Never gonna give you up Never gonna let you down
+> Never gonna run around and desert you
+> Never gonna make you cry
+> Never gonna say goodbye
+> Never gonna tell a lie and hurt you
+>
+> Never gonna give you up Never gonna let you down
+> Never gonna run around and desert you
+> Never gonna make you cry
+> Never gonna say goodbye
+> Never gonna tell a lie and hurt you
+>
+> Never gonna give, never gonna give (Give you up)
+>
+> We've known each other for so long Your heart's been aching but you're too shy to say it
+> Inside we both know what's been going on
+> We know the game and we're gonna play it
+>
+> I just wanna tell you how I'm feeling Gotta make you understand
+>
+> Never gonna give you up Never gonna let you down
+> Never gonna run around and desert you
+> Never gonna make you cry
+> Never gonna say goodbye
+> Never gonna tell a lie and hurt you
+>
+> Never gonna give you up Never gonna let you down
+> Never gonna run around and desert you
+> Never gonna make you cry
+> Never gonna say goodbye
+> Never gonna tell a lie and hurt you
+>
+> Never gonna give you up Never gonna let you down
+> Never gonna run around and desert you
+> Never gonna make you cry
+> Never gonna say goodbye
+
+</details>
+
 12. THE OUTFIELD - ALL THE LOVE IN THE WORLD
-13. RICK ASTLEY - TOGETHER FOREVER
+13. Toto - Hold The Line
 14. Roxette - Joyride
 15. Twisted Sister - We're Not Gonna Take it
 16. Bon Jovi - Livin' On A Prayer
 17. Guns 'n Roses - Sweet Child of Mine
-18. Guns 'n Roses - Paradice City
-19. Guns 'n Roses - Welcome To The Jungle
+18. Europe - The Final Countdown 
+19. Phil Collins - In The Air Tonight 
 20. AC/DC - Back In Black
-21. Europe - The Final Countdown
+21. Guns 'n Roses - Paradice City
 22. Europe - Carrie
 23. Euritmycs - Sweet Dreams
 24. Survivor - Eye Of The Tiger
 25. Toto - Africa
-26. Toto - Hold The Line
+26. RICK ASTLEY - TOGETHER FOREVER 
 27. The Police - Every Breath you take
 28. The Police - Message In a Bottle
 29. Foreigner - I Want To Know What Love Is
@@ -68,7 +134,7 @@ tags:
 67. Dire Straits - Money For Nothing
 68. Paul Young - Everytime You Go Away
 69. Mr. Mister - Broken Wings
-70. Phil Collins - In The Air Tonight
+70. Guns 'n Roses - Welcome To The Jungle
 71. Whitesnake - Is This Love
 72. The Clash - Should I Stay or Should I Go
 73. Air Supply - All Out Of Love
