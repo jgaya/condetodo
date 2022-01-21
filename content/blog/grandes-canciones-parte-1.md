@@ -2,7 +2,7 @@
 path: Infinite Playlist parte 1
 date: 2021-05-24T17:53:17.175Z
 title: Infinite Playlist parte 1
-thumbnail: assets/404.png
+thumbnail: assets/music.jpg
 description: Recomendaciones de canciones atemporales para escapar del ruido que
   se escucha en la radio y tv en esta época.
 tags:
