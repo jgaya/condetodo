@@ -20,6 +20,8 @@ Como siempre sugerencias y comentarios son bienvenidos, al final de la lista la 
 
 ## Año 1987
 
+<iframe width="1424" height="563" src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Letra
 
 <details>
@@ -71,6 +73,8 @@ Como siempre sugerencias y comentarios son bienvenidos, al final de la lista la 
 ## Album Play Deep
 
 ## Año 1985
+
+<iframe width="1424" height="563" src="https://www.youtube.com/embed/htgr3pvBr-I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Letra
 
@@ -131,39 +135,175 @@ Como siempre sugerencias y comentarios son bienvenidos, al final de la lista la 
 >
 >
 > It's not in the words that you told me, girl It's not in the way you say you're mine
+>
 > It's not in the way that you came back to me
+>
 > It's not in the way that your love set me free
+>
 > It's not in the way you look or the things that you say that you do
 >
 >
 > Hold the line Love isn't always on time, oh oh oh
+>
 > Hold the line
+>
 > Love isn't always on time, oh oh oh
 >
 >
 > It's not in the words that you told me It's not in the way you say you're mine
+>
 > It's not in the way that you came back to me
+>
 > It's not in the way that your love set me free
+>
 > It's not in the way you look or the things that you say that you do
 >
 >
 > Hold the line Love isn't always on time, oh oh oh
+>
 > Hold the line
+>
 > Love isn't always on time
+>
 > Love isn't always on time
 >
 >
 > Hold the line Love isn't always on time
+>
 > Love isn't always, love isn't always on time
+>
 > Hold the line
+>
 > Love isn't always on time
+>
 > Love isn't always on time
+>
 > Love isn't always on time
+>
 > Love isn't always on time, oh oh oh
 
 </details>
 
 14. Roxette - Joyride
+
+## Album Joyride
+
+## Año 1991
+
+<iframe width="1424" height="620" src="https://www.youtube.com/embed/xCorJG9mubk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Letra
+
+<details>
+  <summary>Desplegar la letra de la cancion</summary>
+
+> Hello, you fool, I love you
+>
+> C'mon join the joyride
+>
+> 
+> I hit the road out of nowhere
+>
+> I had to jump in my car
+>
+> And be a rider in a love game
+>
+> Following the stars
+>
+> 
+> Don't need a book of wisdom
+>
+> I get no money talk at all
+>
+> 
+> She has a train going downtown
+>
+> She's got a club on the moon
+>
+> And she's telling all her secrets
+>
+> In a wonderful balloon
+>
+> 
+> She's the heart of the funfair
+>
+> She's got me whistling a private tune
+>
+> And it all begins where it ends
+>
+> And she's all mine, my magic friend
+> 
+>
+> She says, "hello, you fool, I love you
+>
+> C'mon join the joyride"
+> Join the joyride
+> 
+> She's a flower, I could paint her
+>
+> She's a child of the sun
+>
+> We're a part of this together
+>
+> Could never turn around and run
+>
+> 
+> Don't need no fortune teller
+>
+> To know where my lucky love belongs, whoa no
+>
+> 'Cause it all begins again when it ends, yeah
+>
+> And we're all magic friends (magic friends, magic friends)
+>
+> 
+> She says, "hello, you fool, I love you
+>
+> C'mon join the joyride"
+>
+> Join the joyride
+>
+> She says, "hello (hello), you fool (you fool), I love you (I love you)
+>
+> C'mon join the joyride"
+>
+> Be a joyrider, ow
+>
+> 
+> I'll take you on a sky ride
+>
+> I'm feeling like I'm spellbound
+>
+> The sunshine is a lady
+>
+> Who rocks you like a baby
+>
+> 
+> She says, "hello (hello) you fool (you fool) I love you (I love you)
+>
+> C'mon join the joyride"
+>
+> Join the joyride
+>
+> 
+> Hello, you fool, I love you
+>
+> C'mon join the joyride
+>
+> Join the joyride
+>
+> 
+> Hello, hello, you fool, I love you
+>
+> C'mon, c'mon join the joyride
+>
+> Be a joyrider
+>
+> Roxette
+
+</details>
+
+
 15. Twisted Sister - We're Not Gonna Take it
 16. Bon Jovi - Livin' On A Prayer
 17. Guns 'n Roses - Sweet Child of Mine
