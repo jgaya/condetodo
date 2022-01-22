@@ -305,14 +305,143 @@ Como siempre sugerencias y comentarios son bienvenidos, al final de la lista la 
 
 15. Twisted Sister - We're Not Gonna Take it
 
-## Album 
+## Album Stay Hungry
 
-## Año 
+## Año 1984
+
+<iframe width="1424" height="620" src="https://www.youtube.com/embed/4xmckWVPRaI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Letra
 
 <details>
   <summary>Desplegar la letra de la cancion</summary>
+
+> Guess what, I've got a fever
+> 
+> And the only prescription is more cowbell
+> 
+> Couldn't leave here without this one now could we?
+> 
+> 
+> We're not gonna take it
+> 
+> Oh no, we ain't gonna take it
+> 
+> We're not gonna take it anymore
+> 
+> 
+> We've got the right to choose it
+> 
+> There ain't no way we'll lose it
+> 
+> This is our life, this is our song
+> 
+> 
+> We'll fight the powers that be just
+> 
+> Don't pick our destiny 'cause
+> 
+> You don't know us, you don't belong
+> 
+> 
+> We're not gonna take it
+> 
+> Oh no, we ain't gonna take it
+> 
+> We're not gonna take it anymore
+> 
+> 
+> Oh, you're so condescending
+> 
+> Your gall is never ending
+> 
+> We don't want nothin', not a thing from you
+> 
+> 
+> Your life is trite and jaded
+> 
+> Boring and confiscated
+> 
+> If that's your best, your best won't do
+> 
+> 
+> Sing it
+> 
+> We're right, yeah
+> 
+> We're free, yeah
+> 
+> We'll fight, yeah
+> 
+> You'll see
+> 
+> 
+> We're not gonna take it
+> 
+> No, we ain't gonna take it
+> 
+> We're not gonna take it anymore
+> 
+> 
+> We're not gonna take it
+> 
+> No, we ain't gonna take it
+> 
+> We're not gonna take it anymore
+> 
+> No way
+> 
+> 
+> Yeah
+> 
+> Sing it
+> 
+> 
+> We're right, yeah
+> 
+> We're free, yeah
+> 
+> We'll fight, yeah
+> 
+> You'll see
+> 
+> Sing it for me, Jersey
+> 
+> 
+> We're not gonna take it (come on)
+> 
+> No, we ain't gonna take it (louder)
+> 
+> We're not gonna take it anymore
+> 
+> 
+> We're not gonna take it
+> 
+> Oh no, we ain't gonna take it
+> 
+> We're not gonna take it anymore
+> 
+> Sing it, sing it, sing
+> 
+> 
+> We're not gonna take it (louder)
+> 
+> No, we ain't gonna take it
+> 
+> We're not gonna take it anymore
+> 
+> One more, one more, one more
+> 
+> 
+> We're not gonna take it (what)
+> 
+> No, we ain't gonna take it (yeah)
+> 
+> We're not gonna take it anymore
+> 
+> 
+> And don't you take it either
+
 
 </details>
 
