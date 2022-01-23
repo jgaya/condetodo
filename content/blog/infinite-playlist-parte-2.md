@@ -569,14 +569,93 @@ Como siempre sugerencias y comentarios son bienvenidos, al final de la lista la 
 
 18. Europe - The Final Countdown 
 
-## Album 
+## Album The Final Countdown 
 
-## Año 
+## Año 1986
+
+<iframe width="1424" height="620" src="https://www.youtube.com/embed/9jK-NcRmVcw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Letra
 
 <details>
   <summary>Desplegar la letra de la cancion</summary>
+
+> We're leavin' together
+> 
+> But still it's farewell
+> 
+> And maybe we'll come back
+> 
+> To Earth, who can tell?
+> 
+> I guess there is no one to blame
+> 
+> We're leaving ground (leaving ground)
+> 
+> Will things ever be the same again?
+> 
+> 
+> It's the final countdown
+> 
+> The final countdown
+> 
+> 
+> Oh
+> 
+> We're headin' for Venus (Venus)
+> 
+> And still we stand tall
+> 
+> 'Cause maybe they've seen us
+> 
+> And welcome us all, yeah
+> 
+> With so many light years to go
+> 
+> And things to be found (to be found)
+> 
+> I'm sure that we all miss her so
+> 
+> 
+> It's the final countdown
+> 
+> The final countdown
+> 
+> The final countdown (final countdown)
+> 
+> (Oh)
+> 
+> Oh
+> 
+> 
+> The final countdown, oh
+> 
+> 
+> It's the final countdown
+> 
+> The final countdown
+> 
+> The final countdown (final countdown)
+> 
+> (Oh)
+> 
+> 
+> It's the final countdown
+> 
+> We're leavin' together
+> 
+> (The final countdown)
+> 
+> We'll all miss her so
+> 
+> It's the final countdown (final countdown)
+> 
+> (Oh)
+> 
+> It's the final countdown
+> 
+> Yeah
+
 
 </details>
 
