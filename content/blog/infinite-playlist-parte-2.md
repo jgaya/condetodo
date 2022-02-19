@@ -556,14 +556,94 @@ Como siempre sugerencias y comentarios son bienvenidos, al final de la lista la 
 
 17. Guns 'n Roses - Sweet Child of Mine
 
-## Album 
+## Album Appetite for Destruction
 
-## Año 
+## Año 1987
+
+<iframe width="777" height="437" src="https://www.youtube.com/embed/1w7OgIMMRc4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Letra
 
 <details>
   <summary>Desplegar la letra de la cancion</summary>
+
+> He's got a smile that it seems to me
+>
+> Reminds me of childhood memories
+>
+> Where everything was as fresh as the bright blue sky
+>
+> Now and then when I see his face
+>
+>
+> He takes me away to that special place
+>
+> And if I stare too long, I'd probably break down and cry
+>
+> Whoa, oh, oh, sweet child o' mine
+>
+> Whoa, oh, oh, oh, sweet love of mine
+>
+>
+> He's got eyes of the bluest skies
+>
+> As if they thought of rain
+>
+> I'd hate to look into those eyes and see an ounce of pain
+>
+>
+> His hair reminds me of a warm, safe place
+>
+> Where as a child I'd hide
+>
+> And pray for the thunder and the rain to quietly pass me by
+>
+>
+> Whoa, oh, oh, sweet child o' mine
+>
+> Whoa, oh, oh, oh, sweet love of mine
+>
+> Whoa, oh, oh, oh, sweet child o' mine
+>
+> Oh, oh, oh, oh, sweet love of mine
+>
+>
+> Where do we go?
+>
+> Where do we go now?
+>
+> Where do we go?
+>
+>
+> Where do we go now?
+>
+> Oh, where do we go now?
+>
+> Where do we go?
+>
+>
+> Where do we go?
+>
+> (Sweet child)
+>
+> Ooh, where do we go now?
+>
+>
+> Ah ah ah ah ah ah ah ah ah ah, Where do we go?
+>
+> Oh, where do we go?
+>
+> Where do we go now?
+>
+> Where do we go?
+>
+> Oh, where do we go?
+>
+> Where do we go now?
+>
+> Now now now now now now now
+>
+> Sweet child, sweet child o' mine
 
 </details>
 
@@ -661,27 +741,220 @@ Como siempre sugerencias y comentarios son bienvenidos, al final de la lista la 
 
 19. Phil Collins - In The Air Tonight 
 
-## Album 
+## Album Face Value
 
-## Año 
+## Año 1981
+
+<iframe width="1424" height="620" src="https://www.youtube.com/embed/YkADj0TPrJA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Letra
 
 <details>
   <summary>Desplegar la letra de la cancion</summary>
 
+> I can feel it coming in the air tonight, oh Lord
+> 
+> I've been waiting for this moment for all my life, oh Lord
+> 
+> Can you feel it coming in the air tonight? Oh Lord, oh Lord
+> 
+> 
+> Well, if you told me you were drowning
+> 
+> I would not lend a hand
+> 
+> I've seen your face before, my friend
+> 
+> But I don't know if you know who I am
+> 
+> Well, I was there and I saw what you did
+> 
+> I saw it with my own two eyes
+> 
+> So you can wipe off the grin, I know where you've been
+> 
+> It's all been a pack of lies
+> 
+> 
+> I can feel it coming in the air tonight, oh Lord
+> 
+> I've been waiting for this moment for all my life, oh Lord
+> 
+> Can you feel it coming in the air tonight? Oh Lord
+> 
+> I've been waiting for this moment for all my life, oh Lord, oh Lord
+> 
+> 
+> Well I remember, I remember don't worry
+> 
+> How could I ever forget? It's the first time
+> 
+> The last time we ever met
+> 
+> But I know the reason
+> 
+> Why you keep your silence up
+> 
+> No, you don't fool me
+> 
+> The hurt doesn't show, but the pain still grows
+> 
+> It's no stranger to you or me
+> 
+> 
+> I can feel it coming in the air tonight, oh Lord
+> 
+> I've been waiting for this moment for all my life, oh Lord
+> 
+> I can feel it in the air tonight, oh Lord, oh Lord
+> 
+> Well, I've been waiting for this moment for all my life, oh Lord
+> 
+> I can feel it coming in the air tonight, oh Lord
+> 
+> Well, I've been waiting for this moment for all my life, oh Lord
+> 
+> 
+> I can feel it in the air tonight, oh Lord, oh Lord
+> 
+> Well, I've been waiting for this moment
+> 
+> For all my life, oh Lord, oh Lord
+> 
+> I can feel it comin' in the air, now I can feel it comin' in the air
+> 
+> Well, I've been waiting for this moment all my life, my life
 </details>
 
 20. AC/DC - Back In Black
 
-## Album 
+## Album Back In Black
 
-## Año 
+## Año 1980
+
+<iframe width="1440" height="604" src="https://www.youtube.com/embed/pAgnJDJN4VA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Letra
 
 <details>
   <summary>Desplegar la letra de la cancion</summary>
 
-</details>
+> Back in black
+> 
+> I hit the sack
+> 
+> I've been too long, I'm glad to be back
+> 
+> Yes, I'm let loose
+> 
+> From the noose
+> 
+> That's kept me hanging about
+> 
+> I've been looking at the sky
+> 
+> 'Cause it's gettin' me high
+> 
+> Forget the hearse 'cause I never die
+> 
+> I got nine lives
+> 
+> Cat's eyes
+> 
+> Abusin' every one of them and running wild
+> 
+> 
+> 'Cause I'm back
+> 
+> Yes, I'm back
+> 
+> Well, I'm back
+> 
+> Yes, I'm back
+> 
+> Well, I'm back, back
+> 
+> Well, I'm back in black
+> 
+> Yes, I'm back in black
+> 
+> 
+> Back in the back
+> 
+> Of a Cadillac
+> 
+> Number one with a bullet, I'm a power pack
+> 
+> Yes, I'm in a bang
+> 
+> With a gang
+> 
+> They've got to catch me if they want me to hang
+> 
+> 'Cause I'm back on the track
+> 
+> And I'm beatin' the flack
+> 
+> Nobody's gonna get me on another rap
+> 
+> So look at me now
+> 
+> I'm just makin' my play
+> 
+> Don't try to push your luck, just get out of my way
+> 
+> 
+> 'Cause I'm back
+> 
+> Yes, I'm back
+> 
+> Well, I'm back
+> 
+> Yes, I'm back
+> 
+> Well, I'm back, back
+> 
+> Well, I'm back in black
+> 
+> Yes, I'm back in black
+> 
+> Well, I'm back, yes, I'm back
+> 
+> Well, I'm back, yes, I'm back
+> 
+> Well, I'm back, back
+> 
+> Well, I'm back in black
+> 
+> Yes, I'm back in black
+> 
+> 
+> Oh, yeah
+> 
+> Oh, yeah
+> 
+> Take my love
+> 
+> Oh, yeah, yeah
+> 
+> Oh, yeah, yeah, ooh, yeah
+> 
+> Well, I'm back (I'm back)
+> 
+> Back (I'm back)
+> 
+> Back (I'm back)
+> 
+> Back (I'm back)
+> 
+> Back (I'm back)
+> 
+> Back
+> 
+> Back in black
+> 
+> Yes, I'm back in black
+> 
+> I've hit the sack
+</details>> 
 
