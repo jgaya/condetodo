@@ -956,5 +956,5 @@ Como siempre sugerencias y comentarios son bienvenidos, al final de la lista la 
 > Yes, I'm back in black
 > 
 > I've hit the sack
-</details>> 
+</details>
 
