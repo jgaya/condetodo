@@ -7,7 +7,7 @@ description: Tercera parte
 tags:
   - musica
 ---
- 21. Guns 'n Roses - Paradice City
+21. Guns 'n Roses - Paradice City
 22. Europe - Carrie
 23. Euritmycs - Sweet Dreams
 24. Survivor - Eye Of The Tiger
@@ -76,7 +76,11 @@ tags:
 
 <iframe width="1424" height="620" src="https://www.youtube.com/embed/BsrqKE1iqqo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-87.
+87. Depeche Mode - Personal Jesus
+
+<iframe width="1424" height="620" src="https://www.youtube.com/embed/u1xrNaTO1bI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+88.
 
 
 
