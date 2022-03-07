@@ -72,7 +72,10 @@ tags:
 83. Flock of Seagulls - I Ran
 84. Philip Bayley, Phil Collins - Easy Lover 
 85. Foghat - Slow Ride
-86.
+86. WAR - Low Rider 
+
+<iframe width="1424" height="620" src="https://www.youtube.com/embed/BsrqKE1iqqo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 87.
 
 
