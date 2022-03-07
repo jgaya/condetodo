@@ -70,7 +70,10 @@ tags:
 81. The Bangles - Walk Likke An Egypcian
 82. Blondie - One Way Or Another
 83. Flock of Seagulls - I Ran
-84.
-85.
+84. Philip Bayley, Phil Collins - Easy Lover 
+85. Foghat - Slow Ride
 86.
 87.
+
+
+
