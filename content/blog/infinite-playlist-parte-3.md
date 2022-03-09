@@ -12,10 +12,14 @@ tags:
 23. Euritmycs - Sweet Dreams
 24. Survivor - Eye Of The Tiger
 25. Toto - Africa
+
+<iframe width="1424" height="563" src="https://www.youtube.com/embed/FTQbiNvZqaY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 26. RICK ASTLEY - TOGETHER FOREVER 
 27. The Police - Every Breath you take
 28. The Police - Message In a Bottle
 29. Foreigner - I Want To Know What Love Is
+<iframe width="1424" height="563" src="https://www.youtube.com/embed/r3Pr1_v7hsw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 30. Tears For Fears - Everybody Wants To Rule The World
 31. Tears For Fears - Sowing the seeds of love
 32. Queen - Under Pressure
@@ -65,6 +69,7 @@ tags:
 73. Air Supply - All Out Of Love
 74. Bon Jovi - Wanted Dead Or Alive
 75. Men At Work - Who Can It Be Now?
+<iframe width="1424" height="563" src="https://www.youtube.com/embed/SECVGN4Bsgg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 76. Toto - Rosanna
 77. Toto - I'll be over you
 78. Bon Jovi - Runnaway
@@ -74,6 +79,9 @@ tags:
 82. Blondie - One Way Or Another
 83. Flock of Seagulls - I Ran
 84. Philip Bayley, Phil Collins - Easy Lover 
+
+<iframe width="1424" height="563" src="https://www.youtube.com/embed/JkRKT6T0QLg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 85. Foghat - Slow Ride
 86. WAR - Low Rider 
 
@@ -86,6 +94,18 @@ tags:
 88. The Police - Wrapped Around Your Finger
 
 <iframe width="1424" height="563" src="https://www.youtube.com/embed/svWINSRhQU0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+89. 10cc - I'm Not In Love
+
+<iframe width="1424" height="563" src="https://www.youtube.com/embed/STugQ0X1NoI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+90. REO Speedwagon - Can't Fight This Feeling
+
+<iframe width="1424" height="563" src="https://www.youtube.com/embed/zpOULjyy-n8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+91. Spandau Ballet - True 
+
+<iframe width="1424" height="563" src="https://www.youtube.com/embed/AR8D2yqgQ1U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 01) a-ha – Take on Me (85)(https://youtu.be/djV11Xbc914 – 1 BILLION views thanks, in part, to the mention made in 2018 of the video clip in “Ready Player One” by Spielberg)
 
@@ -159,7 +179,6 @@ tags:
 73) The Waterboys – The Whole Of The Moon (85)
 74) Then Jerico – Big Area (89)
 75) Tina Turner – Typical Male (86)
-76) Toto – Africa (82)
 77) U2 – I Still Haven’t Found What I’m Looking For (87)
 78) Wax – Right Between The Eyes (86)
 79) Wet Wet Wet – Sweet Little Mystery (87)
