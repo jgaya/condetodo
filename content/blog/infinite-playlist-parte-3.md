@@ -48,6 +48,8 @@ tags:
 59. Survivor - Burning Heart
 60. ZZ Top - Gimme All Your Lovin'
 61. Crowded House - Don't Dream It's Over
+
+<iframe width="1424" height="563" src="https://www.youtube.com/embed/J9gKyRmic20" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 62. Billy Joel - Uptown Girl
 63. Daryl Hall & John Oates - Maneater
 64. Billy Joel - We Didn't Start the Fire
@@ -56,6 +58,7 @@ tags:
 67. Dire Straits - Money For Nothing
 68. Paul Young - Everytime You Go Away
 69. Mr. Mister - Broken Wings
+<iframe width="1424" height="563" src="https://www.youtube.com/embed/nKhN1t_7PEY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 70. Guns 'n Roses - Welcome To The Jungle
 71. Whitesnake - Is This Love
 72. The Clash - Should I Stay or Should I Go
