@@ -84,10 +84,7 @@ tags:
 
 
 01) a-ha – Take on Me (85)(https://youtu.be/djV11Xbc914 – 1 BILLION views thanks, in part, to the mention made in 2018 of the video clip in “Ready Player One” by Spielberg)
-02) Alison Moyet – Love Resurrection (84)
-03) Aztec Camera – All I need is everything (84)
-04) Basia – Cruising for bruising (89)
-05) B-Movie – Nowhere Girl (80)
+
 06) Bruce Hornsby & The Range – The Way It Is (86)
 07) China Crisis – Working With Fire And Steel (83)
 08) Christopher Cross – Ride Like The Wind (80)
