@@ -65,19 +65,23 @@ tags:
 <iframe width="1424" height="563" src="https://www.youtube.com/embed/nKhN1t_7PEY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 70. Guns 'n Roses - Welcome To The Jungle
 71. Whitesnake - Is This Love
+<iframe width="1424" height="563" src="https://www.youtube.com/embed/GOJk0HW_hJw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 72. The Clash - Should I Stay or Should I Go
 73. Air Supply - All Out Of Love
 74. Bon Jovi - Wanted Dead Or Alive
 75. Men At Work - Who Can It Be Now?
 <iframe width="1424" height="563" src="https://www.youtube.com/embed/SECVGN4Bsgg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 76. Toto - Rosanna
+<iframe width="1424" height="563" src="https://www.youtube.com/embed/qmOLtTGvsbM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 77. Toto - I'll be over you
 78. Bon Jovi - Runnaway
 79. The Human League - Don't you want me
+<iframe width="1424" height="563" src="https://www.youtube.com/embed/uPudE8nDog0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 80. Whitesnake - Here I Go Again
 81. The Bangles - Walk Likke An Egypcian
 82. Blondie - One Way Or Another
 83. Flock of Seagulls - I Ran
+<iframe width="1424" height="563" src="https://www.youtube.com/embed/iIpfWORQWhU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 84. Philip Bayley, Phil Collins - Easy Lover 
 
 <iframe width="1424" height="563" src="https://www.youtube.com/embed/JkRKT6T0QLg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -106,6 +110,9 @@ tags:
 91. Spandau Ballet - True 
 
 <iframe width="1424" height="563" src="https://www.youtube.com/embed/AR8D2yqgQ1U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+92. Genesis - Jesus He Knows Me
+<iframe width="1424" height="563" src="https://www.youtube.com/embed/35K6vQRt67g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 01) a-ha – Take on Me (85)(https://youtu.be/djV11Xbc914 – 1 BILLION views thanks, in part, to the mention made in 2018 of the video clip in “Ready Player One” by Spielberg)
 
