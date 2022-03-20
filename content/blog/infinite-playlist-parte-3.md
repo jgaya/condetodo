@@ -858,9 +858,9 @@ Can't fight this feeling
 
 35. Spandau Ballet - True 
 
-## Album
+## Album True
 
-## Año
+## Año 1983
 
 <iframe width="1424" height="563" src="https://www.youtube.com/embed/AR8D2yqgQ1U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -868,13 +868,92 @@ Can't fight this feeling
 
 <details>
   <summary>Desplegar la letra de la cancion</summary>
+
+So true, funny how it seems
+Always in time, but never in line for dreams
+Head over heels when toe to toe
+This is the sound of my soul
+This is the sound
+
+I bought a ticket to the world
+But now I've come back again
+Why do I find it hard to write the next line?
+I want the truth to be said
+
+I, I-I-I, I
+I know this much is true
+I, I-I-I, I
+I know this much is true
+
+With a thrill in my head and a pill on my tongue
+Dissolve the nerves that have just begun
+Listening to Marvin (all night long)
+This is the sound of my soul
+This is the sound
+
+Always slipping from my hands
+Sand's a time of its own
+Take your seaside arms and write the next line
+I want the truth to be known
+
+I, I-I-I, I
+I know this much is true
+I, I-I-I, I
+I know this much is true, I know this much is true
+
+I bought a ticket to the world
+But now I've come back again
+Why do I find it hard to write the next line?
+I want the truth to be, I want the truth to be said
+
+I, I-I-I, I
+I know this much is true
+I, I-I-I, I
+I know this much is true, I know this much is true
+
+This much is true
+
+This much is true
+This much is true
+This much is true
+This much is true
+This much is true
+This much is true
+
+I, I-I-I, I, I
+Know this much is true
+I, I-I-I, I, I
+Know this much is true
+
+This much is true
+This much is true
+I know, I know, I know this much is true
+This much is true
+This much is true
+
+This much is true (I, I-I-I, I, I)
+This much is true
+I know this much is true
+
+This much is true (I, I-I-I, I, I)
+This much is true
+Know this much is true
+This much is true (I, I-I-I, I, I)
+This much is true
+Know this much is true
+I know, I know, I know this much is true
+
+This much is true (I, I-I-I, I, I)
+This much is true
+I know this much is true
+This much is true
 </details>
 
 36. Genesis - Jesus He Knows Me
 
-## Album
+## Album We Can't Dance 
 
-## Año
+## Año 1991
 
 <iframe width="1424" height="563" src="https://www.youtube.com/embed/35K6vQRt67g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -882,4 +961,87 @@ Can't fight this feeling
 
 <details>
   <summary>Desplegar la letra de la cancion</summary>
+
+D'you see the face on the TV screen
+Coming at you every Sunday
+See the face on the billboard
+That man is me
+
+On the cover of the magazine
+There's no question why I'm smiling
+You buy a piece of paradise
+You get a piece of me
+
+I'll get you everything you wanted
+I'll get you everything you need
+You don't need to believe in hereafter
+Just believe in me
+
+Cause Jesus, he knows me
+And he knows I'm right
+I've been talking to Jesus all my life
+Oh yes, he knows me
+And he knows I'm right
+And he's been telling me
+Everything's gonna be alright
+
+I believe in the family
+With my ever loving wife beside me
+But she don't know about my girlfriend
+Or the man I met last night
+
+Do you believe in God
+Cause that is what I'm selling
+And if you wanna get to heaven
+I'll see you arrive
+
+You won't even have to leave your house
+Or get out of your chair
+You don't even have to touch that dial
+Cause I'm everywhere
+
+And Jesus he knows me
+And he knows I'm right
+I've been talking to Jesus all my life
+Oh yes, he knows me
+And he knows I'm right
+Well, he's been telling me
+Everything's gonna be alright, alright
+
+Won't find me practicing what I'm preaching
+Won't find me making no sacrifice
+But I can get you a pocketful of miracles
+If you promise to be good, try to be nice
+God will take good care of you
+Just do as I say, don't do as I do
+
+I'm counting my blessings,
+Cause I've found true happiness
+Cause I'm getting richer, day by day
+You can find me in the phone book
+Just call my toll-free number
+You can do it anyway you want
+Just do it right away
+
+There'll be no doubt in your mind
+You'll believe everything I'm saying
+If wanna get closer to Him
+Get on your knees and start paying
+
+Cause Jesus, he knows me
+And he knows I'm right
+I've been talking to Jesus all my life
+Oh yes, he knows me
+And he knows I'm right
+Well, he's been telling me
+Everything's gonna be alright, alright
+
+Jesus, he knows me
+Yes, Jesus he knows me, ooh
+Jesus he knows me
+Yes, Jesus he knows me, ooh
+Jesus he knows me
+Jesus he knows me, ooh
+And he's been telling me
+Everything's gonna be alright
 </details>
