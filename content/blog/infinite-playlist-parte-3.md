@@ -332,9 +332,9 @@ Is this the love, that I've been searching for...
 
 26. Men At Work - Who Can It Be Now?
 
-## Album
+## Album Business as Usual
 
-## Año
+## Año 1990
 
 <iframe width="1424" height="563" src="https://www.youtube.com/embed/SECVGN4Bsgg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -342,13 +342,56 @@ Is this the love, that I've been searching for...
 
 <details>
   <summary>Desplegar la letra de la cancion</summary>
+
+Who can it be knocking at my door?
+Go 'way, don't come 'round here no more
+Can't you see that it's late at night?
+I'm very tired and I'm not feeling right
+All I wish is to be alone
+Stay away, don't you invade my home
+Best off if you hang outside
+Don't come in, I'll only run and hide
+
+Who can it be now?
+Who can it be now?
+Who can it be now?
+Who can it be now?
+
+Who can it be knocking at my door?
+Make no sound, tip-toe across the floor
+If he hears, he'll knock all day
+I'll be trapped and here I'll have to stay
+I've done no harm, I keep to myself
+There's nothing wrong with my state of mental health
+I like it here with my childhood friend
+Here they come, those feelings again!
+
+Who can it be now?
+Who can it be now?
+Who can it be now?
+Who can it be now?
+
+Is it the man come to take me away?
+Why do they follow me?
+It's not the future that I can see
+It's just my fantasy, yeah
+
+Ooh, who can it be now?
+Who can it be now?
+Who can it be now?
+Who can it be now?
+
+(Ooh ooh) Who can it be now?
+(Oh, wee oh) Who can it, Who can it
+(Ooh ooh) Who can it be now?
+(Ooh ooh wee) Yeah yeah yeah
 </details>
 
 27. The Human League - Don't you want me
 
-## Album
+## Album Dare
 
-## Año
+## Año 1981 
 
 <iframe width="1424" height="563" src="https://www.youtube.com/embed/uPudE8nDog0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -356,13 +399,75 @@ Is this the love, that I've been searching for...
 
 <details>
   <summary>Desplegar la letra de la cancion</summary>
+
+You were working as a waitress in a cocktail bar
+When I met you
+I picked you out, I shook you up
+And turned you around
+Turned you into someone new
+Now five years later on you've got the world at your feet
+Success has been so easy for you
+But don't forget it's me who put you where you are now
+And I can put you back down too
+
+Don't. Don't you want me?
+You know I can't believe it when I hear that you won't see me
+Don't. Don't you want me?
+You know I don't believe you when you say that you don't need me
+
+It's much too late to find
+When you think you've changed your mind
+You'd better change it back or we will both be sorry
+
+Don't you want me, baby?
+Don't you want me? Oh!
+Don't you want me, baby?
+Don't you want me? Oh!
+
+I was working as a waitress in a cocktail bar
+That much is true
+But even then I knew I'd find a much better place
+Either with or without you
+The five years we have had have been such good at times
+I still love you
+But now I think it's time I live my life on my own
+I guess it's just what I must do
+
+Don't. Don't you want me?
+You know I can't believe it when I hear that you won't see me
+Don't. Don't you want me?
+You know I don't believe you when you say that you don't need me
+
+It's much too late to find
+When you think you've changed your mind
+You'd better change it back or we will both be sorry
+
+Don't you want me, baby?
+Don't you want me? Oh!
+Don't you want me, baby?
+Don't you want me? Oh!
+
+Don't you want me, baby?
+Don't you want me? Oh!
+Don't you want me, baby?
+Don't you want me? Oh!
+
+Don't you want me, baby?
+Don't you want me? Oh!
+Don't you want me, baby?
+Don't you want me? Oh!
+
+Don't you want me, baby?
+Don't you want me? Oh!
+Don't you want me, baby?
+Don't you want me? Oh!
 </details>
 
 28. Flock of Seagulls - I Ran
 
-## Album
+## Album A Flock of Seagulls
 
-## Año
+## Año 1982
 
 <iframe width="1424" height="563" src="https://www.youtube.com/embed/iIpfWORQWhU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -370,13 +475,50 @@ Is this the love, that I've been searching for...
 
 <details>
   <summary>Desplegar la letra de la cancion</summary>
+
+I walked along the avenue
+I never thought I'd meet a girl like you
+Meet a girl like you
+
+With auburn hair and tawny eyes
+The kind of eyes that hypnotize me through
+Hypnotize me through
+
+And I ran, I ran so far away
+I just ran, I ran all night and day
+I couldn't get away
+
+A cloud appears above your head
+A beam of light comes shining down on you
+Shining down on you
+
+The cloud is moving nearer still
+Aurora Borealis comes in view
+Aurora comes in view
+
+And I ran, I ran so far away
+I just ran, I ran all night and day
+I couldn't get away
+
+Reached out a hand to touch your face
+You're slowly disappearing from my view
+Appearing from my view
+
+Reached out a hand to try again
+I'm floating in a beam of light with you
+A beam of light with you
+
+And I ran, I ran so far away
+I just ran, I ran all night and day
+And I ran, I ran so far away
+I just ran, I couldn't get away
 </details>
 
 29. Philip Bayley, Phil Collins - Easy Lover 
 
-## Album
+## Album Chinese Wall
 
-## Año
+## Año 1984
 
 <iframe width="1424" height="563" src="https://www.youtube.com/embed/JkRKT6T0QLg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -384,13 +526,96 @@ Is this the love, that I've been searching for...
 
 <details>
   <summary>Desplegar la letra de la cancion</summary>
+
+Easy lover
+She'll get a hold on you, believe it
+Like no other
+Before you know it you'll be on your knees
+
+She's an easy lover
+She'll take your heart but you won't feel it
+She's like no other
+And I'm just trying to make you see
+
+(She's the kind of girl you dream of)
+(Dream of keeping hold of)
+(You'd better forget it)
+(You'll never get it)
+
+(She will play around and leave you)
+(Leave you and deceive you)
+(You better forget it)
+(Oh, you'll regret it)
+
+No you'll never change her
+So leave her, leave her
+Get out quick 'cause seein' is believin'
+It's the only way you'll ever know, ohhh
+
+She's an easy lover
+She'll get a hold on you, believe it
+Like no other
+Before you know it, you'll be on your knees
+
+She's an easy lover
+She'll take your heart, but you won't feel it
+She's like no other
+And I'm just trying to make you see
+
+(You're the one that wants to hold her)
+(Hold her and control her)
+(You'd better forget it)
+(You'll never get it)
+
+(For she'll say that there's no other)
+('Til she finds another)
+(You'd better forget it)
+(Oh, you'll regret it)
+
+And don't try to change her
+Just leave her, leave her
+You're not the only one, 'cause seeing is believing
+It's the only way you'll ever know, ohhh
+(Ahh-ah, ahh-ah)
+
+Now don't try to change her
+Just leave her, leave her
+(You're not the only one) 'cause seeing is believing
+It's the only way you'll ever know, ohhh
+
+She's an easy lover
+She's an easy lover
+She'll get a hold on you, believe it
+She's like no other
+Before you know it you'll be on your knees
+You'll be down on your knees
+She's an easy lover
+She'll take your heart but you won't feel it
+She's like no other
+And I'm just trying to make you see
+Tryin' to make you see, yeah
+She's an easy lover
+She'll get a hold on you, believe it (Get a hold on you)
+And like no other
+Before you know it, you'll be on your knees
+You'll be on your knees
+(Yeah, yeah, yeah)
+She's an easy lover
+She'll take your heart but you won't feel it
+(You won't feel it)
+She's like no other
+And I'm just trying to make you see
+Tryin' to make you see
+She's an easy lover
+She'll get a hold on you, believe it
+She, she's like no other
 </details>
 
 30. WAR - Low Rider 
 
-## Album
+## Album  Why Can't We Be Friends?
 
-## Año
+## Año 1976
 
 <iframe width="1424" height="620" src="https://www.youtube.com/embed/BsrqKE1iqqo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -398,13 +623,29 @@ Is this the love, that I've been searching for...
 
 <details>
   <summary>Desplegar la letra de la cancion</summary>
+
+All my friends know the low rider
+The low rider is a little higher
+Low rider drives a little slower
+Low rider is a real goer
+
+Low rider knows every street, yeah!
+Low rider is the one to meet, yeah!
+
+Low rider don't use no gas now
+Low rider don't drive too fast
+
+Take a little trip, take a little trip
+Take a little trip and see
+Take a little trip, take a little trip
+Take a little trip with me
 </details>
 
 31. Depeche Mode - Personal Jesus
 
-## Album
+## Album Violator
 
-## Año
+## Año 1990
 
 <iframe width="1424" height="620" src="https://www.youtube.com/embed/u1xrNaTO1bI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -412,13 +653,52 @@ Is this the love, that I've been searching for...
 
 <details>
   <summary>Desplegar la letra de la cancion</summary>
+Reach out and touch faith
+
+Your own personal Jesus
+Someone to hear your prayers
+Someone who cares
+Your own personal Jesus
+Someone to hear your prayers
+Someone who's there
+
+Feeling unknown and you're all alone
+Flesh and bone by the telephone
+Lift up the receiver, I'll make you a believer
+Take second best, put me to the test
+Things on your chest, you need to confess
+I will deliver, you know I'm a forgiver
+
+Reach out and touch faith
+Reach out and touch faith
+
+Your own personal Jesus
+Someone to hear your prayers
+Someone who cares
+Your own personal Jesus
+Someone to hear your prayers
+Someone who's there
+
+Feeling unknown and you're all alone
+Flesh and bone by the telephone
+Lift up the receiver, I'll make you a believer
+I will deliver, you know I'm a forgiver
+
+Reach out and touch faith
+Your own personal Jesus
+
+Reach out and touch faith
+Reach out and touch faith
+Reach out and touch faith (Reach out, reach out)
+Reach out and touch faith
+Reach out and touch faith
 </details>
 
 32. The Police - Wrapped Around Your Finger
 
-## Album
+## Album The Police
 
-## Año
+## Año 1983
 
 <iframe width="1424" height="563" src="https://www.youtube.com/embed/svWINSRhQU0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -426,13 +706,42 @@ Is this the love, that I've been searching for...
 
 <details>
   <summary>Desplegar la letra de la cancion</summary>
+You consider me the young apprentice
+Caught between the Scylla and Charybdis
+Hypnotized by you if I should linger
+Staring at the ring around your finger
+
+I have only come here seeking knowledge
+Things they would not teach me of in college
+I can see that destiny you sold
+Turned into a shining band of gold
+
+I'll be wrapped around your finger
+I'll be wrapped around your finger
+
+Mephistopheles is not your name
+I know what you're up to, just the same
+I will listen hard to your tuition
+You will see it come to it's fruition
+
+I'll be wrapped around your finger
+I'll be wrapped around your finger
+
+Devil and the deep blue sea behind me
+Vanish in the air, you'll never find me
+I will turn your flesh to alabaster
+Then you'll find your servant is your master
+
+You'll be wrapped around my finger
+You'll be wrapped around my finger
+You'll be wrapped around my finger
 </details>
 
 33. 10cc - I'm Not In Love
 
-## Album
+## Album Tenology
 
-## Año
+## Año 1975
 
 <iframe width="1424" height="563" src="https://www.youtube.com/embed/STugQ0X1NoI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -440,13 +749,50 @@ Is this the love, that I've been searching for...
 
 <details>
   <summary>Desplegar la letra de la cancion</summary>
+
+I'm not in love
+So don't forget it
+It's just a silly phase I'm going through
+And just because
+I call you up
+Don't get me wrong, don't think you've got it made
+I'm not in love, no no, it's because..
+
+I like to see you
+But then again
+That doesn't mean you mean that much to me
+So if I call you
+Don't make a fuss
+Don't tell your friends about the two of us
+I'm not in love, no no, it's because..
+
+I keep your picture
+Upon the wall
+It hides a nasty stain that's lying there
+So don't you ask me
+To give it back
+I know you know it doesn't mean that much to me
+I'm not in love, no no, it's because..
+
+Ooh you'll wait a long time for me
+Ooh you'll wait a long time
+Ooh you'll wait a long time for me
+Ooh you'll wait a long time
+
+I'm not in love
+So don't forget it
+It's just a silly phase I'm going through
+And just because I call you up
+Don't get me wrong, don't think you've got it made
+I'm not in love
+I'm not in love
 </details>
 
 34. REO Speedwagon - Can't Fight This Feeling
 
-## Album
+## Album Wheels Are Turnin'
 
-## Año
+## Año 1984
 
 <iframe width="1424" height="563" src="https://www.youtube.com/embed/zpOULjyy-n8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -454,6 +800,60 @@ Is this the love, that I've been searching for...
 
 <details>
   <summary>Desplegar la letra de la cancion</summary>
+
+I can't fight this feeling any longer
+And yet I'm still afraid to let it flow
+What started out as friendship has grown stronger
+I only wish I had the strength to let it show
+
+I tell myself that I can't hold out forever
+I said there is no reason for my fear
+'Cause I feel so secure when we're together
+You give my life direction, you make everything so clear
+
+And even as I wander
+I'm keeping you in sight
+You're a candle in the window
+On a cold, dark winter's night
+And I'm getting closer than I ever thought I might
+
+And I can't fight this feeling anymore
+I've forgotten what I started fighting for
+It's time to bring this ship into the shore
+And throw away the oars forever
+
+'Cause I can't fight this feeling anymore
+I've forgotten what I started fighting for
+And if I have to crawl upon the floor
+Come crashing through your door
+Baby, I can't fight this feeling anymore
+
+My life has been such a whirlwind since I saw you
+I've been running 'round in circles in my mind
+And it always seems that I'm following you, girl
+'Cause you take me to the places that alone I'd never find
+
+And even as I wander
+I'm keeping you in sight
+You're a candle in the wind
+On a cold, dark winter's night
+And I'm getting closer than I ever thought I might
+
+And I can't fight this feeling anymore
+I've forgotten what I started fighting for
+It's time to bring this ship into the shore
+And throw away the oars forever
+
+Oh, and I can't fight this feeling anymore
+I've forgotten what I started fighting for
+And if I have to crawl upon the floor
+Come crashing through your door
+Baby, I can't fight this feeling anymore
+
+Ooh, I can't fight this feeling anymore, baby
+Ooh, ooh, ooh, ooh, yeah
+Thank you
+Can't fight this feeling
 </details>
 
 35. Spandau Ballet - True 
