@@ -1045,3 +1045,289 @@ Jesus he knows me, ooh
 And he's been telling me
 Everything's gonna be alright
 </details>
+
+37. The Turtles - Happy Together
+
+## Album Happy Together
+
+## Año 1967
+
+<iframe width="1424" height="563" src="https://www.youtube.com/embed/sq3awlDqAVo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Letra
+
+<details>
+  <summary>Desplegar la letra de la canción</summary>
+Imagine me and you, I do
+I think about you day and night, it's only right
+To think about the girl you love and hold her tight
+So happy together
+
+If I should call you up, invest a dime
+And say you belong to me and ease my mind
+Imagine how the world would be so very fine
+So happy together
+
+I can't see me lovin' nobody but you
+For all my life
+When you're with me, baby, the skies will be blue
+For all my life
+
+Me and you and you and me
+No matter how they toss the dice, it has to be
+The only one for me is you, and you for me,
+So happy together, so happy together
+
+I can't see me lovin' nobody but you
+For all my life
+When you're with me, baby, the skies will be blue
+For all my life
+
+Me and you and you and me
+No matter how they toss the dice, it has to be
+The only one for me is you, and you for me
+So happy together, so happy together
+
+Ba-ba-ba-ba ba-ba-ba-ba ba-ba-ba ba-ba-ba-ba
+Ba-ba-ba-ba ba-ba-ba-ba ba-ba-ba ba-ba-ba-ba
+
+Me and you and you and me
+No matter how they toss the dice, it has to be
+The only one for me is you, and you for me
+So happy together, so happy together
+
+So happy together
+How is the weather
+So happy together
+We're happy together
+So happy together
+Happy together
+So happy together
+So happy together (ba-ba-ba-ba ba-ba-ba-ba)
+</details>
+
+38. INXS – New Sensation
+
+## Album Kick
+
+## Año 1987
+
+<iframe width="1424" height="563" src="https://www.youtube.com/embed/azfG5H-pCVg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Letra
+
+<details>
+  <summary>Desplegar la letra de la canción</summary>
+Live, baby live
+Now that the day is over
+I gotta new sensation
+Mmm perfect moments
+But so impossible to refuse
+
+Sleep, baby sleep
+Now that the night is over
+And the sun comes
+Like a god, into our room
+All perfect light and promises
+
+Gotta hold on you
+A new sensation, (a new sensation)
+Right now
+It's gonna take you over
+A new sensation, (a new sensation)
+
+Dream, baby dream
+Of all that's come and going
+And you will find out, in the end
+There really is
+There really is no difference
+
+Huh!
+
+Cry, baby cry
+When you've got to get it out
+I'll be your shoulder
+You can tell me all
+Don't keep it in ya
+
+Well that's the reason why I'm here
+
+Hey, hey! Are you ready for
+A new sensation, (a new sensation)?
+Right now
+Gonna take you over
+(A new sensation, a new sensation) Trumpet!
+
+(A new sensation, a new sensation)
+Hey, hey, hey, hey... hey!
+
+(A new sensation)
+
+Hate, baby hate
+When there's nothing left for you
+You're only human, what can you do?
+It'll soon be over
+Don't let your pain take over you
+
+Love, baby love!
+It's written all over your face
+There's nothing better, we could do
+Than live forever
+Well that's all we've got to do
+
+Hey, now! (Uh-uh-uh) I'm gonna take you over
+A new sensation, (a new sensation)
+Right now
+I've gotta a hold on you, a new sensation,
+(A new sensation, a new sensation, a new sensation)
+Yeah!
+
+A new sensation
+
+</details>
+
+39. Meat Loaf - Bat Out Of Hell
+
+## Album  Bat Out Of Hell
+
+## Año 1977
+
+<iframe width="1424" height="563" src="https://www.youtube.com/embed/3QGMCSCFoKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Letra
+
+<details>
+  <summary>Desplegar la letra de la canción</summary>
+
+The sirens are screaming and the fires are howling,
+Way down in the valley tonight.
+There's a man in the shadows with a gun in his eye,
+And a blade shining oh so bright.
+There's evil in the air and there's thunder in sky,
+And A killer's on the bloodshot streets.
+Oh and down in the tunnel where the deadly are rising,
+Oh I swear I saw a young boy down in the gutter,
+He was starting to foam in the heat.
+
+
+Oh baby you're the only thing in this whole world,
+That's pure and good and right.
+And wherever you are and wherever you go,
+There's always gonna be some light.
+But I gotta get out,
+I gotta break it out now,
+Before the final crack of dawn.
+So we gotta make the most of our one night together.
+When it's over you know,
+We'll both be so alone.
+
+
+Like a bat out of hell
+I'll be gone when the morning comes.
+When the night is over
+Like a bat out of hell
+I'll be gone gone gone.
+Like a bat out of hell
+I'll be gone when the morning comes.
+But when the day is done and the sun goes down,
+And the moonlights shining through,
+Then like a sinner before the gates of heaven,
+I'll come crawling on back to you.
+
+
+I'm gonna hit the highway like a battering ram,
+On a silver black phantom bike.
+When the metal is hot and the engine is hungry,
+And we're all about to see the light.
+Nothing ever grows in this rotting old hole.
+Everything is stunted and lost.
+And nothing really rocks
+And nothing really rolls
+And nothing's ever worth the cost.
+
+
+And I know that I'm damned if I never get out,
+And maybe I'm damned if I do,
+But with every other beat I've got left in my heart,
+You know I'd rather be damned with you.
+If I gotta be damned you know I wanna be damned,
+Dancing through the night with you.
+If I gotta be damned you know I wanna be damned.
+Gotta be damned you know I wanna be damned.
+If I gotta be damned you know I wanna be damned,
+Dancing through the night
+Dancing through the night
+Dancing through the night with you.
+
+
+Oh baby you're the only thing in this whole world,
+That's pure and good and right.
+And wherever you are and wherever you go,
+There's always gonna be some light.
+But I gotta get out,
+I gotta break it out now,
+Before the final crack of dawn.
+So we gotta make the most of our one night together.
+When it's over you know,
+We'll both be so alone.
+Like a bat out of hell
+I'll be gone when the morning comes.
+When the night is over
+Like a bat out of hell
+I'll be gone gone gone.
+Like a bat out of hell
+I'll be gone when the morning comes.
+But when the day is done and the sun goes down,
+And the moonlights shining through,
+Then like a sinner before the gates of heaven,
+I'll come crawling on back to you.
+
+
+Oh I can see myself tearing up the road,
+Faster than any other boy has ever gone.
+And my skin is raw but my soul is ripe.
+No-one's gonna stop me now,
+I'm gonna make my escape.
+But I can't stop thinking of you,
+And I never see the sudden curve until it's way too late...
+And I never see the sudden curve 'till it's way too late.
+
+
+Then I'm dying at the bottom of a pit in the blazing sun.
+Torn and twisted at the foot of a burning bike.
+And I think somebody somewhere must be tolling a bell.
+
+
+And the last thing I see is my heart,
+Still beating,
+Breaking out of my body,
+And flying away,
+
+
+Like a bat out of hell.
+Then I'm dying at the bottom of a pit in the blazing sun.
+Torn and twisted at the foot of a burning bike.
+And I think somebody somewhere must be tolling a bell.
+And the last thing I see is my heart.
+Still beating, still beating,
+Breaking out of my body and flying away,
+Like a bat out of hell.
+Oh like a bat out of hell!
+Oh like a bat out of hell!
+Oh like a bat out of hell!
+Like a bat out of hell.
+Like a bat out of hell...
+</details>
+
+
+40.
+
+## Album
+
+## Año
+
+## Letra
+
+<details>
+  <summary>Desplegar la letra de la canción</summary>
+</details>
