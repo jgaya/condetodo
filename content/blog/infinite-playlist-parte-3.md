@@ -19,71 +19,82 @@ tags:
 
 <details>
    <summary>Desplegar la letra de la canción</summary>
-> I hear the drums echoing tonight
+
+>  I hear the drums echoing tonight
 >
-> But she hears only whispers of some quiet conversation
+>  But she hears only whispers of some quiet conversation
 >
-> She's coming in, 12:30 flight
+>  She's coming in, 12:30 flight
 >
-> The moonlit wings reflect the stars that guide me towards salvation
+>  The moonlit wings reflect the stars that guide me towards salvation
 >
-> I stopped an old man along the way
+>  I stopped an old man along the way
 >
-> Hoping to find some long forgotten words or ancient melodies
+>  Hoping to find some long forgotten words or ancient melodies
 >
-> He turned to me as if to say, "Hurry boy, it's waiting there for you"
+>  He turned to me as if to say, 
 >
-> It's gonna take a lot to take me away from you
+> "Hurry boy, it's waiting there for you"
 >
-> There's nothing that a hundred men or more could ever do
 >
-> I bless the rains down in Africa
 >
-> Gonna take some time to do the things we never had
+>  It's gonna take a lot to take me away from you
 >
-> The wild dogs cry out in the night
+>  There's nothing that a hundred men or more could ever do
 >
-> As they grow restless, longing for some solitary company
+>  I bless the rains down in Africa
 >
-> I know that I must do what's right
+>  Gonna take some time to do the things we never had
 >
-> As sure as Kilimanjaro rises like Olympus above the Serengeti
 >
-> I seek to cure what's deep inside
 >
-> Frightened of this thing that I've become
+>  The wild dogs cry out in the night
 >
-> It's gonna take a lot to drag me away from you
+>  As they grow restless, longing for some solitary company
 >
-> There's nothing that a hundred men or more could ever do
+>  I know that I must do what's right
 >
-> I bless the rains down in Africa
+>  As sure as Kilimanjaro rises like Olympus above the Serengeti
 >
-> Gonna take some time to do the things we never had
+>  I seek to cure what's deep inside
 >
-> Hurry boy, she's waiting there for you
+>  Frightened of this thing that I've become
 >
-> It's gonna take a lot to drag me away from you
 >
-> There's nothing that a hundred men or more could ever do
 >
-> I bless the rains down in Africa
+>  It's gonna take a lot to drag me away from you
 >
-> I bless the rains down in Africa
+>  There's nothing that a hundred men or more could ever do
 >
-> (I bless the rain)
+>  I bless the rains down in Africa
 >
-> I bless the rains down in Africa
+>  Gonna take some time to do the things we never had
 >
-> (I bless the rain)
+>  Hurry boy, she's waiting there for you
 >
-> I bless the rains down in Africa
 >
-> I bless the rains down in Africa
 >
-> (Ah, gonna take the time)
+>  It's gonna take a lot to drag me away from you
 >
-> Gonna take some time to do the things we never had
+>  There's nothing that a hundred men or more could ever do
+>
+>  I bless the rains down in Africa
+>
+>  I bless the rains down in Africa
+>
+>  (I bless the rain)
+>
+>  I bless the rains down in Africa
+>
+>  (I bless the rain)
+>
+>  I bless the rains down in Africa
+>
+>  I bless the rains down in Africa
+>
+>  (Ah, gonna take the time)
+>
+>  Gonna take some time to do the things we never had
 
 </details>
 
@@ -101,110 +112,101 @@ tags:
   <summary>Desplegar la letra de la canción</summary>
 
 > I've gotta take a little time
-> 
+>
 > A little time to think things over
-> 
+>
 > I better read between the lines
-> 
+>
 > In case I need it when I'm older
-> 
-> 
+>
 > This mountain, I must climb
-> 
+>
 > Feels like a world upon my shoulders
-> 
+>
 > Through the clouds, I see love shine
-> 
+>
 > Keeps me warm as life grows colder
-> 
-> 
+>
 > In my life, there's been heartache and pain
-> 
+>
 > I don't know if I can face it again
-> 
+>
 > Can't stop now, I've traveled so far
-> 
+>
 > To change this lonely life
-> 
-> 
+>
 > I wanna know what love is
-> 
+>
 > I want you to show me
-> 
+>
 > I wanna feel what love is
-> 
+>
 > I know you can show me (hey)
-> 
-> 
+>
 > Gotta take a little time
-> 
+>
 > Little time to look around me
-> 
+>
 > I've got nowhere left to hide
-> 
+>
 > Looks like love has finally found me
-> 
-> 
+>
 > In my life, there's been heartache and pain
-> 
+>
 > I don't know if I can face it again
-> 
+>
 > Can't stop now, I've traveled so far
-> 
+>
 > To change this lonely life
-> 
-> 
+>
 > I wanna know what love is
-> 
+>
 > I want you to show me
-> 
+>
 > I wanna feel what love is
-> 
+>
 > I know you can show me
-> 
-> 
+>
 > I wanna know what love is (I wanna know)
-> 
+>
 > I want you to show me (I wanna feel)
-> 
+>
 > I wanna feel what love is (I know, I know, and I know)
-> 
+>
 > I know you can show me
-> 
+>
 > Let's talk about love
-> 
-> 
+>
 > I wanna know what love is
-> 
+>
 > (Love that you feel inside)
-> 
+>
 > I want you to show me
-> 
+>
 > (I'm feeling so much love)
-> 
+>
 > I wanna feel what love is
-> 
+>
 > (And you know, you just can't hide)
-> 
+>
 > I know you can show me
-> 
+>
 > Oh, I wanna know what love is
-> 
+>
 > (Let's talk about love)
-> 
+>
 > I know you can show me
-> 
-> 
+>
 > (I wanna feel)
-
+>
 > I wanna feel what love is
-
+>
 > (And you know you just can't hide)
-
+>
 > I know you can show me
-
+>
 > I wanna feel what love is (oh, I wanna know)
-
+>
 > I want you to show me
 
 </details>
@@ -290,8 +292,7 @@ I find I spend my time Waiting on your call, How can I tell you, baby My back's 
 
 Is this love that I'm feeling, Is this the love, that I've been searching for Is this love or am I dreaming, This must be love, 'Cos it's really got a hold on me, A hold on me...
 
-I can't stop the feeling I've been this way before But, with you I've found the key To open any door I can feel my love for you Growing stronger day by day, An' I can't wait to see you again
-So I can hold you in my arms
+I can't stop the feeling I've been this way before But, with you I've found the key To open any door I can feel my love for you Growing stronger day by day, An' I can't wait to see you again So I can hold you in my arms
 
 Is this love that I'm feeling, Is this the love, that I've been searching for Is this love or am I dreaming, This must be love, 'Cos it's really got a hold on me, A hold on me...
 
@@ -312,13 +313,11 @@ Is this love that I'm feeling, Is this the love, that I've been searching for...
 <details>
   <summary>Desplegar la letra de la cancion</summary>
 
-Who can it be knocking at my door? Go 'way, don't come 'round here no more Can't you see that it's late at night? I'm very tired and I'm not feeling right All I wish is to be alone Stay away, don't you invade my home Best off if you hang outside
-Don't come in, I'll only run and hide
+Who can it be knocking at my door? Go 'way, don't come 'round here no more Can't you see that it's late at night? I'm very tired and I'm not feeling right All I wish is to be alone Stay away, don't you invade my home Best off if you hang outside Don't come in, I'll only run and hide
 
 Who can it be now? Who can it be now? Who can it be now? Who can it be now?
 
-Who can it be knocking at my door? Make no sound, tip-toe across the floor If he hears, he'll knock all day I'll be trapped and here I'll have to stay I've done no harm, I keep to myself There's nothing wrong with my state of mental health I like it here with my childhood friend
-Here they come, those feelings again!
+Who can it be knocking at my door? Make no sound, tip-toe across the floor If he hears, he'll knock all day I'll be trapped and here I'll have to stay I've done no harm, I keep to myself There's nothing wrong with my state of mental health I like it here with my childhood friend Here they come, those feelings again!
 
 Who can it be now? Who can it be now? Who can it be now? Who can it be now?
 
@@ -343,8 +342,7 @@ Ooh, who can it be now? Who can it be now? Who can it be now? Who can it be now?
 <details>
   <summary>Desplegar la letra de la cancion</summary>
 
-You were working as a waitress in a cocktail bar When I met you I picked you out, I shook you up And turned you around Turned you into someone new Now five years later on you've got the world at your feet Success has been so easy for you
-But don't forget it's me who put you where you are now
+You were working as a waitress in a cocktail bar When I met you I picked you out, I shook you up And turned you around Turned you into someone new Now five years later on you've got the world at your feet Success has been so easy for you But don't forget it's me who put you where you are now
 And I can put you back down too
 
 Don't. Don't you want me? You know I can't believe it when I hear that you won't see me Don't. Don't you want me? You know I don't believe you when you say that you don't need me
@@ -353,8 +351,7 @@ It's much too late to find When you think you've changed your mind You'd better 
 
 Don't you want me, baby? Don't you want me? Oh! Don't you want me, baby? Don't you want me? Oh!
 
-I was working as a waitress in a cocktail bar That much is true But even then I knew I'd find a much better place Either with or without you The five years we have had have been such good at times I still love you But now I think it's time I live my life on my own
-I guess it's just what I must do
+I was working as a waitress in a cocktail bar That much is true But even then I knew I'd find a much better place Either with or without you The five years we have had have been such good at times I still love you But now I think it's time I live my life on my own I guess it's just what I must do
 
 Don't. Don't you want me? You know I can't believe it when I hear that you won't see me Don't. Don't you want me? You know I don't believe you when you say that you don't need me
 
@@ -438,8 +435,7 @@ And don't try to change her Just leave her, leave her You're not the only one, '
 
 Now don't try to change her Just leave her, leave her (You're not the only one) 'cause seeing is believing It's the only way you'll ever know, ohhh
 
-She's an easy lover She's an easy lover She'll get a hold on you, believe it She's like no other Before you know it you'll be on your knees You'll be down on your knees She's an easy lover
-She'll take your heart but you won't feel it
+She's an easy lover She's an easy lover She'll get a hold on you, believe it She's like no other Before you know it you'll be on your knees You'll be down on your knees She's an easy lover She'll take your heart but you won't feel it
 She's like no other
 And I'm just trying to make you see
 Tryin' to make you see, yeah
@@ -687,8 +683,7 @@ There'll be no doubt in your mind You'll believe everything I'm saying If wanna 
 
 Cause Jesus, he knows me And he knows I'm right I've been talking to Jesus all my life Oh yes, he knows me And he knows I'm right Well, he's been telling me Everything's gonna be alright, alright
 
-Jesus, he knows me Yes, Jesus he knows me, ooh Jesus he knows me Yes, Jesus he knows me, ooh Jesus he knows me Jesus he knows me, ooh And he's been telling me
-Everything's gonna be alright
+Jesus, he knows me Yes, Jesus he knows me, ooh Jesus he knows me Yes, Jesus he knows me, ooh Jesus he knows me Jesus he knows me, ooh And he's been telling me Everything's gonna be alright
 
 </details>
 
@@ -723,8 +718,7 @@ Ba-ba-ba-ba ba-ba-ba-ba ba-ba-ba ba-ba-ba-ba Ba-ba-ba-ba ba-ba-ba-ba ba-ba-ba ba
 
 Me and you and you and me No matter how they toss the dice, it has to be The only one for me is you, and you for me So happy together, so happy together
 
-So happy together How is the weather So happy together We're happy together So happy together Happy together So happy together
-So happy together (ba-ba-ba-ba ba-ba-ba-ba)
+So happy together How is the weather So happy together We're happy together So happy together Happy together So happy together So happy together (ba-ba-ba-ba ba-ba-ba-ba)
 
 </details>
 
@@ -787,34 +781,28 @@ A new sensation
 <details>
   <summary>Desplegar la letra de la canción</summary>
 
-The sirens are screaming and the fires are howling, Way down in the valley tonight. There's a man in the shadows with a gun in his eye, And a blade shining oh so bright. There's evil in the air and there's thunder in sky, And A killer's on the bloodshot streets. Oh and down in the tunnel where the deadly are rising,
-Oh I swear I saw a young boy down in the gutter,
+The sirens are screaming and the fires are howling, Way down in the valley tonight. There's a man in the shadows with a gun in his eye, And a blade shining oh so bright. There's evil in the air and there's thunder in sky, And A killer's on the bloodshot streets. Oh and down in the tunnel where the deadly are rising, Oh I swear I saw a young boy down in the gutter,
 He was starting to foam in the heat.
 
-Oh baby you're the only thing in this whole world, That's pure and good and right. And wherever you are and wherever you go, There's always gonna be some light. But I gotta get out, I gotta break it out now, Before the final crack of dawn.
-So we gotta make the most of our one night together.
+Oh baby you're the only thing in this whole world, That's pure and good and right. And wherever you are and wherever you go, There's always gonna be some light. But I gotta get out, I gotta break it out now, Before the final crack of dawn. So we gotta make the most of our one night together.
 When it's over you know,
 We'll both be so alone.
 
-Like a bat out of hell I'll be gone when the morning comes. When the night is over Like a bat out of hell I'll be gone gone gone. Like a bat out of hell I'll be gone when the morning comes.
-But when the day is done and the sun goes down,
+Like a bat out of hell I'll be gone when the morning comes. When the night is over Like a bat out of hell I'll be gone gone gone. Like a bat out of hell I'll be gone when the morning comes. But when the day is done and the sun goes down,
 And the moonlights shining through,
 Then like a sinner before the gates of heaven,
 I'll come crawling on back to you.
 
-I'm gonna hit the highway like a battering ram, On a silver black phantom bike. When the metal is hot and the engine is hungry, And we're all about to see the light. Nothing ever grows in this rotting old hole. Everything is stunted and lost. And nothing really rocks
-And nothing really rolls
+I'm gonna hit the highway like a battering ram, On a silver black phantom bike. When the metal is hot and the engine is hungry, And we're all about to see the light. Nothing ever grows in this rotting old hole. Everything is stunted and lost. And nothing really rocks And nothing really rolls
 And nothing's ever worth the cost.
 
-And I know that I'm damned if I never get out, And maybe I'm damned if I do, But with every other beat I've got left in my heart, You know I'd rather be damned with you. If I gotta be damned you know I wanna be damned, Dancing through the night with you. If I gotta be damned you know I wanna be damned.
-Gotta be damned you know I wanna be damned.
+And I know that I'm damned if I never get out, And maybe I'm damned if I do, But with every other beat I've got left in my heart, You know I'd rather be damned with you. If I gotta be damned you know I wanna be damned, Dancing through the night with you. If I gotta be damned you know I wanna be damned. Gotta be damned you know I wanna be damned.
 If I gotta be damned you know I wanna be damned,
 Dancing through the night
 Dancing through the night
 Dancing through the night with you.
 
-Oh baby you're the only thing in this whole world, That's pure and good and right. And wherever you are and wherever you go, There's always gonna be some light. But I gotta get out, I gotta break it out now, Before the final crack of dawn.
-So we gotta make the most of our one night together.
+Oh baby you're the only thing in this whole world, That's pure and good and right. And wherever you are and wherever you go, There's always gonna be some light. But I gotta get out, I gotta break it out now, Before the final crack of dawn. So we gotta make the most of our one night together.
 When it's over you know,
 We'll both be so alone.
 Like a bat out of hell
@@ -829,15 +817,13 @@ And the moonlights shining through,
 Then like a sinner before the gates of heaven,
 I'll come crawling on back to you.
 
-Oh I can see myself tearing up the road, Faster than any other boy has ever gone. And my skin is raw but my soul is ripe. No-one's gonna stop me now, I'm gonna make my escape. But I can't stop thinking of you, And I never see the sudden curve until it's way too late...
-And I never see the sudden curve 'till it's way too late.
+Oh I can see myself tearing up the road, Faster than any other boy has ever gone. And my skin is raw but my soul is ripe. No-one's gonna stop me now, I'm gonna make my escape. But I can't stop thinking of you, And I never see the sudden curve until it's way too late... And I never see the sudden curve 'till it's way too late.
 
 Then I'm dying at the bottom of a pit in the blazing sun. Torn and twisted at the foot of a burning bike. And I think somebody somewhere must be tolling a bell.
 
 And the last thing I see is my heart, Still beating, Breaking out of my body, And flying away,
 
-Like a bat out of hell. Then I'm dying at the bottom of a pit in the blazing sun. Torn and twisted at the foot of a burning bike. And I think somebody somewhere must be tolling a bell. And the last thing I see is my heart. Still beating, still beating, Breaking out of my body and flying away,
-Like a bat out of hell.
+Like a bat out of hell. Then I'm dying at the bottom of a pit in the blazing sun. Torn and twisted at the foot of a burning bike. And I think somebody somewhere must be tolling a bell. And the last thing I see is my heart. Still beating, still beating, Breaking out of my body and flying away, Like a bat out of hell.
 Oh like a bat out of hell!
 Oh like a bat out of hell!
 Oh like a bat out of hell!
@@ -867,15 +853,11 @@ Like a bat out of hell...
 >
 > You know it's just your foolish pride.
 >
->
->
 > Layla, you've got me on my knees. 
 >
 > Layla, I'm begging, darling please. 
 >
 > Layla, darling won't you ease my worried mind.
->
->
 >
 > I tried to give you consolation 
 >
@@ -885,15 +867,11 @@ Like a bat out of hell...
 >
 > Turned my whole world upside down.
 >
->
->
 > Layla, you've got me on my knees. 
 >
 > Layla, I'm begging, darling please. 
 >
 > Layla, darling won't you ease my worried mind.
->
->
 >
 > Let's make the best of the situation 
 >
@@ -903,15 +881,11 @@ Like a bat out of hell...
 >
 > And tell me all my love's in vain.
 >
->
->
 > Layla, you've got me on my knees. 
 >
 > Layla, I'm begging, darling please. 
 >
 > Layla, darling won't you ease my worried mind.
->
->
 >
 > Layla, you've got me on my knees. 
 >
