@@ -119,6 +119,8 @@ tags:
 >
 > In case I need it when I'm older
 >
+>
+>
 > This mountain, I must climb
 >
 > Feels like a world upon my shoulders
@@ -127,6 +129,8 @@ tags:
 >
 > Keeps me warm as life grows colder
 >
+>
+>
 > In my life, there's been heartache and pain
 >
 > I don't know if I can face it again
@@ -134,6 +138,8 @@ tags:
 > Can't stop now, I've traveled so far
 >
 > To change this lonely life
+>
+>
 >
 > I wanna know what love is
 >
@@ -143,6 +149,8 @@ tags:
 >
 > I know you can show me (hey)
 >
+>
+>
 > Gotta take a little time
 >
 > Little time to look around me
@@ -150,6 +158,8 @@ tags:
 > I've got nowhere left to hide
 >
 > Looks like love has finally found me
+>
+>
 >
 > In my life, there's been heartache and pain
 >
@@ -159,6 +169,8 @@ tags:
 >
 > To change this lonely life
 >
+>
+>
 > I wanna know what love is
 >
 > I want you to show me
@@ -166,6 +178,8 @@ tags:
 > I wanna feel what love is
 >
 > I know you can show me
+>
+>
 >
 > I wanna know what love is (I wanna know)
 >
@@ -176,6 +190,8 @@ tags:
 > I know you can show me
 >
 > Let's talk about love
+>
+>
 >
 > I wanna know what love is
 >
@@ -190,6 +206,8 @@ tags:
 > (And you know, you just can't hide)
 >
 > I know you can show me
+>
+>
 >
 > Oh, I wanna know what love is
 >
