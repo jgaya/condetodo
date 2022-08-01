@@ -193,3 +193,7 @@ tags:
 169. Redbone - Come And Get Your Love
 
 <iframe width="1263" height="480" src="https://www.youtube.com/embed/Dj0drevGOgA" title="Redbone - Come And Get Your Love - LIVE 1974 The Midnight Special" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+170. Gotye - Somebody That I Used To Know (feat. Kimbra) 
+
+<iframe width="1263" height="480" src="https://www.youtube.com/embed/8UVNT4wvIGY" title="Gotye - Somebody That I Used To Know (feat. Kimbra) [Official Music Video]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
