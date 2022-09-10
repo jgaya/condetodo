@@ -7,9 +7,13 @@ description: Preguntas comunes y conceptos de ReactJs para tener en cuenta en en
 tags:
   - web
 ---
-## U﻿nidireccional Data Flow
+## ¿Q﻿ue es JSX?
 
-Basicmente es una forma de decir que la modificaion del DOM no modifica los valores del State de la applicacion. Si uno tiene un input cuyo valor es un state, para modificar el state hay que llamar al set state expresamente, y si no se hace la modificacion del Dom no se refleja en el state. La direccion de la informacion es simpre del state al dom  no al reves.
+E﻿s un extension sintáctica a JavaScript para poder escribir algo parecido a XML con las ventajas de JS como variables y funciones, debajo del capo todo el JSX se traduce a React.createElement en javascript puro.
+
+## Unidirectional Data Flow
+
+Básicamente es una forma de decir que la modificación del DOM no modifica los valores del State de la applicacion. Si uno tiene un input cuyo valor es un state, para modificar el state hay que llamar al set state expresamente, y si no se hace la modificacion del Dom no se refleja en el state. La direccion de la informacion es simpre del state al dom  no al reves.
 
 ```jsx
 import React from "react";
@@ -29,7 +33,7 @@ export default function App (){
 
 ## Virtual Dom
 
-E﻿l DOM (Document Object Model) es la representacion de todos los elementos HTML de la pagina web que hace el browser, el Virtual DOM es una copia de es te que React maneja, los cambios desde codigo se hacen en esa copia, y en el momento del render se comparan ambos y solo se renderizan donde  realmente haya cambios para lograr una mejor eficiencia al renderizar.
+E﻿l DOM (Document Object Model) es la representacion de todos los elementos HTML de la pagina web que hace el browser, el Virtual DOM es una copia de es te que React maneja, los cambios desde código se hacen en esa copia, y en el momento del render se comparan ambos y solo se renderizan donde  realmente haya cambios para lograr una mejor eficiencia al renderizar.
 
 ## H﻿igh Order Components (HOC)
 
@@ -131,7 +135,7 @@ root.render(<Component1 />);
 
 ## L﻿ife cycle method with hooks
 
-Antes de la programación funtional cuando los componetes eran declaros con clases teniamos metodos accesibles durente la vida del componente cuando estaba listo (montado) cuano iba a ser actualizdo, cuando fue actualizado y cuando iba a ser borrado. Solo nos vamos a enfocar en componentDidMount, componentDidUpdate  y componentWillUnmount [ya que los otros van a ser deprecados](https://reactjs.org/docs/react-component.html#unsafe_componentwillmount)
+Antes de la programación funcional cuando los componentes eran declarados con clases teniamos metodos accesibles durente la vida del componente cuando estaba listo (montado) cuando iba a ser actualizdo, cuando fue actualizado y cuando iba a ser borrado. Solo nos vamos a enfocar en componentDidMount, componentDidUpdate  y componentWillUnmount [ya que los otros van a ser deprecados](https://reactjs.org/docs/react-component.html#unsafe_componentwillmount)
 
 ### componentDidMount
 
