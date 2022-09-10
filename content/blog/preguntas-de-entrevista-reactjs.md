@@ -7,15 +7,33 @@ description: Preguntas comunes y conceptos de ReactJs para tener en cuenta en en
 tags:
   - web
 ---
-## V﻿irtual Dom
+## U﻿nidireccional Data Flow
+
+Basicmente es una forma de decir que la modificaion del DOM no modifica los valores del State de la applicacion. Si uno tiene un input cuyo valor es un state, para modificar el state hay que llamar al set state expresamente, y si no se hace la modificacion del Dom no se refleja en el state. La direccion de la informacion es simpre del state al dom  no al reves.
+
+```jsx
+import React from "react";
+
+export default function App (){
+   const [valor, setValor] = useState("");
+  
+  function handleChange(e){
+    // si aca no se ahce cambio en el state
+    // por mas que apretemos 1000 veces cualquier letra en
+    // el input no va a cambiar 
+  }
+  
+  return (<input value={valor} onChange={handleChange} /> );
+}
+```
+
+## Virtual Dom
 
 E﻿l DOM (Document Object Model) es la representacion de todos los elementos HTML de la pagina web que hace el browser, el Virtual DOM es una copia de es te que React maneja, los cambios desde codigo se hacen en esa copia, y en el momento del render se comparan ambos y solo se renderizan donde  realmente haya cambios para lograr una mejor eficiencia al renderizar.
 
 ## H﻿igh Order Components (HOC)
 
-U﻿n HOC es basicamente un componente que recibe otro y le agrega funcionalidad, metodos y/o estados que pueden ser comunes a varios estados y por eso se sacan a un componente propio. Es el equivalente a un mixin en otros lenguajes y frameworks. La convencion es que empiecen con with, como por ejemplo withRouter.\
-\
-<!--StartFragment-->
+U﻿n HOC es basicamente un componente que recibe otro y le agrega funcionalidad, metodos y/o estados que pueden ser comunes a varios estados y por eso se sacan a un componente propio. Es el equivalente a un mixin en otros lenguajes y frameworks. La convencion es que empiecen con with, como por ejemplo withRouter.
 
 ```jsx
 import React from "react";
@@ -42,4 +60,98 @@ class ShowTheLocation extends React.Component {
 const ShowTheLocationWithRouter = withRouter(ShowTheLocation);
 ```
 
-<!--EndFragment-->
+## H﻿ooks
+
+## C﻿ontexts
+
+### Prop drilling
+
+U﻿no de los probleas tipicos que nos encontramos al progamar en react es que pasa si tengo un estado que necesito en un componente que no directamente hijo del componente donde se define ese estado, y el nieto o bisnieto del mismo, para poder pasarle el estado debo pasarlo como prop a  mi hijo y este a su hijo hasta llegar al componente donde se si necestita, declrando pprop innecesarias para los componentes que no necestian el dato, este problema es conocido como prop drilling, es decir tenemos que taladrar componentes hasta llegar al componente que si usa el dato. 
+
+U﻿na de las formas de solucionar este problema y poder compartir estados con componentes que no estamos usando directamente son los contextos, en el siguiente ejemplo muy exagerado hay 5 niveles de componentes y al usar el contexto nos ahorramos de declarar las props para todos los intermedios que no usan ese dato, usando el hook useContext.
+
+```jsx
+import { useState, createContext, useContext } from "react";
+import ReactDOM from "react-dom/client";
+
+const UserContext = createContext(); //se crea el contexto 
+
+function Component1() {
+  const [user, setUser] = useState("Jesse Hall");
+
+  return (
+    <UserContext.Provider value={user}> // se define el proveedor de la informacion
+      <h1>{`Hello ${user}!`}</h1>
+      <Component2 />
+    </UserContext.Provider>
+  );
+}
+
+function Component2() {
+  return (
+    <>
+      <h1>Component 2</h1>
+      <Component3 />
+    </>
+  );
+}
+
+function Component3() {
+  return (
+    <>
+      <h1>Component 3</h1>
+      <Component4 />
+    </>
+  );
+}
+
+function Component4() {
+  return (
+    <>
+      <h1>Component 4</h1>
+      <Component5 />
+    </>
+  );
+}
+
+function Component5() {
+  const user = useContext(UserContext); //se define que se va a usar del contexto.
+
+  return (
+    <>
+      <h1>Component 5</h1>
+      <h2>{`Hello ${user} again!`}</h2>
+    </>
+  );
+}
+
+const root = ReactDOM.createRoot(document.getElementById('root'));
+root.render(<Component1 />);
+```
+
+## L﻿ife cycle method with hooks
+
+Antes de la programcion funtional cuando los componetes eran declaros con clases teniamos metodos accesibles durente la vida del componente cuando estaba listo (montado) cuano iba a ser actualizdo, cuando fue actualizado y cuando iba a ser borrado. Solo nos vamos a enfocar en componentDidMount, componentDidUpdate  y componentWillUnmount [ya que los otros van a ser deprecados](https://reactjs.org/docs/react-component.html#unsafe_componentwillmount)
+
+\#﻿## componentDidMount
+
+```jsx
+import React from "react";
+ //antes 
+class Component extends React.Component {
+  componentDidMount() {
+    console.log("Componente en el DOM");
+  }
+  render() {
+    return <h1>Hola mundo</h1>;
+  }
+};
+//ahora 
+import React, { useEffect } from "react";
+  const Component = () => {
+  useEffect(() => {
+    console.log("Componente en el DOM");
+  }, []); // Es clave este array vacio par solo se ejecute en la creacion.
+  return <h1>Hello World</h1>;
+};
+```
