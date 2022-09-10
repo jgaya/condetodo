@@ -33,7 +33,7 @@ export default function App (){
 }
 ```
 
-## Virtual Dom
+## ¿Q﻿ue es el Virtual Dom?
 
 E﻿l DOM (Document Object Model) es la representacion de todos los elementos HTML de la pagina web que hace el browser, el Virtual DOM es una copia de es te que React maneja, los cambios desde código se hacen en esa copia, y en el momento del render se comparan ambos y solo se renderizan donde  realmente haya cambios para lograr una mejor eficiencia al renderizar.
 
