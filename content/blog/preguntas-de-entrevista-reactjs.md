@@ -9,7 +9,9 @@ tags:
 ---
 ## ¿Q﻿ue es JSX?
 
-E﻿s un extension sintáctica a JavaScript para poder escribir algo parecido a XML con las ventajas de JS como variables y funciones, debajo del capo todo el JSX se traduce a React.createElement en javascript puro.
+E﻿s un extension sintáctica a JavaScript para poder escribir algo parecido a XML con las ventajas de JS como variables y funciones, debajo del capo todo el JSX se traduce a React.createElement en JavaScript puro.
+
+P﻿or eso es que se usa className en vez de class, ya que class es una palabra reservada en JavaScript y tira error al usarla.
 
 ## Unidirectional Data Flow
 
