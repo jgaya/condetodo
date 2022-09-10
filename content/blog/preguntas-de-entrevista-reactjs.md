@@ -131,9 +131,9 @@ root.render(<Component1 />);
 
 ## L﻿ife cycle method with hooks
 
-Antes de la programcion funtional cuando los componetes eran declaros con clases teniamos metodos accesibles durente la vida del componente cuando estaba listo (montado) cuano iba a ser actualizdo, cuando fue actualizado y cuando iba a ser borrado. Solo nos vamos a enfocar en componentDidMount, componentDidUpdate  y componentWillUnmount [ya que los otros van a ser deprecados](https://reactjs.org/docs/react-component.html#unsafe_componentwillmount)
+Antes de la programación funtional cuando los componetes eran declaros con clases teniamos metodos accesibles durente la vida del componente cuando estaba listo (montado) cuano iba a ser actualizdo, cuando fue actualizado y cuando iba a ser borrado. Solo nos vamos a enfocar en componentDidMount, componentDidUpdate  y componentWillUnmount [ya que los otros van a ser deprecados](https://reactjs.org/docs/react-component.html#unsafe_componentwillmount)
 
-\#﻿## componentDidMount
+### componentDidMount
 
 ```jsx
 import React from "react";
@@ -153,5 +153,64 @@ import React, { useEffect } from "react";
     console.log("Componente en el DOM");
   }, []); // Es clave este array vacio par solo se ejecute en la creacion.
   return <h1>Hello World</h1>;
+};
+```
+
+### componentDidUpdate
+
+```jsx
+//Antes
+import React from "react";
+ 
+class Component extends React.Component {
+  componentDidUpdate() {
+    console.log("El componente a recibir un nuevo state o props.");
+  }
+ 
+  render() {
+    return <h1>Hola mundo</h1>;
+  }
+};
+//Ahora 
+import React, { useEffect } from "react";
+ 
+const Component = () => {
+  useEffect(() => {
+    console.log("El componente a recibir un nuevo state o props.");
+  }); // a diferencia del anterior no tiene el array vacio
+      // se va a ejecutar en cada render.
+ 
+  return <h1>Hola mundo</h1>;
+};
+```
+
+### componentWillUnmount
+
+```jsx
+//Antes
+import React from "react";
+ 
+class Component extends React.Component {
+  componentWillUnmount() {
+    console.log("Justo antes de sacarlo del DOM.");
+  }
+
+  render() {
+    return <h1>Hola mundo</h1>;
+  }
+};
+//Ahora
+import React, { useEffect } from "react";
+ 
+const Component = () => {
+  useEffect(() => {
+    // Este return solo se ejecutara 
+    // al final de la vida del componente
+    return () => { 
+      console.log("Justo antes de sacarlo del DOM.");
+    }
+  }, []);
+ 
+  return <h1>Hola Mundo</h1>;
 };
 ```
